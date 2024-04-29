@@ -78,7 +78,7 @@ The files in this folder allow you to replicate the experiment in Section 5 of o
 >-l takes a string input that indicates the target language.
 >
 >The default target language is English.
->
+
 >Sample run: python evaluate_cleaned_version.py -l English
 >
 >To evaluate the results on other languages, replacing "English" in the sample run with the target language you want.
