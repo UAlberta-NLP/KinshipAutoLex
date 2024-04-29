@@ -3,19 +3,38 @@ This repository is for the paper Translation-based Lexicalization Generation and
 
 ## Paper Information
 
-### Title
+#### Title
 Translation-based Lexicalization Generation and Lexical Gap Detection: Application to Kinship Terms.
 
-### Year of publication
+#### Year of publication
 Under Review
 
-### Track of publication
+#### Track of publication
 
 Under Review
 
-### Authors
+#### Authors
 
-### Abstract
+Senyu Li, Bradley Hauer, Ning Shi, Grzegorz Kondrak
+
+#### Abstract
+Constructing lexicons with explicitly identified lexical gaps is a vital part of building multilingual lexical resources.
+Prior work has leveraged bilingual dictionaries and linguistic typologies for semi-automatic identification of lexical gaps. 
+Instead, we propose a generally-applicable algorithmic method 
+to automatically generate concept lexicalizations,
+which is based on machine translation 
+and hypernymy relations between concepts.
+The absence of a lexicalization implies a lexical gap. 
+We apply our method to kinship terms, 
+which make a suitable case study 
+because of their explicit definitions and regular structure. 
+Empirical evaluations demonstrate that our approach 
+yields higher accuracy than
+BabelNet
+and ChatGPT. 
+Our error analysis indicates 
+that enhancing the quality of translations 
+can further improve the accuracy of our method.
 
 
 ## Codes For Method
