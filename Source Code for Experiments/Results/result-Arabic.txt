@@ -1,0 +1,71 @@
+sibling        الأخوة        English        False        not filtered out
+grandchild        الحفيد        English        True        filter 4: new vertical filter
+brother's son        ابن الأخ        Mandarin        True        filter 1: multi word filter
+son's daughter        الحفيدة        Mandarin        True        filter 2: horizontal filter
+elder sister        الأخت        Mandarin        True        filter 2: horizontal filter
+daughter's son        الحفيد        Mandarin        True        filter 2: horizontal filter
+elder, daughter of mother's sibling        ابنة العم        Mandarin        True        filter 1: multi word filter
+sister's son        ابن الأخ        Mandarin        True        filter 1: multi word filter
+younger, daughter of father's brother        ابن العم        Mandarin        True        filter 1: multi word filter
+paternal grandmother        الجدة        Mandarin        True        filter 2: horizontal filter
+younger, daughter of mother's sibling        ابن العم        Mandarin        True        filter 1: multi word filter
+elder, son of father's brother        ابن عم        Mandarin        True        filter 1: multi word filter
+son's son        الحفيد        Mandarin        True        filter 2: horizontal filter
+sister's daughter        ابنة الأخت        Mandarin        True        filter 1: multi word filter
+younger sister        الأخت        Mandarin        True        filter 2: horizontal filter
+daughter's daughter        الحفيدة        Mandarin        True        filter 2: horizontal filter
+brother's daughter        ابنة الأخ        Mandarin        True        filter 1: multi word filter
+paternal grandfather        الجد        Mandarin        True        filter 2: horizontal filter
+maternal grandfather        الجد        Mandarin        True        filter 2: horizontal filter
+elder, son of mother's sibling        ابن عم        Mandarin        True        filter 1: multi word filter
+elder brother        الأخ        Mandarin        True        filter 2: horizontal filter
+maternal grandmother        الجدة        Mandarin        True        filter 2: horizontal filter
+elder, daughter of father's brother        ابن العم        Mandarin        True        filter 1: multi word filter
+younger brother        الأخ        Mandarin        True        filter 2: horizontal filter
+younger, son of father's brother        ابن العم        Mandarin        True        filter 1: multi word filter
+younger, son of mother's sibling        ابن العم        Mandarin        True        filter 1: multi word filter
+maternal aunt        العمة        Mandarin        True        filter 2: horizontal filter
+paternal aunt        العمة        Mandarin        True        filter 2: horizontal filter
+maternal uncle        العم        Mandarin        True        filter 2: horizontal filter
+paternal grandparent        الأجداد        Mandarin        True        filter 2: horizontal filter
+maternal grandparent        الأجداد        Mandarin        True        filter 2: horizontal filter
+father's younger brother        العم        Mandarin        True        filter 2: horizontal filter
+father's elder brother        العم        Mandarin        True        filter 2: horizontal filter
+cousin        ابن العم        English        True        filter 1: multi word filter
+grandson        الحفيد        English        False        not filtered out
+granddaughter        الحفيدة        English        False        not filtered out
+grandparent        الجد        English        True        filter 4: new vertical filter
+grandfather        الجد        English        False        not filtered out
+grandmother        الجدة        English        False        not filtered out
+nephew        ابن الأخ        English        True        filter 1: multi word filter
+niece        ابنة الأخت        English        True        filter 1: multi word filter
+uncle        العم        English        False        not filtered out
+aunt        العمة        English        False        not filtered out
+brother        الأخ        English        True        filter 3: back translation filter
+sister        الأخت        English        False        not filtered out
+paternal uncle        العم        Polish        True        filter 2: horizontal filter
+female cousin        ابنة العم        Spanish        True        filter 1: multi word filter
+male cousin        ابن العم        Spanish        True        filter 1: multi word filter
+son of father's brother        ابن العم        Persian        True        filter 1: multi word filter
+daughter of father's brother        ابن العم        Persian        True        filter 1: multi word filter
+son of father's sister        ابن العم        Persian        True        filter 1: multi word filter
+daughter of father's sister        ابن العم        Persian        True        filter 1: multi word filter
+son of mother's brother        ابن العم        Persian        True        filter 1: multi word filter
+daughter of mother's brother        الكنة        Persian        True        filter 3: back translation filter
+son of mother's sister        ابن العم        Persian        True        filter 1: multi word filter
+daughter of mother's sister        العمة        Persian        True        filter 3: back translation filter
+child of father's brother        ابن العم        Turkish        True        filter 1: multi word filter
+child of father's sister        ولد العمة        Turkish        True        filter 1: multi word filter
+child of mother's brother        ولد الخال        Turkish        True        filter 1: multi word filter
+child of mother's sister        ولد العمة        Turkish        True        filter 1: multi word filter
+nibling        ابن الأخ        Turkish        True        filter 1: multi word filter
+elder male cousin        ابن عم        Japanese        True        filter 1: multi word filter
+younger male cousin        ابن عم        Japanese        True        filter 1: multi word filter
+elder female cousin        ابن عم        Japanese        True        filter 1: multi word filter
+younger female cousin        ابنة عم        Japanese        True        filter 1: multi word filter
+son of parent's brother        ابن العم        Estonian        True        filter 1: multi word filter
+daughter of parent's brother        ابنة العم        Estonian        True        filter 1: multi word filter
+son of parent's sister        ابن العم        Estonian        True        filter 1: multi word filter
+daughter of parent's sister        ابنة الأخت        Estonian        True        filter 1: multi word filter
+younger sibling        الأخ الأصغر        Korean        True        filter 1: multi word filter
+elder sibling        الأخ الأكبر        Hungarian        True        filter 1: multi word filter

@@ -1,0 +1,71 @@
+sibling        सहोदर        English        False        not filtered out
+grandchild        पोता-पोता        English        False        not filtered out
+brother's son        भतीजा        Mandarin        True        filter 2: horizontal filter
+son's daughter        पोती        Mandarin        True        filter 2: horizontal filter
+elder sister        बहन        Mandarin        True        filter 2: horizontal filter
+daughter's son        पोता        Mandarin        True        filter 2: horizontal filter
+elder, daughter of mother's sibling        चचेरी बहन        Mandarin        True        filter 1: multi word filter
+sister's son        भतीजा        Mandarin        True        filter 2: horizontal filter
+younger, daughter of father's brother        चचेरी बहन        Mandarin        True        filter 1: multi word filter
+paternal grandmother        दादी        Mandarin        True        filter 2: horizontal filter
+younger, daughter of mother's sibling        चचेरी बहन        Mandarin        True        filter 1: multi word filter
+elder, son of father's brother        चचेरा भाई        Mandarin        True        filter 1: multi word filter
+son's son        पोता        Mandarin        True        filter 2: horizontal filter
+sister's daughter        भतीजी        Mandarin        True        filter 2: horizontal filter
+younger sister        बहन        Mandarin        True        filter 2: horizontal filter
+daughter's daughter        पोती        Mandarin        True        filter 2: horizontal filter
+brother's daughter        भतीजी        Mandarin        True        filter 2: horizontal filter
+paternal grandfather        दादाजी        Mandarin        True        filter 2: horizontal filter
+maternal grandfather        दादाजी        Mandarin        True        filter 2: horizontal filter
+elder, son of mother's sibling        चचेरा भाई        Mandarin        True        filter 1: multi word filter
+elder brother        भाई        Mandarin        True        filter 2: horizontal filter
+maternal grandmother        दादी        Mandarin        True        filter 2: horizontal filter
+elder, daughter of father's brother        चचेरी बहन        Mandarin        True        filter 1: multi word filter
+younger brother        भाई        Mandarin        True        filter 2: horizontal filter
+younger, son of father's brother        चचेरा भाई        Mandarin        True        filter 1: multi word filter
+younger, son of mother's sibling        चचेरा भाई        Mandarin        True        filter 1: multi word filter
+maternal aunt        चाची        Mandarin        True        filter 2: horizontal filter
+paternal aunt        चाची        Mandarin        True        filter 2: horizontal filter
+maternal uncle        चाचा        Mandarin        True        filter 2: horizontal filter
+paternal grandparent        दादा-दादी        Mandarin        True        filter 2: horizontal filter
+maternal grandparent        दादा-दादी        Mandarin        True        filter 2: horizontal filter
+father's younger brother        चाचा        Mandarin        True        filter 2: horizontal filter
+father's elder brother        चाचा        Mandarin        True        filter 2: horizontal filter
+cousin        चचेरा भाई        English        True        filter 1: multi word filter
+grandson        पोता        English        False        not filtered out
+granddaughter        पोती        English        False        not filtered out
+grandparent        दादा-दादी        English        True        filter 3: back translation filter
+grandfather        दादा        English        False        not filtered out
+grandmother        दादी        English        False        not filtered out
+nephew        भतीजा        English        False        not filtered out
+niece        भतीजी        English        False        not filtered out
+uncle        चाचा        English        False        not filtered out
+aunt        चाची        English        False        not filtered out
+brother        भाई        English        False        not filtered out
+sister        बहन        English        True        filter 3: back translation filter
+paternal uncle        चाचा        Polish        True        filter 2: horizontal filter
+female cousin        चचेरा भाई        Spanish        True        filter 1: multi word filter
+male cousin        चचेरा भाई        Spanish        True        filter 1: multi word filter
+son of father's brother        चचेरा भाई        Persian        True        filter 1: multi word filter
+daughter of father's brother        चचेरी बहन        Persian        True        filter 1: multi word filter
+son of father's sister        चचेरा भाई        Persian        True        filter 1: multi word filter
+daughter of father's sister        चचेरी बहन        Persian        True        filter 1: multi word filter
+son of mother's brother        चचेरा भाई        Persian        True        filter 1: multi word filter
+daughter of mother's brother        बहू        Persian        True        filter 3: back translation filter
+son of mother's sister        चचेरा भाई        Persian        True        filter 1: multi word filter
+daughter of mother's sister        मौसी        Persian        True        filter 3: back translation filter
+child of father's brother        चचेरा भाई        Turkish        True        filter 1: multi word filter
+child of father's sister        मौसी का बच्चा        Turkish        True        filter 1: multi word filter
+child of mother's brother        मामा की संतान        Turkish        True        filter 1: multi word filter
+child of mother's sister        मौसी का बच्चा        Turkish        True        filter 1: multi word filter
+nibling        भतीजा        Turkish        True        filter 4: new vertical filter
+elder male cousin        चचेरा भाई        Japanese        True        filter 1: multi word filter
+younger male cousin        चचेरा भाई        Japanese        True        filter 1: multi word filter
+elder female cousin        चचेरी बहन        Japanese        True        filter 1: multi word filter
+younger female cousin        चचेरी बहन        Japanese        True        filter 1: multi word filter
+son of parent's brother        चचेरा भाई        Estonian        True        filter 1: multi word filter
+daughter of parent's brother        चचेरा भाई        Estonian        True        filter 1: multi word filter
+son of parent's sister        चचेरा भाई        Estonian        True        filter 1: multi word filter
+daughter of parent's sister        भतीजी        Estonian        True        filter 3: back translation filter
+younger sibling        छोटा भाई        Korean        True        filter 1: multi word filter
+elder sibling        बड़ा भाई        Hungarian        True        filter 1: multi word filter

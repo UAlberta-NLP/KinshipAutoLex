@@ -1,0 +1,71 @@
+sibling        hermano        English        True        filter 3: back translation filter
+grandchild        nieto        English        True        filter 3: back translation filter
+brother's son        sobrino        Mandarin        True        filter 2: horizontal filter
+son's daughter        nieta        Mandarin        True        filter 2: horizontal filter
+elder sister        hermana        Mandarin        True        filter 2: horizontal filter
+daughter's son        nieto        Mandarin        True        filter 2: horizontal filter
+elder, daughter of mother's sibling        prima        Mandarin        True        filter 2: horizontal filter
+sister's son        sobrino        Mandarin        True        filter 2: horizontal filter
+younger, daughter of father's brother        prima        Mandarin        True        filter 2: horizontal filter
+paternal grandmother        abuela        Mandarin        True        filter 2: horizontal filter
+younger, daughter of mother's sibling        prima        Mandarin        True        filter 2: horizontal filter
+elder, son of father's brother        primo        Mandarin        True        filter 2: horizontal filter
+son's son        nieto        Mandarin        True        filter 2: horizontal filter
+sister's daughter        sobrina        Mandarin        True        filter 2: horizontal filter
+younger sister        hermana        Mandarin        True        filter 2: horizontal filter
+daughter's daughter        nieta        Mandarin        True        filter 2: horizontal filter
+brother's daughter        sobrina        Mandarin        True        filter 2: horizontal filter
+paternal grandfather        abuelo        Mandarin        True        filter 2: horizontal filter
+maternal grandfather        abuelo        Mandarin        True        filter 2: horizontal filter
+elder, son of mother's sibling        primo        Mandarin        True        filter 2: horizontal filter
+elder brother        hermano        Mandarin        True        filter 2: horizontal filter
+maternal grandmother        abuela        Mandarin        True        filter 2: horizontal filter
+elder, daughter of father's brother        prima        Mandarin        True        filter 2: horizontal filter
+younger brother        hermano        Mandarin        True        filter 2: horizontal filter
+younger, son of father's brother        primo        Mandarin        True        filter 2: horizontal filter
+younger, son of mother's sibling        primo        Mandarin        True        filter 2: horizontal filter
+maternal aunt        tía        Mandarin        True        filter 2: horizontal filter
+paternal aunt        tía        Mandarin        True        filter 2: horizontal filter
+maternal uncle        tío        Mandarin        True        filter 2: horizontal filter
+paternal grandparent        abuelos        Mandarin        True        filter 2: horizontal filter
+maternal grandparent        abuelos        Mandarin        True        filter 2: horizontal filter
+father's younger brother        tío        Mandarin        True        filter 2: horizontal filter
+father's elder brother        tío        Mandarin        True        filter 2: horizontal filter
+cousin        primo        English        True        filter 4: new vertical filter
+grandson        nieto        English        False        not filtered out
+granddaughter        nieta        English        False        not filtered out
+grandparent        abuelo        English        True        filter 3: back translation filter
+grandfather        abuelo        English        False        not filtered out
+grandmother        abuela        English        False        not filtered out
+nephew        sobrino        English        False        not filtered out
+niece        sobrina        English        False        not filtered out
+uncle        tío        English        False        not filtered out
+aunt        tía        English        False        not filtered out
+brother        hermano        English        False        not filtered out
+sister        hermana        English        False        not filtered out
+paternal uncle        tío        Polish        True        filter 2: horizontal filter
+female cousin        prima        Spanish        False        not filtered out
+male cousin        primo        Spanish        False        not filtered out
+son of father's brother        primo        Persian        True        filter 2: horizontal filter
+daughter of father's brother        prima        Persian        True        filter 2: horizontal filter
+son of father's sister        primo        Persian        True        filter 2: horizontal filter
+daughter of father's sister        prima        Persian        True        filter 2: horizontal filter
+son of mother's brother        primo        Persian        True        filter 2: horizontal filter
+daughter of mother's brother        nuera        Persian        True        filter 3: back translation filter
+son of mother's sister        primo        Persian        True        filter 2: horizontal filter
+daughter of mother's sister        tía        Persian        True        filter 3: back translation filter
+child of father's brother        primo        Turkish        True        filter 3: back translation filter
+child of father's sister        hijo de la tía        Turkish        True        filter 1: multi word filter
+child of mother's brother        hijo del tío materno        Turkish        True        filter 1: multi word filter
+child of mother's sister        hijo de la tía        Turkish        True        filter 1: multi word filter
+nibling        sobrino        Turkish        True        filter 4: new vertical filter
+elder male cousin        primo        Japanese        True        filter 2: horizontal filter
+younger male cousin        primo        Japanese        True        filter 2: horizontal filter
+elder female cousin        prima        Japanese        True        filter 2: horizontal filter
+younger female cousin        prima        Japanese        True        filter 2: horizontal filter
+son of parent's brother        primo        Estonian        True        filter 2: horizontal filter
+daughter of parent's brother        prima        Estonian        True        filter 3: back translation filter
+son of parent's sister        primo        Estonian        True        filter 2: horizontal filter
+daughter of parent's sister        sobrina        Estonian        True        filter 3: back translation filter
+younger sibling        hermano menor        Korean        True        filter 1: multi word filter
+elder sibling        hermano mayor        Hungarian        True        filter 1: multi word filter
