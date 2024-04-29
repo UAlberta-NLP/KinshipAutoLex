@@ -1,0 +1,72 @@
+Concept,Source language,Target Language,Source Word,Target Word,Query,Query translation
+sibling,English,Italian,sibling,fratello,sibling: brother or sister,fratello: fratello o sorella
+grandchild,English,Italian,grandchild,nipote,grandchild: child of son or daughter,nipote: figlio di figlio o figlia
+brother's son,Mandarin,Italian,侄子,nipote,侄子: 兄弟的儿子,nipote: figlio del fratello
+son's daughter,Mandarin,Italian,孙女,nipote,孙女: 儿子的女儿,nipote: figlia del figlio
+elder sister,Mandarin,Italian,姐姐,sorella,姐姐: 更年长的姐妹,sorella: sorella maggiore
+daughter's son,Mandarin,Italian,外孙,nipote,外孙: 女儿的儿子,nipote: figlio della figlia
+"elder, daughter of mother's sibling",Mandarin,Italian,表姐,cugina,表姐: 更年长的女性表亲,cugina: una cugina più anziana
+sister's son,Mandarin,Italian,外甥,nipote,外甥: 姐妹的儿子,nipote: figlio della sorella
+"younger, daughter of father's brother",Mandarin,Italian,堂妹,cugina,堂妹: 更年轻的女性堂亲,cugina: una cugina più giovane
+paternal grandmother,Mandarin,Italian,祖母,nonna,祖母: 爸爸的妈妈,nonna: la madre di papà
+"younger, daughter of mother's sibling",Mandarin,Italian,表妹,cugina,表妹: 更年轻的女性表亲,cugina: una cugina più giovane
+"elder, son of father's brother",Mandarin,Italian,堂哥,cugino,堂哥: 更年长的男性堂亲,cugino: cugino maschio più grande
+son's son,Mandarin,Italian,孙子,nipote,孙子: 儿子的儿子,nipote: figlio di figlio
+sister's daughter,Mandarin,Italian,甥女,nipote,甥女: 姐妹的女儿,nipote: figlia della sorella
+younger sister,Mandarin,Italian,妹妹,sorella,妹妹: 更年轻的姐妹,sorella: sorella minore
+daughter's daughter,Mandarin,Italian,外孙女,nipote,外孙女: 女儿的女儿,nipote: la figlia della figlia
+brother's daughter,Mandarin,Italian,侄女,nipote,侄女: 兄弟的女儿,nipote: figlia del fratello
+paternal grandfather,Mandarin,Italian,祖父,nonno,祖父: 爸爸的爸爸,nonno: il papà di papà
+maternal grandfather,Mandarin,Italian,外祖父,nonno,外祖父: 妈妈的爸爸,nonno: il papà di mamma
+"elder, son of mother's sibling",Mandarin,Italian,表哥,cugino,表哥: 更年长的男性表亲,cugino: cugino maschio più grande
+elder brother,Mandarin,Italian,哥哥,fratello,哥哥: 更年长的兄弟,fratello: il fratello maggiore
+maternal grandmother,Mandarin,Italian,外祖母,nonna,外祖母: 妈妈的妈妈,nonna: la madre di mamma
+"elder, daughter of father's brother",Mandarin,Italian,堂姐,cugina,堂姐: 更年长的女性堂亲,cugina: cugina più anziana
+younger brother,Mandarin,Italian,弟弟,fratello,弟弟: 更年幼的兄弟,fratello: fratello minore
+"younger, son of father's brother",Mandarin,Italian,堂弟,cugino,堂弟: 更年幼的男性堂亲,cugino: cugino maschio più giovane
+"younger, son of mother's sibling",Mandarin,Italian,表弟,cugino,表弟: 更年轻的男性表亲,cugino: cugino maschio più giovane
+maternal aunt,Mandarin,Italian,姨妈,zia,姨妈: 妈妈的姐妹,zia: sorella della madre
+paternal aunt,Mandarin,Italian,姑姑,zia,姑姑: 爸爸的姐妹,zia: la sorella di papà
+maternal uncle,Mandarin,Italian,舅舅,zio,舅舅: 妈妈的兄弟,zio: il fratello della mamma
+paternal grandparent,Mandarin,Italian,祖父母,nonni,祖父母: 爸爸的父母,nonni: i genitori di papà
+maternal grandparent,Mandarin,Italian,外祖父母,nonni,外祖父母: 妈妈的父母,nonni: i genitori della mamma
+father's younger brother,Mandarin,Italian,叔叔,zio,叔叔: 爸爸的弟弟,zio: il fratello minore di papà
+father's elder brother,Mandarin,Italian,伯伯,zio,伯伯: 爸爸的哥哥,zio: il fratello di papà
+cousin,English,Italian,cousin,cugino,cousin: child of your aunt or uncle,cugino: figlio di tua zia o di tuo zio
+grandson,English,Italian,grandson,nipote,grandson: male grandchild,nipote: nipote maschio
+granddaughter,English,Italian,granddaughter,nipote,granddaughter: female grandchild,nipote: nipote femmina
+grandparent,English,Italian,grandparent,nonno,grandparent: parent of your father or mother,nonno: genitore di tuo padre o tua madre
+grandfather,English,Italian,grandfather,nonno,grandfather: father of your father or mother,nonno: padre di tuo padre o di tua madre
+grandmother,English,Italian,grandmother,nonna,grandmother: mother of your father or mother,nonna: madre di tuo padre o di tua madre
+nephew,English,Italian,nephew,nipote,nephew: son of your brother or sister,nipote: figlio di tuo fratello o tua sorella
+niece,English,Italian,niece,nipote,niece: daughter of your brother or sister,nipote: figlia di tuo fratello o tua sorella
+uncle,English,Italian,uncle,zio,uncle: brother of your father or mother,zio: fratello di tuo padre o tua madre
+aunt,English,Italian,aunt,zia,aunt: sister of your father or mother,zia: sorella di tuo padre o tua madre
+brother,English,Italian,brother,fratello,brother: males with the same parents as you,fratello: maschi con i tuoi stessi genitori
+sister,English,Italian,sister,sorella,sister: females with the same parents as you,sorella: donne con i tuoi stessi genitori
+paternal uncle,Polish,Italian,stryjek,zio,stryjek: wujka ze strony ojca,zio: uno zio da parte di padre
+female cousin,Spanish,Italian,prima,cugina,prima: hija de tía o tío,cugina: figlia di zia o di zio
+male cousin,Spanish,Italian,primo,cugino,primo: hijo de tía o tío,cugino: figlio di zia o di zio
+son of father's brother,Persian,Italian,پسرعمو‎,cugino,پسرعمو‎: پسر برادر پدر‎,cugino: figlio del fratello del padre
+daughter of father's brother,Persian,Italian,دخترعمو‎,cugina,دخترعمو‎: دختر برادر پدر‎,cugina: figlia del fratello del padre
+son of father's sister,Persian,Italian,پسرعمه‎,cugino,پسرعمه‎: پسر خواهر پدر‎,cugino: figlio della sorella del padre
+daughter of father's sister,Persian,Italian,دخترعمه‎,cugina,دخترعمه‎: دختر خواهر پدر‎,cugina: figlia della sorella del padre
+son of mother's brother,Persian,Italian,پسردائی‎,cugino,پسردائی‎: پسر برادر مادر‎,cugino: figlio del fratello della madre
+daughter of mother's brother,Persian,Italian,دختردائی‎,nuora,دختردائی‎: دختر برادر مادر‎,nuora: figlia del fratello della madre
+son of mother's sister,Persian,Italian,پسرخاله‎,cugino,پسرخاله‎: پسر خواهر مادر‎,cugino: figlio della sorella della madre
+daughter of mother's sister,Persian,Italian,دخترخاله‎,zia,دخترخاله‎: دختر خواهر مادر‎,zia: figlia della sorella della madre
+child of father's brother,Turkish,Italian,amcaçocuğu,cugino,amcaçocuğu: babanın erkek kardeşinin çocuğu,cugino: figlio del fratello del padre
+child of father's sister,Turkish,Italian,halaçocuğu,figlio della zia,halaçocuğu: babanın kız kardeşinin çocuğu,figlio della zia: figlio della sorella del padre
+child of mother's brother,Turkish,Italian,dayıçocuğu,figlio dello zio materno,dayıçocuğu: annenin erkek kardeşinin çocuğu,figlio dello zio materno: figlio del fratello della madre
+child of mother's sister,Turkish,Italian,teyzeçocuğu,figlio della zia,teyzeçocuğu: annenin kız kardeşinin çocuğu,figlio della zia: figlio della sorella della madre
+nibling,Turkish,Italian,yeğen,nipote,yeğen: erkek veya kız kardeşinizin çocuğu,nipote: figlio di tuo fratello o tua sorella
+elder male cousin,Japanese,Italian,従兄,cugino,従兄: 年上の男性のいとこ,cugino: cugino maschio più grande
+younger male cousin,Japanese,Italian,従弟,cugino,従弟: 年下の男性のいとこ,cugino: cugino maschio più giovane
+elder female cousin,Japanese,Italian,従姉,cugina,従姉: 年上の女性のいとこ,cugina: cugina più anziana
+younger female cousin,Japanese,Italian,従妹,cugina,従妹: 年下の女性のいとこ,cugina: una cugina più giovane
+son of parent's brother,Estonian,Italian,onupoeg,cugino,onupoeg: lapsevanema venna poeg,cugino: figlio del fratello di un genitore
+daughter of parent's brother,Estonian,Italian,onutütar,cugina,onutütar: lapsevanema venna tütar,cugina: figlia del fratello di un genitore
+son of parent's sister,Estonian,Italian,tädipoeg,cugino,tädipoeg: lapsevanema õe poeg,cugino: figlio della sorella di un genitore
+daughter of parent's sister,Estonian,Italian,täditütar,nipote,täditütar: lapsevanema õe tütar,nipote: la figlia della sorella di un genitore
+younger sibling,Korean,Italian,동생,fratello minore,동생: 남동생이나여동생,fratello minore: fratello minore o sorella minore
+elder sibling,Hungarian,Italian,nagytestvér,fratello maggiore,nagytestvér: idősebb testvér vagy idősebb nővér,fratello maggiore: fratello maggiore o sorella maggiore

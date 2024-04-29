@@ -1,0 +1,72 @@
+Concept,Result
+sibling,Success
+grandchild,Fail
+brother's son,Success
+son's daughter,Success
+elder sister,Success
+daughter's son,Success
+"elder, daughter of mother's sibling",Success
+sister's son,Success
+"younger, daughter of father's brother",Success
+paternal grandmother,Success
+"younger, daughter of mother's sibling",Success
+"elder, son of father's brother",Success
+son's son,Success
+sister's daughter,Success
+younger sister,Success
+daughter's daughter,Success
+brother's daughter,Success
+paternal grandfather,Success
+maternal grandfather,Success
+"elder, son of mother's sibling",Success
+elder brother,Success
+maternal grandmother,Success
+"elder, daughter of father's brother",Success
+younger brother,Success
+"younger, son of father's brother",Success
+"younger, son of mother's sibling",Success
+maternal aunt,Success
+paternal aunt,Success
+maternal uncle,Success
+paternal grandparent,Success
+maternal grandparent,Success
+father's younger brother,Success
+father's elder brother,Success
+cousin,Success
+grandson,Success
+granddaughter,Success
+grandparent,Fail
+grandfather,Success
+grandmother,Success
+nephew,Success
+niece,Success
+uncle,Success
+aunt,Success
+brother,Success
+sister,Success
+paternal uncle,Fail
+female cousin,Success
+male cousin,Success
+son of father's brother,Fail
+daughter of father's brother,Fail
+son of father's sister,Fail
+daughter of father's sister,Fail
+son of mother's brother,Fail
+daughter of mother's brother,Fail
+son of mother's sister,Fail
+daughter of mother's sister,Fail
+child of father's brother,Fail
+child of father's sister,Fail
+child of mother's brother,Fail
+child of mother's sister,Fail
+nibling,Success
+elder male cousin,Fail
+younger male cousin,Fail
+elder female cousin,Fail
+younger female cousin,Fail
+son of parent's brother,Fail
+daughter of parent's brother,Fail
+son of parent's sister,Fail
+daughter of parent's sister,Fail
+younger sibling,Fail
+elder sibling,Fail

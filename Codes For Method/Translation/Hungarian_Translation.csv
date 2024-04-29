@@ -1,0 +1,72 @@
+Concept,Source language,Target Language,Source Word,Target Word,Query,Query translation
+sibling,English,Hungarian,sibling,testvér,sibling: brother or sister,testvér: testvér vagy testvér
+grandchild,English,Hungarian,grandchild,unoka,grandchild: child of son or daughter,unoka: fia vagy lánya gyermeke
+brother's son,Mandarin,Hungarian,侄子,unokaöccs,侄子: 兄弟的儿子,unokaöccs: testvér fia
+son's daughter,Mandarin,Hungarian,孙女,unokája,孙女: 儿子的女儿,unokája: fiú lánya
+elder sister,Mandarin,Hungarian,姐姐,nővére,姐姐: 更年长的姐妹,nővére: idősebb nővér
+daughter's son,Mandarin,Hungarian,外孙,unoka,外孙: 女儿的儿子,unoka: a lánya fia
+"elder, daughter of mother's sibling",Mandarin,Hungarian,表姐,unokatestvére,表姐: 更年长的女性表亲,unokatestvére: idősebb női unokatestvér
+sister's son,Mandarin,Hungarian,外甥,unokaöccse,外甥: 姐妹的儿子,unokaöccse: nővér fia
+"younger, daughter of father's brother",Mandarin,Hungarian,堂妹,unokatestvére,堂妹: 更年轻的女性堂亲,unokatestvére: egy fiatalabb nő unokatestvére
+paternal grandmother,Mandarin,Hungarian,祖母,nagymama,祖母: 爸爸的妈妈,nagymama: apa anyja
+"younger, daughter of mother's sibling",Mandarin,Hungarian,表妹,unokatestvére,表妹: 更年轻的女性表亲,unokatestvére: egy fiatalabb nő unokatestvére
+"elder, son of father's brother",Mandarin,Hungarian,堂哥,unokatestvér,堂哥: 更年长的男性堂亲,unokatestvér: egy idősebb férfi unokatestvér
+son's son,Mandarin,Hungarian,孙子,unokája,孙子: 儿子的儿子,unokája: fia fia
+sister's daughter,Mandarin,Hungarian,甥女,unokahúga,甥女: 姐妹的女儿,unokahúga: nővér lánya
+younger sister,Mandarin,Hungarian,妹妹,nővére,妹妹: 更年轻的姐妹,nővére: húga
+daughter's daughter,Mandarin,Hungarian,外孙女,unokája,外孙女: 女儿的女儿,unokája: lánya lánya
+brother's daughter,Mandarin,Hungarian,侄女,unokahúga,侄女: 兄弟的女儿,unokahúga: a testvér lánya
+paternal grandfather,Mandarin,Hungarian,祖父,nagyapa,祖父: 爸爸的爸爸,nagyapa: apa apja
+maternal grandfather,Mandarin,Hungarian,外祖父,nagyapa,外祖父: 妈妈的爸爸,nagyapa: anya apja
+"elder, son of mother's sibling",Mandarin,Hungarian,表哥,unokatestvér,表哥: 更年长的男性表亲,unokatestvér: egy idősebb férfi unokatestvér
+elder brother,Mandarin,Hungarian,哥哥,testvér,哥哥: 更年长的兄弟,testvér: az idősebb testvér
+maternal grandmother,Mandarin,Hungarian,外祖母,nagymama,外祖母: 妈妈的妈妈,nagymama: anya anyja
+"elder, daughter of father's brother",Mandarin,Hungarian,堂姐,unokatestvére,堂姐: 更年长的女性堂亲,unokatestvére: egy idősebb nő unokatestvére
+younger brother,Mandarin,Hungarian,弟弟,testvér,弟弟: 更年幼的兄弟,testvér: öccs
+"younger, son of father's brother",Mandarin,Hungarian,堂弟,unokatestvére,堂弟: 更年幼的男性堂亲,unokatestvére: egy fiatalabb férfi unokatestvér
+"younger, son of mother's sibling",Mandarin,Hungarian,表弟,unokatestvére,表弟: 更年轻的男性表亲,unokatestvére: egy fiatalabb férfi unokatestvér
+maternal aunt,Mandarin,Hungarian,姨妈,néni,姨妈: 妈妈的姐妹,néni: anyja nővére
+paternal aunt,Mandarin,Hungarian,姑姑,nagynéni,姑姑: 爸爸的姐妹,nagynéni: apu nővére
+maternal uncle,Mandarin,Hungarian,舅舅,bácsi,舅舅: 妈妈的兄弟,bácsi: anya testvére
+paternal grandparent,Mandarin,Hungarian,祖父母,nagyszülők,祖父母: 爸爸的父母,nagyszülők: apa szülei
+maternal grandparent,Mandarin,Hungarian,外祖父母,nagyszülők,外祖父母: 妈妈的父母,nagyszülők: anya szülei
+father's younger brother,Mandarin,Hungarian,叔叔,bácsi,叔叔: 爸爸的弟弟,bácsi: apa öccse
+father's elder brother,Mandarin,Hungarian,伯伯,bácsi,伯伯: 爸爸的哥哥,bácsi: apu testvére
+cousin,English,Hungarian,cousin,unokatestvér,cousin: child of your aunt or uncle,unokatestvér: nagynénje vagy nagybátyja gyermeke
+grandson,English,Hungarian,grandson,unokája,grandson: male grandchild,unokája: férfi unoka
+granddaughter,English,Hungarian,granddaughter,unokája,granddaughter: female grandchild,unokája: leányunoka
+grandparent,English,Hungarian,grandparent,nagyszülő,grandparent: parent of your father or mother,nagyszülő: apád vagy anyád szülője
+grandfather,English,Hungarian,grandfather,nagyapa,grandfather: father of your father or mother,nagyapa: apád vagy anyád apja
+grandmother,English,Hungarian,grandmother,nagymama,grandmother: mother of your father or mother,nagymama: apád vagy anyád anyja
+nephew,English,Hungarian,nephew,unokaöccse,nephew: son of your brother or sister,unokaöccse: a testvéred fia
+niece,English,Hungarian,niece,unokahúga,niece: daughter of your brother or sister,unokahúga: a testvéred lánya
+uncle,English,Hungarian,uncle,bácsi,uncle: brother of your father or mother,bácsi: apád vagy anyád testvére
+aunt,English,Hungarian,aunt,nagynéni,aunt: sister of your father or mother,nagynéni: apád vagy anyád nővére
+brother,English,Hungarian,brother,testvér,brother: males with the same parents as you,"testvér: olyan férfiak, akiknek ugyanazok a szülei, mint te"
+sister,English,Hungarian,sister,nővér,sister: females with the same parents as you,"nővér: nőstények, akiknek ugyanazok a szülei, mint te"
+paternal uncle,Polish,Hungarian,stryjek,bácsi,stryjek: wujka ze strony ojca,bácsi: apai nagybátyja
+female cousin,Spanish,Hungarian,prima,unokatestvére,prima: hija de tía o tío,unokatestvére: nagynéni vagy nagybácsi lánya
+male cousin,Spanish,Hungarian,primo,unokatestvér,primo: hijo de tía o tío,unokatestvér: nagynéni vagy nagybácsi fia
+son of father's brother,Persian,Hungarian,پسرعمو‎,unokatestvére,پسرعمو‎: پسر برادر پدر‎,unokatestvére: apa testvérének fia
+daughter of father's brother,Persian,Hungarian,دخترعمو‎,unokatestvére,دخترعمو‎: دختر برادر پدر‎,unokatestvére: apa bátyjának lánya
+son of father's sister,Persian,Hungarian,پسرعمه‎,unokatestvére,پسرعمه‎: پسر خواهر پدر‎,unokatestvére: apa nővére fia
+daughter of father's sister,Persian,Hungarian,دخترعمه‎,unokatestvére,دخترعمه‎: دختر خواهر پدر‎,unokatestvére: apa nővére lánya
+son of mother's brother,Persian,Hungarian,پسردائی‎,unokatestvére,پسردائی‎: پسر برادر مادر‎,unokatestvére: anyja testvérének fia
+daughter of mother's brother,Persian,Hungarian,دختردائی‎,meny,دختردائی‎: دختر برادر مادر‎,meny: anyja testvérének lánya
+son of mother's sister,Persian,Hungarian,پسرخاله‎,unokatestvére,پسرخاله‎: پسر خواهر مادر‎,unokatestvére: anya nővére fia
+daughter of mother's sister,Persian,Hungarian,دخترخاله‎,nagynéni,دخترخاله‎: دختر خواهر مادر‎,nagynéni: anya nővére lánya
+child of father's brother,Turkish,Hungarian,amcaçocuğu,unokatestvére,amcaçocuğu: babanın erkek kardeşinin çocuğu,unokatestvére: apja testvérének gyermeke
+child of father's sister,Turkish,Hungarian,halaçocuğu,néni gyermeke,halaçocuğu: babanın kız kardeşinin çocuğu,néni gyermeke: apa nővére gyermeke
+child of mother's brother,Turkish,Hungarian,dayıçocuğu,anyai nagybátyja gyermeke,dayıçocuğu: annenin erkek kardeşinin çocuğu,anyai nagybátyja gyermeke: anyja testvérének gyermeke
+child of mother's sister,Turkish,Hungarian,teyzeçocuğu,néni gyermeke,teyzeçocuğu: annenin kız kardeşinin çocuğu,néni gyermeke: anyja nővére gyermeke
+nibling,Turkish,Hungarian,yeğen,unokaöccse,yeğen: erkek veya kız kardeşinizin çocuğu,unokaöccse: testvéred gyermeke
+elder male cousin,Japanese,Hungarian,従兄,unokatestvére,従兄: 年上の男性のいとこ,unokatestvére: idősebb férfi unokatestvér
+younger male cousin,Japanese,Hungarian,従弟,unokatestvér,従弟: 年下の男性のいとこ,unokatestvér: egy fiatalabb férfi unokatestvér
+elder female cousin,Japanese,Hungarian,従姉,unokatestvére,従姉: 年上の女性のいとこ,unokatestvére: idősebb női unokatestvér
+younger female cousin,Japanese,Hungarian,従妹,unokatestvére,従妹: 年下の女性のいとこ,unokatestvére: egy fiatalabb női unokatestvér
+son of parent's brother,Estonian,Hungarian,onupoeg,unokatestvér,onupoeg: lapsevanema venna poeg,unokatestvér: a szülő testvérének fia
+daughter of parent's brother,Estonian,Hungarian,onutütar,unokatestvére,onutütar: lapsevanema venna tütar,unokatestvére: a szülő testvérének a lánya
+son of parent's sister,Estonian,Hungarian,tädipoeg,unokatestvére,tädipoeg: lapsevanema õe poeg,unokatestvére: egy szülő nővérének fia
+daughter of parent's sister,Estonian,Hungarian,täditütar,unokahúga,täditütar: lapsevanema õe tütar,unokahúga: egy szülő nővérének lánya
+younger sibling,Korean,Hungarian,동생,öcsi,동생: 남동생이나여동생,öcsi: öccse vagy húga
+elder sibling,Hungarian,Hungarian,nagytestvér,nagytestvér,nagytestvér: idősebb testvér vagy idősebb nővér,nagytestvér: idősebb testvér vagy idősebb nővér

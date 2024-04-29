@@ -1,0 +1,72 @@
+Concept,Source language,Target Language,Source Word,Target Word,Query,Query translation
+sibling,English,German,sibling,geschwister,sibling: brother or sister,geschwister: bruder oder schwester
+grandchild,English,German,grandchild,enkel,grandchild: child of son or daughter,enkel: kind eines sohnes oder einer tochter
+brother's son,Mandarin,German,侄子,neffe,侄子: 兄弟的儿子,neffe: sohn des bruders
+son's daughter,Mandarin,German,孙女,enkelin,孙女: 儿子的女儿,enkelin: tochter des sohnes
+elder sister,Mandarin,German,姐姐,schwester,姐姐: 更年长的姐妹,schwester: ältere schwester
+daughter's son,Mandarin,German,外孙,enkel,外孙: 女儿的儿子,enkel: sohn der tochter
+"elder, daughter of mother's sibling",Mandarin,German,表姐,cousine,表姐: 更年长的女性表亲,cousine: eine ältere cousine
+sister's son,Mandarin,German,外甥,neffe,外甥: 姐妹的儿子,neffe: sohn der schwester
+"younger, daughter of father's brother",Mandarin,German,堂妹,cousine,堂妹: 更年轻的女性堂亲,cousine: eine jüngere cousine
+paternal grandmother,Mandarin,German,祖母,großmutter,祖母: 爸爸的妈妈,großmutter: papas mutter
+"younger, daughter of mother's sibling",Mandarin,German,表妹,cousine,表妹: 更年轻的女性表亲,cousine: eine jüngere cousine
+"elder, son of father's brother",Mandarin,German,堂哥,cousin,堂哥: 更年长的男性堂亲,cousin: ein älterer männlicher cousin
+son's son,Mandarin,German,孙子,enkel,孙子: 儿子的儿子,enkel: sohn des sohnes
+sister's daughter,Mandarin,German,甥女,nichte,甥女: 姐妹的女儿,nichte: tochter der schwester
+younger sister,Mandarin,German,妹妹,schwester,妹妹: 更年轻的姐妹,schwester: jüngere schwester
+daughter's daughter,Mandarin,German,外孙女,enkelin,外孙女: 女儿的女儿,enkelin: tochter der tochter
+brother's daughter,Mandarin,German,侄女,nichte,侄女: 兄弟的女儿,nichte: tochter des bruders
+paternal grandfather,Mandarin,German,祖父,großvater,祖父: 爸爸的爸爸,großvater: papas vater
+maternal grandfather,Mandarin,German,外祖父,großvater,外祖父: 妈妈的爸爸,großvater: mamas vater
+"elder, son of mother's sibling",Mandarin,German,表哥,cousin,表哥: 更年长的男性表亲,cousin: ein älterer männlicher cousin
+elder brother,Mandarin,German,哥哥,bruder,哥哥: 更年长的兄弟,bruder: der ältere bruder
+maternal grandmother,Mandarin,German,外祖母,großmutter,外祖母: 妈妈的妈妈,großmutter: mamas mutter
+"elder, daughter of father's brother",Mandarin,German,堂姐,cousine,堂姐: 更年长的女性堂亲,cousine: eine ältere cousine
+younger brother,Mandarin,German,弟弟,bruder,弟弟: 更年幼的兄弟,bruder: jüngerer bruder
+"younger, son of father's brother",Mandarin,German,堂弟,cousin,堂弟: 更年幼的男性堂亲,cousin: ein jüngerer männlicher cousin
+"younger, son of mother's sibling",Mandarin,German,表弟,cousin,表弟: 更年轻的男性表亲,cousin: ein jüngerer männlicher cousin
+maternal aunt,Mandarin,German,姨妈,tante,姨妈: 妈妈的姐妹,tante: schwester der mutter
+paternal aunt,Mandarin,German,姑姑,tante,姑姑: 爸爸的姐妹,tante: papas schwester
+maternal uncle,Mandarin,German,舅舅,onkel,舅舅: 妈妈的兄弟,onkel: mamas bruder
+paternal grandparent,Mandarin,German,祖父母,großeltern,祖父母: 爸爸的父母,großeltern: papas eltern
+maternal grandparent,Mandarin,German,外祖父母,großeltern,外祖父母: 妈妈的父母,großeltern: mamas eltern
+father's younger brother,Mandarin,German,叔叔,onkel,叔叔: 爸爸的弟弟,onkel: papas jüngerer bruder
+father's elder brother,Mandarin,German,伯伯,onkel,伯伯: 爸爸的哥哥,onkel: papas bruder
+cousin,English,German,cousin,cousin,cousin: child of your aunt or uncle,cousin: kind deiner tante oder deines onkels
+grandson,English,German,grandson,enkel,grandson: male grandchild,enkel: männlicher enkel
+granddaughter,English,German,granddaughter,enkelin,granddaughter: female grandchild,enkelin: weibliches enkelkind
+grandparent,English,German,grandparent,großeltern,grandparent: parent of your father or mother,großeltern: eltern ihres vaters oder ihrer mutter
+grandfather,English,German,grandfather,großvater,grandfather: father of your father or mother,großvater: vater ihres vaters oder ihrer mutter
+grandmother,English,German,grandmother,großmutter,grandmother: mother of your father or mother,großmutter: mutter deines vaters oder deiner mutter
+nephew,English,German,nephew,neffe,nephew: son of your brother or sister,neffe: sohn deines bruders oder deiner schwester
+niece,English,German,niece,nichte,niece: daughter of your brother or sister,nichte: tochter ihres bruders oder ihrer schwester
+uncle,English,German,uncle,onkel,uncle: brother of your father or mother,onkel: bruder deines vaters oder deiner mutter
+aunt,English,German,aunt,tante,aunt: sister of your father or mother,tante: schwester deines vaters oder deiner mutter
+brother,English,German,brother,bruder,brother: males with the same parents as you,bruder: männer mit den gleichen eltern wie du
+sister,English,German,sister,schwester,sister: females with the same parents as you,schwester: weibchen mit den gleichen eltern wie du
+paternal uncle,Polish,German,stryjek,onkel,stryjek: wujka ze strony ojca,onkel: ein onkel väterlicherseits
+female cousin,Spanish,German,prima,cousine,prima: hija de tía o tío,cousine: tochter einer tante oder eines onkels
+male cousin,Spanish,German,primo,cousin,primo: hijo de tía o tío,cousin: sohn einer tante oder eines onkels
+son of father's brother,Persian,German,پسرعمو‎,cousin,پسرعمو‎: پسر برادر پدر‎,cousin: sohn des bruders des vaters
+daughter of father's brother,Persian,German,دخترعمو‎,cousine,دخترعمو‎: دختر برادر پدر‎,cousine: tochter des bruders des vaters
+son of father's sister,Persian,German,پسرعمه‎,cousin,پسرعمه‎: پسر خواهر پدر‎,cousin: sohn der schwester des vaters
+daughter of father's sister,Persian,German,دخترعمه‎,cousine,دخترعمه‎: دختر خواهر پدر‎,cousine: tochter der schwester des vaters
+son of mother's brother,Persian,German,پسردائی‎,cousin,پسردائی‎: پسر برادر مادر‎,cousin: sohn des bruders der mutter
+daughter of mother's brother,Persian,German,دختردائی‎,schwiegertochter,دختردائی‎: دختر برادر مادر‎,schwiegertochter: tochter des bruders der mutter
+son of mother's sister,Persian,German,پسرخاله‎,cousin,پسرخاله‎: پسر خواهر مادر‎,cousin: sohn der schwester der mutter
+daughter of mother's sister,Persian,German,دخترخاله‎,tante,دخترخاله‎: دختر خواهر مادر‎,tante: tochter der schwester der mutter
+child of father's brother,Turkish,German,amcaçocuğu,cousin,amcaçocuğu: babanın erkek kardeşinin çocuğu,cousin: kind des bruders des vaters
+child of father's sister,Turkish,German,halaçocuğu,kind der tante,halaçocuğu: babanın kız kardeşinin çocuğu,kind der tante: kind der schwester des vaters
+child of mother's brother,Turkish,German,dayıçocuğu,kind des onkels mütterlicherseits,dayıçocuğu: annenin erkek kardeşinin çocuğu,kind des onkels mütterlicherseits: kind des bruders der mutter
+child of mother's sister,Turkish,German,teyzeçocuğu,kind der tante,teyzeçocuğu: annenin kız kardeşinin çocuğu,kind der tante: kind der schwester der mutter
+nibling,Turkish,German,yeğen,neffe,yeğen: erkek veya kız kardeşinizin çocuğu,neffe: das kind ihres bruders oder ihrer schwester
+elder male cousin,Japanese,German,従兄,cousin,従兄: 年上の男性のいとこ,cousin: älterer männlicher cousin
+younger male cousin,Japanese,German,従弟,cousin,従弟: 年下の男性のいとこ,cousin: ein jüngerer männlicher cousin
+elder female cousin,Japanese,German,従姉,cousine,従姉: 年上の女性のいとこ,cousine: ältere cousine
+younger female cousin,Japanese,German,従妹,cousine,従妹: 年下の女性のいとこ,cousine: eine jüngere cousine
+son of parent's brother,Estonian,German,onupoeg,cousin,onupoeg: lapsevanema venna poeg,cousin: der sohn des bruders eines elternteils
+daughter of parent's brother,Estonian,German,onutütar,cousine,onutütar: lapsevanema venna tütar,cousine: die tochter des bruders eines elternteils
+son of parent's sister,Estonian,German,tädipoeg,cousin,tädipoeg: lapsevanema õe poeg,cousin: der sohn der schwester eines elternteils
+daughter of parent's sister,Estonian,German,täditütar,nichte,täditütar: lapsevanema õe tütar,nichte: die tochter der schwester eines elternteils
+younger sibling,Korean,German,동생,jüngerer bruder,동생: 남동생이나여동생,jüngerer bruder: jüngerer bruder oder jüngere schwester
+elder sibling,Hungarian,German,nagytestvér,großer bruder,nagytestvér: idősebb testvér vagy idősebb nővér,großer bruder: älterer bruder oder ältere schwester

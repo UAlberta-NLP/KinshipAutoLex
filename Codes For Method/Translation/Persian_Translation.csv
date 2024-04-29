@@ -1,0 +1,72 @@
+Concept,Source language,Target Language,Source Word,Target Word,Query,Query translation
+sibling,English,Persian,sibling,خواهر و برادر,sibling: brother or sister,خواهر و برادر: برادر یا خواهر
+grandchild,English,Persian,grandchild,نوه,grandchild: child of son or daughter,نوه: فرزند پسر یا دختر
+brother's son,Mandarin,Persian,侄子,برادرزاده,侄子: 兄弟的儿子,برادرزاده: پسر برادر
+son's daughter,Mandarin,Persian,孙女,نوه,孙女: 儿子的女儿,نوه: دختر پسر
+elder sister,Mandarin,Persian,姐姐,خواهر,姐姐: 更年长的姐妹,خواهر: خواهر بزرگتر
+daughter's son,Mandarin,Persian,外孙,نوه,外孙: 女儿的儿子,نوه: پسر دختر
+"elder, daughter of mother's sibling",Mandarin,Persian,表姐,پسر عمو,表姐: 更年长的女性表亲,پسر عمو: دختر عموی بزرگتر
+sister's son,Mandarin,Persian,外甥,برادرزاده,外甥: 姐妹的儿子,برادرزاده: پسر خواهر
+"younger, daughter of father's brother",Mandarin,Persian,堂妹,پسر عمو,堂妹: 更年轻的女性堂亲,پسر عمو: دختر عموی کوچکتر
+paternal grandmother,Mandarin,Persian,祖母,مادربزرگ,祖母: 爸爸的妈妈,مادربزرگ: مادر بابا
+"younger, daughter of mother's sibling",Mandarin,Persian,表妹,پسر عمو,表妹: 更年轻的女性表亲,پسر عمو: دختر عموی کوچکتر
+"elder, son of father's brother",Mandarin,Persian,堂哥,پسر عمو,堂哥: 更年长的男性堂亲,پسر عمو: پسر عموی بزرگتر
+son's son,Mandarin,Persian,孙子,نوه,孙子: 儿子的儿子,نوه: پسر پسر
+sister's daughter,Mandarin,Persian,甥女,خواهرزاده,甥女: 姐妹的女儿,خواهرزاده: دختر خواهر
+younger sister,Mandarin,Persian,妹妹,خواهر,妹妹: 更年轻的姐妹,خواهر: خواهر کوچکتر
+daughter's daughter,Mandarin,Persian,外孙女,نوه,外孙女: 女儿的女儿,نوه: دختر دختر
+brother's daughter,Mandarin,Persian,侄女,خواهرزاده,侄女: 兄弟的女儿,خواهرزاده: دختر برادر
+paternal grandfather,Mandarin,Persian,祖父,پدربزرگ,祖父: 爸爸的爸爸,پدربزرگ: بابای بابا
+maternal grandfather,Mandarin,Persian,外祖父,پدربزرگ,外祖父: 妈妈的爸爸,پدربزرگ: بابای مامان
+"elder, son of mother's sibling",Mandarin,Persian,表哥,پسر عمو,表哥: 更年长的男性表亲,پسر عمو: پسر عموی بزرگتر
+elder brother,Mandarin,Persian,哥哥,برادر,哥哥: 更年长的兄弟,برادر: برادر بزرگتر
+maternal grandmother,Mandarin,Persian,外祖母,مادربزرگ,外祖母: 妈妈的妈妈,مادربزرگ: مادر مامان
+"elder, daughter of father's brother",Mandarin,Persian,堂姐,پسر عمو,堂姐: 更年长的女性堂亲,پسر عمو: دختر عموی بزرگتر
+younger brother,Mandarin,Persian,弟弟,برادر,弟弟: 更年幼的兄弟,برادر: برادر کوچکتر
+"younger, son of father's brother",Mandarin,Persian,堂弟,پسر عمو,堂弟: 更年幼的男性堂亲,پسر عمو: پسر عموی کوچکتر
+"younger, son of mother's sibling",Mandarin,Persian,表弟,پسر عمو,表弟: 更年轻的男性表亲,پسر عمو: پسر عموی کوچکتر
+maternal aunt,Mandarin,Persian,姨妈,خاله,姨妈: 妈妈的姐妹,خاله: خواهر مادر
+paternal aunt,Mandarin,Persian,姑姑,خاله,姑姑: 爸爸的姐妹,خاله: خواهر بابا
+maternal uncle,Mandarin,Persian,舅舅,عمو,舅舅: 妈妈的兄弟,عمو: برادر مامان
+paternal grandparent,Mandarin,Persian,祖父母,پدربزرگ و مادربزرگ,祖父母: 爸爸的父母,پدربزرگ و مادربزرگ: پدر و مادر پدر
+maternal grandparent,Mandarin,Persian,外祖父母,پدربزرگ و مادربزرگ,外祖父母: 妈妈的父母,پدربزرگ و مادربزرگ: پدر و مادر مامان
+father's younger brother,Mandarin,Persian,叔叔,عمو,叔叔: 爸爸的弟弟,عمو: برادر کوچکتر بابا
+father's elder brother,Mandarin,Persian,伯伯,عمو,伯伯: 爸爸的哥哥,عمو: برادر بابا
+cousin,English,Persian,cousin,پسر عمو,cousin: child of your aunt or uncle,پسر عمو: فرزند خاله یا دایی شما
+grandson,English,Persian,grandson,نوه,grandson: male grandchild,نوه: نوه ذکور
+granddaughter,English,Persian,granddaughter,نوه,granddaughter: female grandchild,نوه: نوه دختر
+grandparent,English,Persian,grandparent,پدربزرگ و مادربزرگ,grandparent: parent of your father or mother,پدربزرگ و مادربزرگ: والد پدر یا مادر شما
+grandfather,English,Persian,grandfather,پدربزرگ,grandfather: father of your father or mother,پدربزرگ: پدر پدر یا مادر شما
+grandmother,English,Persian,grandmother,مادربزرگ,grandmother: mother of your father or mother,مادربزرگ: مادر پدر یا مادر شما
+nephew,English,Persian,nephew,برادرزاده,nephew: son of your brother or sister,برادرزاده: پسر برادر یا خواهرت
+niece,English,Persian,niece,خواهرزاده,niece: daughter of your brother or sister,خواهرزاده: دختر برادر یا خواهرت
+uncle,English,Persian,uncle,عمو,uncle: brother of your father or mother,عمو: برادر پدر یا مادرت
+aunt,English,Persian,aunt,عمه,aunt: sister of your father or mother,عمه: خواهر پدر یا مادرت
+brother,English,Persian,brother,برادر,brother: males with the same parents as you,برادر: مردانی با والدین مشابه شما
+sister,English,Persian,sister,خواهر,sister: females with the same parents as you,خواهر: زنان با پدر و مادری مشابه شما
+paternal uncle,Polish,Persian,stryjek,عمو,stryjek: wujka ze strony ojca,عمو: دایی از طرف پدر
+female cousin,Spanish,Persian,prima,پسر عمو,prima: hija de tía o tío,پسر عمو: دختر خاله یا عمو
+male cousin,Spanish,Persian,primo,پسر عمو,primo: hijo de tía o tío,پسر عمو: پسر خاله یا عمو
+son of father's brother,Persian,Persian,پسرعمو‎,پسرعمو‎,پسرعمو‎: پسر برادر پدر‎,پسرعمو‎: پسر برادر پدر‎
+daughter of father's brother,Persian,Persian,دخترعمو‎,دخترعمو‎,دخترعمو‎: دختر برادر پدر‎,دخترعمو‎: دختر برادر پدر‎
+son of father's sister,Persian,Persian,پسرعمه‎,پسرعمه‎,پسرعمه‎: پسر خواهر پدر‎,پسرعمه‎: پسر خواهر پدر‎
+daughter of father's sister,Persian,Persian,دخترعمه‎,دخترعمه‎,دخترعمه‎: دختر خواهر پدر‎,دخترعمه‎: دختر خواهر پدر‎
+son of mother's brother,Persian,Persian,پسردائی‎,پسر دایی‎,پسردائی‎: پسر برادر مادر‎,پسر دایی‎: پسر برادر مادر‎
+daughter of mother's brother,Persian,Persian,دختردائی‎,دختردائی‎,دختردائی‎: دختر برادر مادر‎,دختردائی‎: دختر برادر مادر‎
+son of mother's sister,Persian,Persian,پسرخاله‎,پسرخاله‎,پسرخاله‎: پسر خواهر مادر‎,پسرخاله‎: پسر خواهر مادر‎
+daughter of mother's sister,Persian,Persian,دخترخاله‎,دخترخاله‎,دخترخاله‎: دختر خواهر مادر‎,دخترخاله‎: دختر خواهر مادر‎
+child of father's brother,Turkish,Persian,amcaçocuğu,پسر عمو,amcaçocuğu: babanın erkek kardeşinin çocuğu,پسر عمو: فرزند برادر پدر
+child of father's sister,Turkish,Persian,halaçocuğu,فرزند خاله,halaçocuğu: babanın kız kardeşinin çocuğu,فرزند خاله: فرزند خواهر پدر
+child of mother's brother,Turkish,Persian,dayıçocuğu,فرزند عموی مادر,dayıçocuğu: annenin erkek kardeşinin çocuğu,فرزند عموی مادر: فرزند برادر مادر
+child of mother's sister,Turkish,Persian,teyzeçocuğu,فرزند خاله,teyzeçocuğu: annenin kız kardeşinin çocuğu,فرزند خاله: فرزند خواهر مادر
+nibling,Turkish,Persian,yeğen,برادرزاده,yeğen: erkek veya kız kardeşinizin çocuğu,برادرزاده: فرزند برادر یا خواهر شما
+elder male cousin,Japanese,Persian,従兄,پسر عمو,従兄: 年上の男性のいとこ,پسر عمو: پسر عموی بزرگتر
+younger male cousin,Japanese,Persian,従弟,پسر عمو,従弟: 年下の男性のいとこ,پسر عمو: پسر عموی کوچکتر
+elder female cousin,Japanese,Persian,従姉,پسر عمو,従姉: 年上の女性のいとこ,پسر عمو: دختر عموی بزرگتر
+younger female cousin,Japanese,Persian,従妹,پسر عمو,従妹: 年下の女性のいとこ,پسر عمو: دختر عموی کوچکتر
+son of parent's brother,Estonian,Persian,onupoeg,پسر عمو,onupoeg: lapsevanema venna poeg,پسر عمو: پسر برادر پدر و مادر
+daughter of parent's brother,Estonian,Persian,onutütar,پسر عمو,onutütar: lapsevanema venna tütar,پسر عمو: دختر برادر پدر و مادر
+son of parent's sister,Estonian,Persian,tädipoeg,پسر عمو,tädipoeg: lapsevanema õe poeg,پسر عمو: پسر خواهر پدر و مادر
+daughter of parent's sister,Estonian,Persian,täditütar,خواهرزاده,täditütar: lapsevanema õe tütar,خواهرزاده: دختر خواهر پدر و مادر
+younger sibling,Korean,Persian,동생,برادر کوچکتر,동생: 남동생이나여동생,برادر کوچکتر: برادر کوچکتر یا خواهر کوچکتر
+elder sibling,Hungarian,Persian,nagytestvér,برادر بزرگ,nagytestvér: idősebb testvér vagy idősebb nővér,برادر بزرگ: برادر بزرگتر یا خواهر بزرگتر
