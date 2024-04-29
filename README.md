@@ -81,14 +81,25 @@ The files in this folder allow you to replicate the experiment in Section 5 of o
 
 >Sample run: python evaluate_cleaned_version.py -l English
 >
->To evaluate the results on other languages, replacing "English" in the sample run with the target language you want.
+>To evaluate the results on other languages, replace "English" in the sample run with the target language you want.
 
 
 
 
 ### Generating All Concepts
-This folder contains a Python file to generate all potential speaker's gender unspecific concepts, and the 2 outputted files are: "new_concepts" and "new_relations"
+This folder contains a Python file to generate all potential speaker's gender-unspecific concepts.
 The files in this folder allow you to generate the results we reported in Table 2.
+
+#### generating_all_concepts_edges.py
+>The Python file to generate all potential speaker's gender-unspecific concepts, and the 2 outputted files are: "new_concepts" and "new_relations"
+>
+>This file can be run directly.
+>
+>Sample run: python generating_all_concepts_edges.py
+>
+>The outputted file new_concepts contains 3 columns: The subdomain of the concept, the newly generated concept name for the concept, and the abbr name of the concept.
+>
+>The outputted file new_relations contains 3 columns: The subdomain of this edge,  the abbr name of the hyponym concept, and the abbr name of the hypernym concept.
 
 ## Operating System
 Microsoft Windows 10, Version 10.0.19045.
