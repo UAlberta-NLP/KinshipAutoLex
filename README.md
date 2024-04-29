@@ -48,7 +48,7 @@ The files in this folder allow you to replicate the experiment in Section 5 of o
 > 
 > The output of this code is a ".txt" file in the "Results" folder.
 > 
-> This code requires one additional package other than default packages, googletrans==3.1.0a0
+> This code requires one additional package other than the default packages, googletrans==3.1.0a0
 > 
 > This file takes 3 arguments.
 > 
