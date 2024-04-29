@@ -14,7 +14,15 @@ This file takes 3 arguments.
 
 -b takes a boolean input that indicates whether to use the prepared set of results of back translations in the folder "Translation".
 
-The output of this code is a 
+The default target language is English, and the prepared translation and back-translation results will are not used by default.
+
+The output of this code is a ".txt" file in the "Results" folder.
+
+Sample run: python goolge_trans_method_cleaned.py -l English -t True -b True  
+
+# evaluate_cleaned_version.py
+
+
 
 
 
