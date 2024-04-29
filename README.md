@@ -35,7 +35,20 @@ and ChatGPT.
 Our error analysis indicates 
 that enhancing the quality of translations 
 can further improve the accuracy of our method.
+<div>
+<textarea id="copyText" style="width:100%;height:100px;">
+This is the text that will be copied.
+</textarea>
+<button onclick="copyFunction()">Copy Text</button>
+</div>
 
+<script>
+function copyFunction() {
+  var copyText = document.getElementById("copyText");
+  copyText.select();
+  document.execCommand("copy");
+}
+</script>
 
 ## Codes
 
@@ -50,7 +63,7 @@ The files in this folder allow you to replicate the experiment in Section 5 of o
 > The output of this code is a ".txt" file in the "Results" folder.
 > 
 > This code requiring one additional package, googletrans==3.1.0a0, which can be installed by pip:
-
+> 
 > This file takes 3 arguments.
 > 
 > -l takes a string input that indicates the target language of this run
