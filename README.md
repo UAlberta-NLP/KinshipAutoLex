@@ -48,7 +48,7 @@ The files in this folder allow you to replicate the experiment in Section 5 of o
 > 
 > The output of this code is a ".txt" file in the "Results" folder.
 > 
-> This code requiring one additional package, googletrans==3.1.0a0, which can be installed by pip:
+> This code requires one additional package other than default packages, googletrans==3.1.0a0
 > 
 > This file takes 3 arguments.
 > 
@@ -60,22 +60,10 @@ The files in this folder allow you to replicate the experiment in Section 5 of o
 > 
 > The default target language is English, and the prepared translation and back-translation results will are not used by default.
 
-> Sample run: python goolge_trans_method_cleaned.py -l English -t True -b True  
-
-<div>
-<textarea id="copyText" style="width:100%;height:100px;">
-This is the text that will be copied.
-</textarea>
-<button onclick="copyFunction()">Copy Text</button>
-</div>
-
-<script>
-function copyFunction() {
-  var copyText = document.getElementById("copyText");
-  copyText.select();
-  document.execCommand("copy");
-}
-</script>
+> Sample run: python goolge_trans_method_cleaned.py -l English -t True -b True
+> To replicate the results on the 13 languages we reported on the paper, 12 more commands are needed, one for each remaining language.
+> Replacing "English" with other languages will replicate the results of that language.
+> We reported our results on: English, Spanish,	Russian,	French,	German,	Mandarin,	Persian,	Polish,	Arabic,	Italian,	Mongolian,	Hungarian and Hindi.   
 
 
 ##### evaluate_cleaned_version.py
