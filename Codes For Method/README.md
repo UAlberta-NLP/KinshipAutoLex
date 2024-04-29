@@ -1,7 +1,7 @@
 # Codes For Method
 This folder contains the implementation of the method described in the paper and a file to evaluate the results.
 
-#goolge_trans_method_cleaned.py
+# goolge_trans_method_cleaned.py
 The file "goolge_trans_method_cleaned.py" contains the implementation of the method.
 This file takes 3 arguments.
 
