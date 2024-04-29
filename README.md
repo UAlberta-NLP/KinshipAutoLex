@@ -37,10 +37,13 @@ that enhancing the quality of translations
 can further improve the accuracy of our method.
 
 
-## Codes For Method
+## Codes
+
+#### Codes For Method
+
 This folder contains the implementation of the method described in the paper and a file to evaluate the results.
 
-## Generating All Concepts
+#### Generating All Concepts
 This folder contains a Python file to generate all potential speaker's gender unspecific concepts, and the 2 outputted files: "new_concepts" and "new_relations"
 
 ## Operating System
