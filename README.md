@@ -97,9 +97,9 @@ The files in this folder allow you to generate the results we reported in Table 
 >
 >Sample run: python generating_all_concepts_edges.py
 
->The outputted file new_concepts contains 3 columns: The subdomain of the concept, the newly generated concept name for the concept, and the abbr name of the concept.
+>The outputted file "new_concepts" contains 3 columns: The subdomain of the concept, the newly generated concept name for the concept, and the abbr name of the concept.
 >
->The outputted file new_relations contains 3 columns: The subdomain of this edge,  the abbr name of the hyponym concept, and the abbr name of the hypernym concept.
+>The outputted file "new_relations" contains 3 columns: The subdomain of this edge,  the abbr name of the hyponym concept, and the abbr name of the hypernym concept.
 
 ## Operating System
 Microsoft Windows 10, Version 10.0.19045.
