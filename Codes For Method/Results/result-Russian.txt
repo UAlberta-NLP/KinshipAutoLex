@@ -1,0 +1,71 @@
+sibling        брат        English        True        filter 3: back translation filter
+grandchild        внук        English        True        filter 3: back translation filter
+brother's son        племянник        Mandarin        True        filter 2: horizontal filter
+son's daughter        внучка        Mandarin        True        filter 2: horizontal filter
+elder sister        сестра        Mandarin        True        filter 2: horizontal filter
+daughter's son        внук        Mandarin        True        filter 2: horizontal filter
+elder, daughter of mother's sibling        двоюродный брат        Mandarin        True        filter 1: multi word filter
+sister's son        племянник        Mandarin        True        filter 2: horizontal filter
+younger, daughter of father's brother        двоюродная сестра        Mandarin        True        filter 1: multi word filter
+paternal grandmother        бабушка        Mandarin        True        filter 2: horizontal filter
+younger, daughter of mother's sibling        двоюродная сестра        Mandarin        True        filter 1: multi word filter
+elder, son of father's brother        двоюродный брат        Mandarin        True        filter 1: multi word filter
+son's son        внук        Mandarin        True        filter 2: horizontal filter
+sister's daughter        племянница        Mandarin        True        filter 2: horizontal filter
+younger sister        сестра        Mandarin        True        filter 2: horizontal filter
+daughter's daughter        внучка        Mandarin        True        filter 2: horizontal filter
+brother's daughter        племянница        Mandarin        True        filter 2: horizontal filter
+paternal grandfather        дедушка        Mandarin        True        filter 2: horizontal filter
+maternal grandfather        дедушка        Mandarin        True        filter 2: horizontal filter
+elder, son of mother's sibling        двоюродный брат        Mandarin        True        filter 1: multi word filter
+elder brother        брат        Mandarin        True        filter 2: horizontal filter
+maternal grandmother        бабушка        Mandarin        True        filter 2: horizontal filter
+elder, daughter of father's brother        двоюродный брат        Mandarin        True        filter 1: multi word filter
+younger brother        брат        Mandarin        True        filter 2: horizontal filter
+younger, son of father's brother        двоюродный брат        Mandarin        True        filter 1: multi word filter
+younger, son of mother's sibling        двоюродный брат        Mandarin        True        filter 1: multi word filter
+maternal aunt        тётя        Mandarin        True        filter 2: horizontal filter
+paternal aunt        тётя        Mandarin        True        filter 2: horizontal filter
+maternal uncle        дядя        Mandarin        True        filter 2: horizontal filter
+paternal grandparent        бабушка и дедушка        Mandarin        True        filter 1: multi word filter
+maternal grandparent        бабушка и дедушка        Mandarin        True        filter 1: multi word filter
+father's younger brother        дядя        Mandarin        True        filter 2: horizontal filter
+father's elder brother        дядя        Mandarin        True        filter 2: horizontal filter
+cousin        двоюродный брат        English        True        filter 1: multi word filter
+grandson        внук        English        False        not filtered out
+granddaughter        внучка        English        False        not filtered out
+grandparent        бабушка и дедушка        English        True        filter 1: multi word filter
+grandfather        дедушка        English        False        not filtered out
+grandmother        бабушка        English        False        not filtered out
+nephew        племянник        English        False        not filtered out
+niece        племянница        English        False        not filtered out
+uncle        дядя        English        False        not filtered out
+aunt        тетя        English        False        not filtered out
+brother        брат        English        False        not filtered out
+sister        сестра        English        False        not filtered out
+paternal uncle        дядя        Polish        True        filter 2: horizontal filter
+female cousin        двоюродная сестра        Spanish        True        filter 1: multi word filter
+male cousin        двоюродный брат        Spanish        True        filter 1: multi word filter
+son of father's brother        двоюродный брат        Persian        True        filter 1: multi word filter
+daughter of father's brother        двоюродная сестра        Persian        True        filter 1: multi word filter
+son of father's sister        двоюродный брат        Persian        True        filter 1: multi word filter
+daughter of father's sister        двоюродная сестра        Persian        True        filter 1: multi word filter
+son of mother's brother        двоюродный брат        Persian        True        filter 1: multi word filter
+daughter of mother's brother        невестка        Persian        True        filter 3: back translation filter
+son of mother's sister        двоюродный брат        Persian        True        filter 1: multi word filter
+daughter of mother's sister        тётя        Persian        True        filter 3: back translation filter
+child of father's brother        двоюродный брат        Turkish        True        filter 1: multi word filter
+child of father's sister        ребенок тети        Turkish        True        filter 1: multi word filter
+child of mother's brother        ребенок дяди по материнской линии        Turkish        True        filter 1: multi word filter
+child of mother's sister        ребенок тети        Turkish        True        filter 1: multi word filter
+nibling        племянник        Turkish        True        filter 4: new vertical filter
+elder male cousin        двоюродный брат        Japanese        True        filter 1: multi word filter
+younger male cousin        двоюродный брат        Japanese        True        filter 1: multi word filter
+elder female cousin        двоюродный брат        Japanese        True        filter 1: multi word filter
+younger female cousin        двоюродная сестра        Japanese        True        filter 1: multi word filter
+son of parent's brother        двоюродный брат        Estonian        True        filter 1: multi word filter
+daughter of parent's brother        двоюродная сестра        Estonian        True        filter 1: multi word filter
+son of parent's sister        двоюродный брат        Estonian        True        filter 1: multi word filter
+daughter of parent's sister        племянница        Estonian        True        filter 3: back translation filter
+younger sibling        младший брат        Korean        True        filter 1: multi word filter
+elder sibling        старший брат        Hungarian        True        filter 1: multi word filter

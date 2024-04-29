@@ -1,0 +1,71 @@
+sibling        ах эгч        English        True        filter 1: multi word filter
+grandchild        ач        English        False        not filtered out
+brother's son        зээ        Mandarin        True        filter 2: horizontal filter
+son's daughter        ач охин        Mandarin        True        filter 1: multi word filter
+elder sister        эгч        Mandarin        True        filter 2: horizontal filter
+daughter's son        ач хүү        Mandarin        True        filter 1: multi word filter
+elder, daughter of mother's sibling        үеэл        Mandarin        True        filter 2: horizontal filter
+sister's son        зээ        Mandarin        True        filter 2: horizontal filter
+younger, daughter of father's brother        үеэл        Mandarin        True        filter 2: horizontal filter
+paternal grandmother        эмээ        Mandarin        True        filter 2: horizontal filter
+younger, daughter of mother's sibling        үеэл        Mandarin        True        filter 2: horizontal filter
+elder, son of father's brother        үеэл        Mandarin        True        filter 2: horizontal filter
+son's son        ач хүү        Mandarin        True        filter 1: multi word filter
+sister's daughter        зээ        Mandarin        True        filter 2: horizontal filter
+younger sister        эгч        Mandarin        True        filter 2: horizontal filter
+daughter's daughter        ач охин        Mandarin        True        filter 1: multi word filter
+brother's daughter        зээ        Mandarin        True        filter 2: horizontal filter
+paternal grandfather        өвөө        Mandarin        True        filter 2: horizontal filter
+maternal grandfather        өвөө        Mandarin        True        filter 2: horizontal filter
+elder, son of mother's sibling        үеэл        Mandarin        True        filter 2: horizontal filter
+elder brother        ах        Mandarin        True        filter 2: horizontal filter
+maternal grandmother        эмээ        Mandarin        True        filter 2: horizontal filter
+elder, daughter of father's brother        үеэл        Mandarin        True        filter 2: horizontal filter
+younger brother        ах        Mandarin        True        filter 2: horizontal filter
+younger, son of father's brother        үеэл        Mandarin        True        filter 2: horizontal filter
+younger, son of mother's sibling        үеэл        Mandarin        True        filter 2: horizontal filter
+maternal aunt        нагац эгч        Mandarin        True        filter 1: multi word filter
+paternal aunt        нагац эгч        Mandarin        True        filter 1: multi word filter
+maternal uncle        авга ах        Mandarin        True        filter 1: multi word filter
+paternal grandparent        өвөө эмээ        Mandarin        True        filter 1: multi word filter
+maternal grandparent        өвөө эмээ        Mandarin        True        filter 1: multi word filter
+father's younger brother        авга ах        Mandarin        True        filter 1: multi word filter
+father's elder brother        авга ах        Mandarin        True        filter 1: multi word filter
+cousin        үеэл        English        False        not filtered out
+grandson        ач хүү        English        True        filter 1: multi word filter
+granddaughter        ач охин        English        True        filter 1: multi word filter
+grandparent        эмээ өвөө        English        True        filter 1: multi word filter
+grandfather        өвөө        English        False        not filtered out
+grandmother        эмээ        English        False        not filtered out
+nephew        ач хүү        English        True        filter 1: multi word filter
+niece        зээ        English        True        filter 4: new vertical filter
+uncle        авга ах        English        True        filter 1: multi word filter
+aunt        нагац эгч        English        True        filter 1: multi word filter
+brother        ах        English        False        not filtered out
+sister        эгч        English        False        not filtered out
+paternal uncle        авга ах        Polish        True        filter 1: multi word filter
+female cousin        үеэл        Spanish        True        filter 2: horizontal filter
+male cousin        үеэл        Spanish        True        filter 2: horizontal filter
+son of father's brother        үеэл        Persian        True        filter 2: horizontal filter
+daughter of father's brother        үеэл        Persian        True        filter 2: horizontal filter
+son of father's sister        үеэл        Persian        True        filter 2: horizontal filter
+daughter of father's sister        үеэл        Persian        True        filter 2: horizontal filter
+son of mother's brother        үеэл        Persian        True        filter 2: horizontal filter
+daughter of mother's brother        бэр        Persian        True        filter 3: back translation filter
+son of mother's sister        үеэл        Persian        True        filter 2: horizontal filter
+daughter of mother's sister        нагац эгч        Persian        True        filter 1: multi word filter
+child of father's brother        үеэл        Turkish        True        filter 3: back translation filter
+child of father's sister        нагац эгчийн хүүхэд        Turkish        True        filter 1: multi word filter
+child of mother's brother        эхийн нагац ахын хүүхэд        Turkish        True        filter 1: multi word filter
+child of mother's sister        нагац эгчийн хүүхэд        Turkish        True        filter 1: multi word filter
+nibling        зээ        Turkish        False        not filtered out
+elder male cousin        үеэл        Japanese        True        filter 2: horizontal filter
+younger male cousin        үеэл        Japanese        True        filter 2: horizontal filter
+elder female cousin        үеэл        Japanese        True        filter 2: horizontal filter
+younger female cousin        үеэл        Japanese        True        filter 2: horizontal filter
+son of parent's brother        үеэл        Estonian        True        filter 2: horizontal filter
+daughter of parent's brother        үеэл        Estonian        True        filter 2: horizontal filter
+son of parent's sister        үеэл        Estonian        True        filter 2: horizontal filter
+daughter of parent's sister        зээ        Estonian        True        filter 3: back translation filter
+younger sibling        дүү        Korean        True        filter 3: back translation filter
+elder sibling        том ах        Hungarian        True        filter 1: multi word filter

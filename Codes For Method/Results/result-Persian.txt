@@ -1,0 +1,71 @@
+sibling        خواهر و برادر        English        True        filter 1: multi word filter
+grandchild        نوه        English        True        filter 3: back translation filter
+brother's son        برادرزاده        Mandarin        True        filter 2: horizontal filter
+son's daughter        نوه        Mandarin        True        filter 2: horizontal filter
+elder sister        خواهر        Mandarin        True        filter 2: horizontal filter
+daughter's son        نوه        Mandarin        True        filter 2: horizontal filter
+elder, daughter of mother's sibling        پسر عمو        Mandarin        True        filter 1: multi word filter
+sister's son        برادرزاده        Mandarin        True        filter 2: horizontal filter
+younger, daughter of father's brother        پسر عمو        Mandarin        True        filter 1: multi word filter
+paternal grandmother        مادربزرگ        Mandarin        True        filter 2: horizontal filter
+younger, daughter of mother's sibling        پسر عمو        Mandarin        True        filter 1: multi word filter
+elder, son of father's brother        پسر عمو        Mandarin        True        filter 1: multi word filter
+son's son        نوه        Mandarin        True        filter 2: horizontal filter
+sister's daughter        خواهرزاده        Mandarin        True        filter 2: horizontal filter
+younger sister        خواهر        Mandarin        True        filter 2: horizontal filter
+daughter's daughter        نوه        Mandarin        True        filter 2: horizontal filter
+brother's daughter        خواهرزاده        Mandarin        True        filter 2: horizontal filter
+paternal grandfather        پدربزرگ        Mandarin        True        filter 2: horizontal filter
+maternal grandfather        پدربزرگ        Mandarin        True        filter 2: horizontal filter
+elder, son of mother's sibling        پسر عمو        Mandarin        True        filter 1: multi word filter
+elder brother        برادر        Mandarin        True        filter 2: horizontal filter
+maternal grandmother        مادربزرگ        Mandarin        True        filter 2: horizontal filter
+elder, daughter of father's brother        پسر عمو        Mandarin        True        filter 1: multi word filter
+younger brother        برادر        Mandarin        True        filter 2: horizontal filter
+younger, son of father's brother        پسر عمو        Mandarin        True        filter 1: multi word filter
+younger, son of mother's sibling        پسر عمو        Mandarin        True        filter 1: multi word filter
+maternal aunt        خاله        Mandarin        True        filter 2: horizontal filter
+paternal aunt        خاله        Mandarin        True        filter 2: horizontal filter
+maternal uncle        عمو        Mandarin        True        filter 2: horizontal filter
+paternal grandparent        پدربزرگ و مادربزرگ        Mandarin        True        filter 1: multi word filter
+maternal grandparent        پدربزرگ و مادربزرگ        Mandarin        True        filter 1: multi word filter
+father's younger brother        عمو        Mandarin        True        filter 2: horizontal filter
+father's elder brother        عمو        Mandarin        True        filter 2: horizontal filter
+cousin        پسر عمو        English        True        filter 1: multi word filter
+grandson        نوه        English        True        filter 2: horizontal filter
+granddaughter        نوه        English        True        filter 2: horizontal filter
+grandparent        پدربزرگ و مادربزرگ        English        True        filter 1: multi word filter
+grandfather        پدربزرگ        English        False        not filtered out
+grandmother        مادربزرگ        English        False        not filtered out
+nephew        برادرزاده        English        False        not filtered out
+niece        خواهرزاده        English        False        not filtered out
+uncle        عمو        English        False        not filtered out
+aunt        عمه        English        False        not filtered out
+brother        برادر        English        False        not filtered out
+sister        خواهر        English        False        not filtered out
+paternal uncle        عمو        Polish        True        filter 2: horizontal filter
+female cousin        پسر عمو        Spanish        True        filter 1: multi word filter
+male cousin        پسر عمو        Spanish        True        filter 1: multi word filter
+son of father's brother        پسرعمو‎        Persian        False        not filtered out
+daughter of father's brother        دخترعمو‎        Persian        False        not filtered out
+son of father's sister        پسرعمه‎        Persian        False        not filtered out
+daughter of father's sister        دخترعمه‎        Persian        False        not filtered out
+son of mother's brother        پسر دایی‎        Persian        True        filter 1: multi word filter
+daughter of mother's brother        دختردائی‎        Persian        False        not filtered out
+son of mother's sister        پسرخاله‎        Persian        False        not filtered out
+daughter of mother's sister        دخترخاله‎        Persian        False        not filtered out
+child of father's brother        پسر عمو        Turkish        True        filter 1: multi word filter
+child of father's sister        فرزند خاله        Turkish        True        filter 1: multi word filter
+child of mother's brother        فرزند عموی مادر        Turkish        True        filter 1: multi word filter
+child of mother's sister        فرزند خاله        Turkish        True        filter 1: multi word filter
+nibling        برادرزاده        Turkish        True        filter 4: new vertical filter
+elder male cousin        پسر عمو        Japanese        True        filter 1: multi word filter
+younger male cousin        پسر عمو        Japanese        True        filter 1: multi word filter
+elder female cousin        پسر عمو        Japanese        True        filter 1: multi word filter
+younger female cousin        پسر عمو        Japanese        True        filter 1: multi word filter
+son of parent's brother        پسر عمو        Estonian        True        filter 1: multi word filter
+daughter of parent's brother        پسر عمو        Estonian        True        filter 1: multi word filter
+son of parent's sister        پسر عمو        Estonian        True        filter 1: multi word filter
+daughter of parent's sister        خواهرزاده        Estonian        True        filter 3: back translation filter
+younger sibling        برادر کوچکتر        Korean        True        filter 1: multi word filter
+elder sibling        برادر بزرگ        Hungarian        True        filter 1: multi word filter

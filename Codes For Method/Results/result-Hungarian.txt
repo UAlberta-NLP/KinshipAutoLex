@@ -1,0 +1,71 @@
+sibling        testvér        English        True        filter 4: new vertical filter
+grandchild        unoka        English        False        not filtered out
+brother's son        unokaöccs        Mandarin        False        not filtered out
+son's daughter        unokája        Mandarin        True        filter 2: horizontal filter
+elder sister        nővére        Mandarin        True        filter 2: horizontal filter
+daughter's son        unoka        Mandarin        True        filter 3: back translation filter
+elder, daughter of mother's sibling        unokatestvére        Mandarin        True        filter 2: horizontal filter
+sister's son        unokaöccse        Mandarin        True        filter 3: back translation filter
+younger, daughter of father's brother        unokatestvére        Mandarin        True        filter 2: horizontal filter
+paternal grandmother        nagymama        Mandarin        True        filter 2: horizontal filter
+younger, daughter of mother's sibling        unokatestvére        Mandarin        True        filter 2: horizontal filter
+elder, son of father's brother        unokatestvér        Mandarin        True        filter 3: back translation filter
+son's son        unokája        Mandarin        True        filter 2: horizontal filter
+sister's daughter        unokahúga        Mandarin        True        filter 2: horizontal filter
+younger sister        nővére        Mandarin        True        filter 2: horizontal filter
+daughter's daughter        unokája        Mandarin        True        filter 2: horizontal filter
+brother's daughter        unokahúga        Mandarin        True        filter 2: horizontal filter
+paternal grandfather        nagyapa        Mandarin        True        filter 2: horizontal filter
+maternal grandfather        nagyapa        Mandarin        True        filter 2: horizontal filter
+elder, son of mother's sibling        unokatestvér        Mandarin        True        filter 3: back translation filter
+elder brother        testvér        Mandarin        True        filter 2: horizontal filter
+maternal grandmother        nagymama        Mandarin        True        filter 2: horizontal filter
+elder, daughter of father's brother        unokatestvére        Mandarin        True        filter 2: horizontal filter
+younger brother        testvér        Mandarin        True        filter 2: horizontal filter
+younger, son of father's brother        unokatestvére        Mandarin        True        filter 2: horizontal filter
+younger, son of mother's sibling        unokatestvére        Mandarin        True        filter 2: horizontal filter
+maternal aunt        néni        Mandarin        False        not filtered out
+paternal aunt        nagynéni        Mandarin        True        filter 3: back translation filter
+maternal uncle        bácsi        Mandarin        True        filter 2: horizontal filter
+paternal grandparent        nagyszülők        Mandarin        True        filter 2: horizontal filter
+maternal grandparent        nagyszülők        Mandarin        True        filter 2: horizontal filter
+father's younger brother        bácsi        Mandarin        True        filter 2: horizontal filter
+father's elder brother        bácsi        Mandarin        True        filter 2: horizontal filter
+cousin        unokatestvér        English        True        filter 4: new vertical filter
+grandson        unokája        English        True        filter 2: horizontal filter
+granddaughter        unokája        English        True        filter 2: horizontal filter
+grandparent        nagyszülő        English        False        not filtered out
+grandfather        nagyapa        English        False        not filtered out
+grandmother        nagymama        English        False        not filtered out
+nephew        unokaöccse        English        False        not filtered out
+niece        unokahúga        English        False        not filtered out
+uncle        bácsi        English        False        not filtered out
+aunt        nagynéni        English        False        not filtered out
+brother        testvér        English        False        not filtered out
+sister        nővér        English        False        not filtered out
+paternal uncle        bácsi        Polish        True        filter 2: horizontal filter
+female cousin        unokatestvére        Spanish        False        not filtered out
+male cousin        unokatestvér        Spanish        False        not filtered out
+son of father's brother        unokatestvére        Persian        True        filter 2: horizontal filter
+daughter of father's brother        unokatestvére        Persian        True        filter 2: horizontal filter
+son of father's sister        unokatestvére        Persian        True        filter 2: horizontal filter
+daughter of father's sister        unokatestvére        Persian        True        filter 2: horizontal filter
+son of mother's brother        unokatestvére        Persian        True        filter 2: horizontal filter
+daughter of mother's brother        meny        Persian        True        filter 3: back translation filter
+son of mother's sister        unokatestvére        Persian        True        filter 2: horizontal filter
+daughter of mother's sister        nagynéni        Persian        True        filter 3: back translation filter
+child of father's brother        unokatestvére        Turkish        True        filter 3: back translation filter
+child of father's sister        néni gyermeke        Turkish        True        filter 1: multi word filter
+child of mother's brother        anyai nagybátyja gyermeke        Turkish        True        filter 1: multi word filter
+child of mother's sister        néni gyermeke        Turkish        True        filter 1: multi word filter
+nibling        unokaöccse        Turkish        True        filter 4: new vertical filter
+elder male cousin        unokatestvére        Japanese        True        filter 2: horizontal filter
+younger male cousin        unokatestvér        Japanese        True        filter 3: back translation filter
+elder female cousin        unokatestvére        Japanese        True        filter 2: horizontal filter
+younger female cousin        unokatestvére        Japanese        True        filter 2: horizontal filter
+son of parent's brother        unokatestvér        Estonian        True        filter 3: back translation filter
+daughter of parent's brother        unokatestvére        Estonian        True        filter 3: back translation filter
+son of parent's sister        unokatestvére        Estonian        True        filter 3: back translation filter
+daughter of parent's sister        unokahúga        Estonian        True        filter 3: back translation filter
+younger sibling        öcsi        Korean        True        filter 3: back translation filter
+elder sibling        nagytestvér        Hungarian        False        not filtered out
