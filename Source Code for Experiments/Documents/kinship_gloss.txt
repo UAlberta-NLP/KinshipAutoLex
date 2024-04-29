@@ -1,0 +1,71 @@
+sibling    sibling    brother or sister    English
+grandchild    grandchild    child of son or daughter    English
+侄子    brother's son    兄弟的儿子    Mandarin    
+孙女    son's daughter    儿子的女儿    Mandarin
+姐姐    elder sister    更年长的姐妹    Mandarin
+外孙    daughter's son    女儿的儿子    Mandarin
+表姐    elder, daughter of mother's sibling    更年长的女性表亲    Mandarin
+外甥    sister's son    姐妹的儿子    Mandarin
+堂妹    younger, daughter of father's brother    更年轻的女性堂亲    Mandarin
+祖母    paternal grandmother    爸爸的妈妈    Mandarin
+表妹    younger, daughter of mother's sibling    更年轻的女性表亲    Mandarin
+堂哥    elder, son of father's brother    更年长的男性堂亲    Mandarin
+孙子    son's son    儿子的儿子    Mandarin
+甥女    sister's daughter    姐妹的女儿    Mandarin
+妹妹    younger sister    更年轻的姐妹    Mandarin
+外孙女    daughter's daughter    女儿的女儿    Mandarin
+侄女    brother's daughter    兄弟的女儿    Mandarin
+祖父    paternal grandfather    爸爸的爸爸    Mandarin
+外祖父    maternal grandfather    妈妈的爸爸    Mandarin
+表哥    elder, son of mother's sibling    更年长的男性表亲    Mandarin
+哥哥    elder brother    更年长的兄弟    Mandarin
+外祖母    maternal grandmother    妈妈的妈妈    Mandarin
+堂姐    elder, daughter of father's brother    更年长的女性堂亲    Mandarin
+弟弟    younger brother    更年幼的兄弟    Mandarin
+堂弟    younger, son of father's brother    更年幼的男性堂亲    Mandarin
+表弟    younger, son of mother's sibling    更年轻的男性表亲    Mandarin
+姨妈    maternal aunt    妈妈的姐妹    Mandarin    
+姑姑    paternal aunt    爸爸的姐妹    Mandarin
+舅舅    maternal uncle    妈妈的兄弟    Mandarin
+祖父母    paternal grandparent    爸爸的父母    Mandarin
+外祖父母    maternal grandparent    妈妈的父母    Mandarin
+叔叔    father's younger brother    爸爸的弟弟    Mandarin
+伯伯    father's elder brother    爸爸的哥哥    Mandarin
+cousin    cousin    child of your aunt or uncle    English    
+grandson    grandson    male grandchild    English
+granddaughter    granddaughter    female grandchild    English     
+grandparent    grandparent    parent of your father or mother    English
+grandfather    grandfather    father of your father or mother    English
+grandmother    grandmother    mother of your father or mother    English    
+nephew    nephew    son of your brother or sister    English
+niece    niece    daughter of your brother or sister    English
+uncle    uncle    brother of your father or mother    English
+aunt    aunt    sister of your father or mother    English
+brother    brother    males with the same parents as you    English
+sister    sister    females with the same parents as you    English
+stryjek    paternal uncle    wujka ze strony ojca    Polish
+prima    female cousin    hija de tía o tío    Spanish
+primo    male cousin    hijo de tía o tío    Spanish  
+پسرعمو‎    son of father's brother    پسر برادر پدر‎    Persian
+دخترعمو‎    daughter of father's brother    دختر برادر پدر‎    Persian
+پسرعمه‎    son of father's sister    پسر خواهر پدر‎    Persian
+دخترعمه‎    daughter of father's sister    دختر خواهر پدر‎    Persian
+پسردائی‎    son of mother's brother    پسر برادر مادر‎    Persian
+دختردائی‎    daughter of mother's brother    دختر برادر مادر‎    Persian
+پسرخاله‎    son of mother's sister    پسر خواهر مادر‎    Persian
+دخترخاله‎    daughter of mother's sister    دختر خواهر مادر‎    Persian
+amcaçocuğu    child of father's brother    babanın erkek kardeşinin çocuğu    Turkish
+halaçocuğu    child of father's sister    babanın kız kardeşinin çocuğu    Turkish
+dayıçocuğu    child of mother's brother    annenin erkek kardeşinin çocuğu    Turkish
+teyzeçocuğu    child of mother's sister    annenin kız kardeşinin çocuğu    Turkish
+yeğen    nibling    erkek veya kız kardeşinizin çocuğu    Turkish
+従兄    elder male cousin    年上の男性のいとこ    Japanese
+従弟    younger male cousin    年下の男性のいとこ    Japanese
+従姉    elder female cousin    年上の女性のいとこ    Japanese
+従妹    younger female cousin    年下の女性のいとこ    Japanese
+onupoeg    son of parent's brother    lapsevanema venna poeg    Estonian
+onutütar    daughter of parent's brother    lapsevanema venna tütar    Estonian
+tädipoeg    son of parent's sister    lapsevanema õe poeg    Estonian
+täditütar    daughter of parent's sister    lapsevanema õe tütar    Estonian
+동생    younger sibling    남동생이나여동생    Korean
+nagytestvér    elder sibling    idősebb testvér vagy idősebb nővér    Hungarian
