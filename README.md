@@ -43,8 +43,10 @@ can further improve the accuracy of our method.
 
 This folder contains the implementation of the method described in the paper and a file to evaluate the results.
 The files in this folder allow you to replicate the experiment in Section 5 of our paper, to generate the results we reported in Table 3.
+
 #### Generating All Concepts
-This folder contains a Python file to generate all potential speaker's gender unspecific concepts, and the 2 outputted files: "new_concepts" and "new_relations"
+This folder contains a Python file to generate all potential speaker's gender unspecific concepts, and the 2 outputted files are: "new_concepts" and "new_relations"
+The files in this folder allow you to generate the results we reported in Table 2.
 
 ## Operating System
 Microsoft Windows 10, Version 10.0.19045.
