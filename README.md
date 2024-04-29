@@ -46,21 +46,13 @@ The files in this folder allow you to replicate the experiment in Section 5 of o
 #### Codes contained
 ##### goolge_trans_method_cleaned.py
 > This file contains the implementation of the method described in section 4 of the paper, in which the used translator is Google Translate.
-
 > The output of this code is a ".txt" file in the "Results" folder.
-
-> Requiring one additional package, googletrans==3.1.0a0, which can be installed by pip:
-
+> This code requiring one additional package, googletrans==3.1.0a0, which can be installed by pip:
 > This file takes 3 arguments.
-
 > -l takes a string input that indicates the target language of this run
-
 > -t takes a boolean input that indicates whether to use the prepared set of translations in the folder "Translation".
-
 > -b takes a boolean input that indicates whether to use the prepared set of results of back translations in the folder "Translation".
-
 > The default target language is English, and the prepared translation and back-translation results will are not used by default.
-
 > Sample run: python goolge_trans_method_cleaned.py -l English -t True -b True  
 
 ##### evaluate_cleaned_version.py
