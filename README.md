@@ -6,3 +6,9 @@ This folder contains the implementation of the method described in the paper and
 
 # Generating All Concepts
 This folder contains a Python file to generate all potential speaker's gender unspecific concepts, and the 2 outputted files: "new_concepts" and "new_relations"
+
+# Operating System
+Microsoft Windows 10, Version 10.0.19045.
+
+# Python Version
+Python 3.9.12
