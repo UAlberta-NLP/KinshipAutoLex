@@ -35,20 +35,6 @@ and ChatGPT.
 Our error analysis indicates 
 that enhancing the quality of translations 
 can further improve the accuracy of our method.
-<div>
-<textarea id="copyText" style="width:100%;height:100px;">
-This is the text that will be copied.
-</textarea>
-<button onclick="copyFunction()">Copy Text</button>
-</div>
-
-<script>
-function copyFunction() {
-  var copyText = document.getElementById("copyText");
-  copyText.select();
-  document.execCommand("copy");
-}
-</script>
 
 ## Codes
 
@@ -75,6 +61,22 @@ The files in this folder allow you to replicate the experiment in Section 5 of o
 > The default target language is English, and the prepared translation and back-translation results will are not used by default.
 
 > Sample run: python goolge_trans_method_cleaned.py -l English -t True -b True  
+
+<div>
+<textarea id="copyText" style="width:100%;height:100px;">
+This is the text that will be copied.
+</textarea>
+<button onclick="copyFunction()">Copy Text</button>
+</div>
+
+<script>
+function copyFunction() {
+  var copyText = document.getElementById("copyText");
+  copyText.select();
+  document.execCommand("copy");
+}
+</script>
+
 
 ##### evaluate_cleaned_version.py
 This file contains the code to evaluate the results outputted by "goolge_trans_method_cleaned.py".
