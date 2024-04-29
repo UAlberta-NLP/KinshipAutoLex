@@ -1,2 +1,2 @@
-# KinshipAutoLex
-This repository is for the paper Translation-based Lexicalization Generation and Lexical Gap Detection: Application to Kinship Terms.
+# Results
+This folder contains the generated results of the implemented method.
