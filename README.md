@@ -69,17 +69,19 @@ The files in this folder allow you to replicate the experiment in Section 5 of o
 
 
 ##### evaluate_cleaned_version.py
-This file contains the code to evaluate the results outputted by "goolge_trans_method_cleaned.py".
-
-The output of this code is the Acc of LexGen and F1 Score of LexGap. 
- 
-This file takes 1 argument.
-
--l takes a string input that indicates the target language.
-
-The default target language is English.
-
-Sample run: python evaluate_cleaned_version.py -l English
+>This file contains the code to evaluate the results outputted by "goolge_trans_method_cleaned.py".
+>
+>The output of this code is the Acc of LexGen and F1 Score of LexGap. 
+> 
+>This file takes 1 argument.
+>
+>-l takes a string input that indicates the target language.
+>
+>The default target language is English.
+>
+>Sample run: python evaluate_cleaned_version.py -l English
+>
+>To evaluate the results on other languages, replacing "English" in the sample run with the target language you want.
 
 
 
