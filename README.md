@@ -61,9 +61,10 @@ The files in this folder allow you to replicate the experiment in Section 5 of o
 > The default target language is English, and the prepared translation and back-translation results will are not used by default.
 
 > Sample run: python goolge_trans_method_cleaned.py -l English -t True -b True
-> To replicate the results on the 13 languages we reported on the paper, 12 more commands are needed, one for each remaining language.
-> Replacing "English" with other languages will replicate the results of that language.
-> We reported our results on: English, Spanish,	Russian,	French,	German,	Mandarin,	Persian,	Polish,	Arabic,	Italian,	Mongolian,	Hungarian and Hindi.   
+> 
+> To replicate the results on the 13 languages we reported on the paper, other than the command in the sample run, 12 more commands are needed, one for each remaining language.
+> The remaining commands can be made by replacing "English" with the target language.
+> We reported our results on English, Spanish,	Russian,	French,	German,	Mandarin,	Persian,	Polish,	Arabic,	Italian,	Mongolian,	Hungarian and Hindi.   
 
 
 ##### evaluate_cleaned_version.py
