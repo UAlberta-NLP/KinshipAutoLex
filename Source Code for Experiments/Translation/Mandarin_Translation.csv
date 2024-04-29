@@ -1,0 +1,72 @@
+Concept,Source language,Target Language,Source Word,Target Word,Query,Query translation
+sibling,English,Mandarin,sibling,兄弟姐妹,sibling: brother or sister,兄弟姐妹：兄弟或姐妹
+grandchild,English,Mandarin,grandchild,孙子或孙女,grandchild: child of son or daughter,孙子或孙女：儿子或女儿的孩子
+brother's son,Mandarin,Mandarin,侄子,侄子,侄子: 兄弟的儿子,侄子: 兄弟的儿子
+son's daughter,Mandarin,Mandarin,孙女,孙女,孙女: 儿子的女儿,孙女: 儿子的女儿
+elder sister,Mandarin,Mandarin,姐姐,姐姐,姐姐: 更年长的姐妹,姐姐: 更年长的姐妹
+daughter's son,Mandarin,Mandarin,外孙,外孙,外孙: 女儿的儿子,外孙: 女儿的儿子
+"elder, daughter of mother's sibling",Mandarin,Mandarin,表姐,表姐,表姐: 更年长的女性表亲,表姐: 更年长的女性表亲
+sister's son,Mandarin,Mandarin,外甥,外甥,外甥: 姐妹的儿子,外甥: 姐妹的儿子
+"younger, daughter of father's brother",Mandarin,Mandarin,堂妹,堂妹,堂妹: 更年轻的女性堂亲,堂妹: 更年轻的女性堂亲
+paternal grandmother,Mandarin,Mandarin,祖母,祖母,祖母: 爸爸的妈妈,祖母: 爸爸的妈妈
+"younger, daughter of mother's sibling",Mandarin,Mandarin,表妹,表妹,表妹: 更年轻的女性表亲,表妹: 更年轻的女性表亲
+"elder, son of father's brother",Mandarin,Mandarin,堂哥,堂哥,堂哥: 更年长的男性堂亲,堂哥: 更年长的男性堂亲
+son's son,Mandarin,Mandarin,孙子,孙子,孙子: 儿子的儿子,孙子: 儿子的儿子
+sister's daughter,Mandarin,Mandarin,甥女,甥女,甥女: 姐妹的女儿,甥女: 姐妹的女儿
+younger sister,Mandarin,Mandarin,妹妹,妹妹,妹妹: 更年轻的姐妹,妹妹: 更年轻的姐妹
+daughter's daughter,Mandarin,Mandarin,外孙女,外孙女,外孙女: 女儿的女儿,外孙女: 女儿的女儿
+brother's daughter,Mandarin,Mandarin,侄女,侄女,侄女: 兄弟的女儿,侄女: 兄弟的女儿
+paternal grandfather,Mandarin,Mandarin,祖父,祖父,祖父: 爸爸的爸爸,祖父: 爸爸的爸爸
+maternal grandfather,Mandarin,Mandarin,外祖父,外祖父,外祖父: 妈妈的爸爸,外祖父: 妈妈的爸爸
+"elder, son of mother's sibling",Mandarin,Mandarin,表哥,表哥,表哥: 更年长的男性表亲,表哥: 更年长的男性表亲
+elder brother,Mandarin,Mandarin,哥哥,哥哥,哥哥: 更年长的兄弟,哥哥: 更年长的兄弟
+maternal grandmother,Mandarin,Mandarin,外祖母,外祖母,外祖母: 妈妈的妈妈,外祖母: 妈妈的妈妈
+"elder, daughter of father's brother",Mandarin,Mandarin,堂姐,堂姐,堂姐: 更年长的女性堂亲,堂姐: 更年长的女性堂亲
+younger brother,Mandarin,Mandarin,弟弟,弟弟,弟弟: 更年幼的兄弟,弟弟: 更年幼的兄弟
+"younger, son of father's brother",Mandarin,Mandarin,堂弟,堂弟,堂弟: 更年幼的男性堂亲,堂弟: 更年幼的男性堂亲
+"younger, son of mother's sibling",Mandarin,Mandarin,表弟,表弟,表弟: 更年轻的男性表亲,表弟: 更年轻的男性表亲
+maternal aunt,Mandarin,Mandarin,姨妈,姨妈,姨妈: 妈妈的姐妹,姨妈: 妈妈的姐妹
+paternal aunt,Mandarin,Mandarin,姑姑,姑姑,姑姑: 爸爸的姐妹,姑姑: 爸爸的姐妹
+maternal uncle,Mandarin,Mandarin,舅舅,舅舅,舅舅: 妈妈的兄弟,舅舅: 妈妈的兄弟
+paternal grandparent,Mandarin,Mandarin,祖父母,祖父母,祖父母: 爸爸的父母,祖父母: 爸爸的父母
+maternal grandparent,Mandarin,Mandarin,外祖父母,外祖父母,外祖父母: 妈妈的父母,外祖父母: 妈妈的父母
+father's younger brother,Mandarin,Mandarin,叔叔,叔叔,叔叔: 爸爸的弟弟,叔叔: 爸爸的弟弟
+father's elder brother,Mandarin,Mandarin,伯伯,伯伯,伯伯: 爸爸的哥哥,伯伯: 爸爸的哥哥
+cousin,English,Mandarin,cousin,表弟,cousin: child of your aunt or uncle,表弟：你姑妈或叔叔的孩子
+grandson,English,Mandarin,grandson,孙子,grandson: male grandchild,孙子：男孙
+granddaughter,English,Mandarin,granddaughter,孙女,granddaughter: female grandchild,孙女：女孙
+grandparent,English,Mandarin,grandparent,祖父母,grandparent: parent of your father or mother,祖父母：你父亲或母亲的父母
+grandfather,English,Mandarin,grandfather,祖父,grandfather: father of your father or mother,祖父：你父亲或母亲的父亲
+grandmother,English,Mandarin,grandmother,祖母,grandmother: mother of your father or mother,祖母：你父亲或母亲的母亲
+nephew,English,Mandarin,nephew,侄子,nephew: son of your brother or sister,侄子：你兄弟或姐妹的儿子
+niece,English,Mandarin,niece,侄女,niece: daughter of your brother or sister,侄女：你兄弟或姐妹的女儿
+uncle,English,Mandarin,uncle,叔叔,uncle: brother of your father or mother,叔叔：你父亲或母亲的兄弟
+aunt,English,Mandarin,aunt,阿姨,aunt: sister of your father or mother,阿姨：你父亲或母亲的姐妹
+brother,English,Mandarin,brother,兄弟,brother: males with the same parents as you,兄弟：与你同父母的男性
+sister,English,Mandarin,sister,姐妹,sister: females with the same parents as you,姐妹：与你同父母的女性
+paternal uncle,Polish,Mandarin,stryjek,叔叔,stryjek: wujka ze strony ojca,叔叔：父亲一方的叔叔
+female cousin,Spanish,Mandarin,prima,表弟,prima: hija de tía o tío,表弟：姨妈或叔叔的女儿
+male cousin,Spanish,Mandarin,primo,表弟,primo: hijo de tía o tío,表弟：姑妈或叔叔的儿子
+son of father's brother,Persian,Mandarin,پسرعمو‎,表弟,پسرعمو‎: پسر برادر پدر‎,表弟：父亲的兄弟的儿子
+daughter of father's brother,Persian,Mandarin,دخترعمو‎,表弟,دخترعمو‎: دختر برادر پدر‎,表弟：父亲的兄弟的女儿
+son of father's sister,Persian,Mandarin,پسرعمه‎,表弟,پسرعمه‎: پسر خواهر پدر‎,表弟：父亲的姐妹的儿子
+daughter of father's sister,Persian,Mandarin,دخترعمه‎,表弟,دخترعمه‎: دختر خواهر پدر‎,表弟：父亲的姐妹的女儿
+son of mother's brother,Persian,Mandarin,پسردائی‎,表弟,پسردائی‎: پسر برادر مادر‎,表弟：母亲的兄弟的儿子
+daughter of mother's brother,Persian,Mandarin,دختردائی‎,儿媳,دختردائی‎: دختر برادر مادر‎,儿媳：母亲的兄弟的女儿
+son of mother's sister,Persian,Mandarin,پسرخاله‎,表弟,پسرخاله‎: پسر خواهر مادر‎,表弟：母亲的姐妹的儿子
+daughter of mother's sister,Persian,Mandarin,دخترخاله‎,婶婶,دخترخاله‎: دختر خواهر مادر‎,婶婶：母亲的姐妹的女儿
+child of father's brother,Turkish,Mandarin,amcaçocuğu,表弟,amcaçocuğu: babanın erkek kardeşinin çocuğu,表弟：父亲的兄弟的孩子
+child of father's sister,Turkish,Mandarin,halaçocuğu,姑妈的孩子,halaçocuğu: babanın kız kardeşinin çocuğu,姑妈的孩子：父亲的姐妹的孩子
+child of mother's brother,Turkish,Mandarin,dayıçocuğu,舅舅的孩子,dayıçocuğu: annenin erkek kardeşinin çocuğu,舅舅的孩子：母亲的兄弟的孩子
+child of mother's sister,Turkish,Mandarin,teyzeçocuğu,姑妈的孩子,teyzeçocuğu: annenin kız kardeşinin çocuğu,姑妈的孩子：母亲的姐妹的孩子
+nibling,Turkish,Mandarin,yeğen,侄子,yeğen: erkek veya kız kardeşinizin çocuğu,侄子：你兄弟或姐妹的孩子
+elder male cousin,Japanese,Mandarin,従兄,表兄弟,従兄: 年上の男性のいとこ,表兄弟：年长的男性表兄弟
+younger male cousin,Japanese,Mandarin,従弟,表弟,従弟: 年下の男性のいとこ,表弟：表弟
+elder female cousin,Japanese,Mandarin,従姉,表妹,従姉: 年上の女性のいとこ,表妹：年长的表妹
+younger female cousin,Japanese,Mandarin,従妹,表妹,従妹: 年下の女性のいとこ,表妹：表妹
+son of parent's brother,Estonian,Mandarin,onupoeg,表弟,onupoeg: lapsevanema venna poeg,表弟：父母兄弟的儿子
+daughter of parent's brother,Estonian,Mandarin,onutütar,表弟,onutütar: lapsevanema venna tütar,表弟：父母兄弟的女儿
+son of parent's sister,Estonian,Mandarin,tädipoeg,表弟,tädipoeg: lapsevanema õe poeg,表弟：父母的姐妹的儿子
+daughter of parent's sister,Estonian,Mandarin,täditütar,侄女,täditütar: lapsevanema õe tütar,侄女：父母姐妹的女儿
+younger sibling,Korean,Mandarin,동생,弟弟,동생: 남동생이나여동생,弟弟：弟弟或妹妹
+elder sibling,Hungarian,Mandarin,nagytestvér,大哥哥,nagytestvér: idősebb testvér vagy idősebb nővér,大哥哥：哥哥或姐姐

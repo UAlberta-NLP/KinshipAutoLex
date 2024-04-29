@@ -1,0 +1,72 @@
+Concept,Source language,Target Language,Source Word,Target Word,Query,Query translation
+sibling,English,English,sibling,sibling,sibling: brother or sister,sibling: brother or sister
+grandchild,English,English,grandchild,grandchild,grandchild: child of son or daughter,grandchild: child of son or daughter
+brother's son,Mandarin,English,侄子,nephew,侄子: 兄弟的儿子,nephew: brother’s son
+son's daughter,Mandarin,English,孙女,granddaughter,孙女: 儿子的女儿,granddaughter: son’s daughter
+elder sister,Mandarin,English,姐姐,sister,姐姐: 更年长的姐妹,sister: older sister
+daughter's son,Mandarin,English,外孙,grandson,外孙: 女儿的儿子,grandson: daughter’s son
+"elder, daughter of mother's sibling",Mandarin,English,表姐,cousin,表姐: 更年长的女性表亲,cousin: an older female cousin
+sister's son,Mandarin,English,外甥,nephew,外甥: 姐妹的儿子,nephew: sister’s son
+"younger, daughter of father's brother",Mandarin,English,堂妹,cousin,堂妹: 更年轻的女性堂亲,cousin: a younger female cousin
+paternal grandmother,Mandarin,English,祖母,grandmother,祖母: 爸爸的妈妈,grandmother: dad’s mother
+"younger, daughter of mother's sibling",Mandarin,English,表妹,cousin,表妹: 更年轻的女性表亲,cousin: a younger female cousin
+"elder, son of father's brother",Mandarin,English,堂哥,cousin,堂哥: 更年长的男性堂亲,cousin: an older male cousin
+son's son,Mandarin,English,孙子,grandson,孙子: 儿子的儿子,grandson: son of son
+sister's daughter,Mandarin,English,甥女,niece,甥女: 姐妹的女儿,niece: sister's daughter
+younger sister,Mandarin,English,妹妹,sister,妹妹: 更年轻的姐妹,sister: younger sister
+daughter's daughter,Mandarin,English,外孙女,granddaughter,外孙女: 女儿的女儿,granddaughter: daughter’s daughter
+brother's daughter,Mandarin,English,侄女,niece,侄女: 兄弟的女儿,niece: brother’s daughter
+paternal grandfather,Mandarin,English,祖父,grandfather,祖父: 爸爸的爸爸,grandfather: dad’s dad
+maternal grandfather,Mandarin,English,外祖父,grandfather,外祖父: 妈妈的爸爸,grandfather: mom’s dad
+"elder, son of mother's sibling",Mandarin,English,表哥,cousin,表哥: 更年长的男性表亲,cousin: an older male cousin
+elder brother,Mandarin,English,哥哥,brother,哥哥: 更年长的兄弟,brother: the older brother
+maternal grandmother,Mandarin,English,外祖母,grandmother,外祖母: 妈妈的妈妈,grandmother: mom’s mother
+"elder, daughter of father's brother",Mandarin,English,堂姐,cousin,堂姐: 更年长的女性堂亲,cousin: an older female cousin
+younger brother,Mandarin,English,弟弟,brother,弟弟: 更年幼的兄弟,brother: younger brother
+"younger, son of father's brother",Mandarin,English,堂弟,cousin,堂弟: 更年幼的男性堂亲,cousin: a younger male cousin
+"younger, son of mother's sibling",Mandarin,English,表弟,cousin,表弟: 更年轻的男性表亲,cousin: a younger male cousin
+maternal aunt,Mandarin,English,姨妈,aunt,姨妈: 妈妈的姐妹,aunt: mother’s sister
+paternal aunt,Mandarin,English,姑姑,aunt,姑姑: 爸爸的姐妹,aunt: dad’s sister
+maternal uncle,Mandarin,English,舅舅,uncle,舅舅: 妈妈的兄弟,uncle: mom’s brother
+paternal grandparent,Mandarin,English,祖父母,grandparents,祖父母: 爸爸的父母,grandparents: dad’s parents
+maternal grandparent,Mandarin,English,外祖父母,grandparents,外祖父母: 妈妈的父母,grandparents: mom’s parents
+father's younger brother,Mandarin,English,叔叔,uncle,叔叔: 爸爸的弟弟,uncle: dad’s younger brother
+father's elder brother,Mandarin,English,伯伯,uncle,伯伯: 爸爸的哥哥,uncle: dad’s brother
+cousin,English,English,cousin,cousin,cousin: child of your aunt or uncle,cousin: child of your aunt or uncle
+grandson,English,English,grandson,grandson,grandson: male grandchild,grandson: male grandchild
+granddaughter,English,English,granddaughter,granddaughter,granddaughter: female grandchild,granddaughter: female grandchild
+grandparent,English,English,grandparent,grandparent,grandparent: parent of your father or mother,grandparent: parent of your father or mother
+grandfather,English,English,grandfather,grandfather,grandfather: father of your father or mother,grandfather: father of your father or mother
+grandmother,English,English,grandmother,grandmother,grandmother: mother of your father or mother,grandmother: mother of your father or mother
+nephew,English,English,nephew,nephew,nephew: son of your brother or sister,nephew: son of your brother or sister
+niece,English,English,niece,niece,niece: daughter of your brother or sister,niece: daughter of your brother or sister
+uncle,English,English,uncle,uncle,uncle: brother of your father or mother,uncle: brother of your father or mother
+aunt,English,English,aunt,aunt,aunt: sister of your father or mother,aunt: sister of your father or mother
+brother,English,English,brother,brother,brother: males with the same parents as you,brother: males with the same parents as you
+sister,English,English,sister,sister,sister: females with the same parents as you,sister: females with the same parents as you
+paternal uncle,Polish,English,stryjek,uncle,stryjek: wujka ze strony ojca,uncle: an uncle on the father's side
+female cousin,Spanish,English,prima,cousin,prima: hija de tía o tío,cousin: daughter of aunt or uncle
+male cousin,Spanish,English,primo,cousin,primo: hijo de tía o tío,cousin: son of aunt or uncle
+son of father's brother,Persian,English,پسرعمو‎,cousin,پسرعمو‎: پسر برادر پدر‎,cousin: father's brother's son
+daughter of father's brother,Persian,English,دخترعمو‎,cousin,دخترعمو‎: دختر برادر پدر‎,cousin: father's brother's daughter
+son of father's sister,Persian,English,پسرعمه‎,cousin,پسرعمه‎: پسر خواهر پدر‎,cousin: father's sister's son
+daughter of father's sister,Persian,English,دخترعمه‎,cousin,دخترعمه‎: دختر خواهر پدر‎,cousin: father's sister's daughter
+son of mother's brother,Persian,English,پسردائی‎,cousin,پسردائی‎: پسر برادر مادر‎,cousin: mother's brother's son
+daughter of mother's brother,Persian,English,دختردائی‎,daughter-in-law,دختردائی‎: دختر برادر مادر‎,daughter-in-law: mother's brother's daughter
+son of mother's sister,Persian,English,پسرخاله‎,cousin,پسرخاله‎: پسر خواهر مادر‎,cousin: mother's sister's son
+daughter of mother's sister,Persian,English,دخترخاله‎,aunt,دخترخاله‎: دختر خواهر مادر‎,aunt: mother's sister's daughter
+child of father's brother,Turkish,English,amcaçocuğu,cousin,amcaçocuğu: babanın erkek kardeşinin çocuğu,cousin: father's brother's child
+child of father's sister,Turkish,English,halaçocuğu,aunt's child,halaçocuğu: babanın kız kardeşinin çocuğu,aunt's child: father's sister's child
+child of mother's brother,Turkish,English,dayıçocuğu,maternal uncle's child,dayıçocuğu: annenin erkek kardeşinin çocuğu,maternal uncle's child: mother's brother's child
+child of mother's sister,Turkish,English,teyzeçocuğu,aunt's child,teyzeçocuğu: annenin kız kardeşinin çocuğu,aunt's child: mother's sister's child
+nibling,Turkish,English,yeğen,nephew,yeğen: erkek veya kız kardeşinizin çocuğu,nephew: your brother or sister's child
+elder male cousin,Japanese,English,従兄,cousin,従兄: 年上の男性のいとこ,cousin: older male cousin
+younger male cousin,Japanese,English,従弟,cousin,従弟: 年下の男性のいとこ,cousin: a younger male cousin
+elder female cousin,Japanese,English,従姉,cousin,従姉: 年上の女性のいとこ,cousin: older female cousin
+younger female cousin,Japanese,English,従妹,cousin,従妹: 年下の女性のいとこ,cousin: a younger female cousin
+son of parent's brother,Estonian,English,onupoeg,cousin,onupoeg: lapsevanema venna poeg,cousin: the son of a parent's brother
+daughter of parent's brother,Estonian,English,onutütar,cousin,onutütar: lapsevanema venna tütar,cousin: the daughter of a parent's brother
+son of parent's sister,Estonian,English,tädipoeg,cousin,tädipoeg: lapsevanema õe poeg,cousin: the son of a parent's sister
+daughter of parent's sister,Estonian,English,täditütar,niece,täditütar: lapsevanema õe tütar,niece: the daughter of a parent's sister
+younger sibling,Korean,English,동생,younger brother,동생: 남동생이나여동생,younger brother: younger brother or younger sister
+elder sibling,Hungarian,English,nagytestvér,big brother,nagytestvér: idősebb testvér vagy idősebb nővér,big brother: older brother or older sister

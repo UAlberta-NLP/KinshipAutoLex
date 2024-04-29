@@ -1,0 +1,72 @@
+Concept,Source language,Target Language,Source Word,Target Word,Query,Query translation
+sibling,English,French,sibling,frère ou sœur,sibling: brother or sister,frère ou sœur : frère ou sœur
+grandchild,English,French,grandchild,petit-enfant,grandchild: child of son or daughter,petit-enfant : enfant d'un fils ou d'une fille
+brother's son,Mandarin,French,侄子,neveu,侄子: 兄弟的儿子,neveu : fils du frère
+son's daughter,Mandarin,French,孙女,petite-fille,孙女: 儿子的女儿,petite-fille : fille du fils
+elder sister,Mandarin,French,姐姐,soeur,姐姐: 更年长的姐妹,soeur: soeur aînée
+daughter's son,Mandarin,French,外孙,petit-fils,外孙: 女儿的儿子,petit-fils : fils de la fille
+"elder, daughter of mother's sibling",Mandarin,French,表姐,cousin,表姐: 更年长的女性表亲,cousin : une cousine plus âgée
+sister's son,Mandarin,French,外甥,neveu,外甥: 姐妹的儿子,neveu : fils de la sœur
+"younger, daughter of father's brother",Mandarin,French,堂妹,cousin,堂妹: 更年轻的女性堂亲,cousin : une cousine plus jeune
+paternal grandmother,Mandarin,French,祖母,grand-mère,祖母: 爸爸的妈妈,grand-mère : la mère de papa
+"younger, daughter of mother's sibling",Mandarin,French,表妹,cousin,表妹: 更年轻的女性表亲,cousin : une cousine plus jeune
+"elder, son of father's brother",Mandarin,French,堂哥,cousin,堂哥: 更年长的男性堂亲,cousin : un cousin plus âgé
+son's son,Mandarin,French,孙子,petit-fils,孙子: 儿子的儿子,petit-fils : fils de fils
+sister's daughter,Mandarin,French,甥女,nièce,甥女: 姐妹的女儿,nièce : fille de ma sœur
+younger sister,Mandarin,French,妹妹,soeur,妹妹: 更年轻的姐妹,soeur: soeur cadette
+daughter's daughter,Mandarin,French,外孙女,petite-fille,外孙女: 女儿的女儿,petite-fille : la fille de la fille
+brother's daughter,Mandarin,French,侄女,nièce,侄女: 兄弟的女儿,nièce : fille du frère
+paternal grandfather,Mandarin,French,祖父,grand-père,祖父: 爸爸的爸爸,grand-père : le père de papa
+maternal grandfather,Mandarin,French,外祖父,grand-père,外祖父: 妈妈的爸爸,grand-père : le père de maman
+"elder, son of mother's sibling",Mandarin,French,表哥,cousin,表哥: 更年长的男性表亲,cousin : un cousin plus âgé
+elder brother,Mandarin,French,哥哥,frère,哥哥: 更年长的兄弟,frère : le frère aîné
+maternal grandmother,Mandarin,French,外祖母,grand-mère,外祖母: 妈妈的妈妈,grand-mère : la mère de maman
+"elder, daughter of father's brother",Mandarin,French,堂姐,cousin,堂姐: 更年长的女性堂亲,cousin : une cousine plus âgée
+younger brother,Mandarin,French,弟弟,frère,弟弟: 更年幼的兄弟,frère : frère cadet
+"younger, son of father's brother",Mandarin,French,堂弟,cousin,堂弟: 更年幼的男性堂亲,cousin : un cousin plus jeune
+"younger, son of mother's sibling",Mandarin,French,表弟,cousin,表弟: 更年轻的男性表亲,cousin : un cousin plus jeune
+maternal aunt,Mandarin,French,姨妈,tante,姨妈: 妈妈的姐妹,tante : sœur de la mère
+paternal aunt,Mandarin,French,姑姑,tante,姑姑: 爸爸的姐妹,tante : la sœur de papa
+maternal uncle,Mandarin,French,舅舅,oncle,舅舅: 妈妈的兄弟,oncle : le frère de maman
+paternal grandparent,Mandarin,French,祖父母,grands-parents,祖父母: 爸爸的父母,grands-parents : les parents de papa
+maternal grandparent,Mandarin,French,外祖父母,grands-parents,外祖父母: 妈妈的父母,grands-parents : les parents de maman
+father's younger brother,Mandarin,French,叔叔,oncle,叔叔: 爸爸的弟弟,oncle : le frère cadet de papa
+father's elder brother,Mandarin,French,伯伯,oncle,伯伯: 爸爸的哥哥,oncle : le frère de papa
+cousin,English,French,cousin,cousin,cousin: child of your aunt or uncle,cousin : enfant de votre tante ou de votre oncle
+grandson,English,French,grandson,petit-fils,grandson: male grandchild,petit-fils : petit-enfant mâle
+granddaughter,English,French,granddaughter,petite-fille,granddaughter: female grandchild,petite-fille : petite-fille
+grandparent,English,French,grandparent,grand-parent,grandparent: parent of your father or mother,grand-parent : parent de votre père ou de votre mère
+grandfather,English,French,grandfather,grand-père,grandfather: father of your father or mother,grand-père : père de votre père ou de votre mère
+grandmother,English,French,grandmother,grand-mère,grandmother: mother of your father or mother,grand-mère : mère de votre père ou de votre mère
+nephew,English,French,nephew,neveu,nephew: son of your brother or sister,neveu : fils de ton frère ou de ta sœur
+niece,English,French,niece,nièce,niece: daughter of your brother or sister,nièce : fille de votre frère ou de votre sœur
+uncle,English,French,uncle,oncle,uncle: brother of your father or mother,oncle : frère de ton père ou de ta mère
+aunt,English,French,aunt,tante,aunt: sister of your father or mother,tante : sœur de votre père ou de votre mère
+brother,English,French,brother,frère,brother: males with the same parents as you,frère : hommes avec les mêmes parents que toi
+sister,English,French,sister,soeur,sister: females with the same parents as you,soeur : filles des mêmes parents que vous
+paternal uncle,Polish,French,stryjek,oncle,stryjek: wujka ze strony ojca,oncle : un oncle du côté du père
+female cousin,Spanish,French,prima,cousine,prima: hija de tía o tío,cousine : fille d'un oncle ou d'une tante
+male cousin,Spanish,French,primo,cousin,primo: hijo de tía o tío,cousin : fils d'une tante ou d'un oncle
+son of father's brother,Persian,French,پسرعمو‎,cousin,پسرعمو‎: پسر برادر پدر‎,cousin : fils du frère du père
+daughter of father's brother,Persian,French,دخترعمو‎,cousin,دخترعمو‎: دختر برادر پدر‎,cousin : fille du frère du père
+son of father's sister,Persian,French,پسرعمه‎,cousin,پسرعمه‎: پسر خواهر پدر‎,cousin : fils de la sœur du père
+daughter of father's sister,Persian,French,دخترعمه‎,cousin,دخترعمه‎: دختر خواهر پدر‎,cousin : fille de la sœur du père
+son of mother's brother,Persian,French,پسردائی‎,cousin,پسردائی‎: پسر برادر مادر‎,cousin : fils du frère de la mère
+daughter of mother's brother,Persian,French,دختردائی‎,belle-fille,دختردائی‎: دختر برادر مادر‎,belle-fille : fille du frère de la mère
+son of mother's sister,Persian,French,پسرخاله‎,cousin,پسرخاله‎: پسر خواهر مادر‎,cousin : fils de la sœur de la mère
+daughter of mother's sister,Persian,French,دخترخاله‎,tante,دخترخاله‎: دختر خواهر مادر‎,tante : fille de la sœur de la mère
+child of father's brother,Turkish,French,amcaçocuğu,cousin,amcaçocuğu: babanın erkek kardeşinin çocuğu,cousin : enfant du frère du père
+child of father's sister,Turkish,French,halaçocuğu,enfant de la tante,halaçocuğu: babanın kız kardeşinin çocuğu,enfant de la tante : enfant de la sœur du père
+child of mother's brother,Turkish,French,dayıçocuğu,enfant de l'oncle maternel,dayıçocuğu: annenin erkek kardeşinin çocuğu,enfant de l'oncle maternel : enfant du frère de la mère
+child of mother's sister,Turkish,French,teyzeçocuğu,enfant de la tante,teyzeçocuğu: annenin kız kardeşinin çocuğu,enfant de la tante : enfant de la sœur de la mère
+nibling,Turkish,French,yeğen,neveu,yeğen: erkek veya kız kardeşinizin çocuğu,neveu : l'enfant de votre frère ou de votre sœur
+elder male cousin,Japanese,French,従兄,cousin,従兄: 年上の男性のいとこ,cousin : cousin masculin plus âgé
+younger male cousin,Japanese,French,従弟,cousin,従弟: 年下の男性のいとこ,cousin : un cousin plus jeune
+elder female cousin,Japanese,French,従姉,cousin,従姉: 年上の女性のいとこ,cousin : cousine plus âgée
+younger female cousin,Japanese,French,従妹,cousin,従妹: 年下の女性のいとこ,cousin : une cousine plus jeune
+son of parent's brother,Estonian,French,onupoeg,cousin,onupoeg: lapsevanema venna poeg,cousin : le fils du frère d'un parent
+daughter of parent's brother,Estonian,French,onutütar,cousine,onutütar: lapsevanema venna tütar,cousine : fille du frère d'un parent
+son of parent's sister,Estonian,French,tädipoeg,cousin,tädipoeg: lapsevanema õe poeg,cousin : le fils de la sœur d'un parent
+daughter of parent's sister,Estonian,French,täditütar,nièce,täditütar: lapsevanema õe tütar,nièce : fille de la sœur d'un parent
+younger sibling,Korean,French,동생,frère cadet,동생: 남동생이나여동생,frère cadet : frère cadet ou sœur cadette
+elder sibling,Hungarian,French,nagytestvér,grand frère,nagytestvér: idősebb testvér vagy idősebb nővér,grand frère : frère aîné ou sœur aînée
