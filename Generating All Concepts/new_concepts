@@ -1,0 +1,162 @@
+siblings	younger male sibling	Yn;Br	
+siblings	younger female sibling	Yn;Ss	
+siblings	elder sibling	El;Sb	
+siblings	sibling	Sb	
+siblings	younger sibling	Yn;Sb	
+siblings	elder female sibling	El;Ss	
+siblings	male sibling	Br	
+siblings	elder male sibling	El;Br	
+siblings	female sibling	Ss	
+nibling	male child of elder male sibling	El;Br;So	
+nibling	female child of younger female sibling	Yn;Ss;Da	
+nibling	female child of sibling	Sb;Da	
+nibling	female child of elder sibling	El;Sb;Da	
+nibling	female child of female sibling	Ss;Da	
+nibling	child of male sibling	Br;Ch	
+nibling	child of elder male sibling	El;Br;Ch	
+nibling	male child of younger sibling	Yn;Sb;So	
+nibling	child of elder sibling	El;Sb;Ch	
+nibling	male child of male sibling	Br;So	
+nibling	male child of younger male sibling	Yn;Br;So	
+nibling	male child of elder female sibling	El;Ss;So	
+nibling	male child of younger female sibling	Yn;Ss;So	
+nibling	female child of younger male sibling	Yn;Br;Da	
+nibling	male child of elder sibling	El;Sb;So	
+nibling	child of female sibling	Ss;Ch	
+nibling	child of elder female sibling	El;Ss;Ch	
+nibling	male child of sibling	Sb;So	
+nibling	female child of elder male sibling	El;Br;Da	
+nibling	child of younger sibling	Yn;Sb;Ch	
+nibling	female child of younger sibling	Yn;Sb;Da	
+nibling	child of sibling	Sb;Ch	
+nibling	child of younger male sibling	Yn;Br;Ch	
+nibling	male child of female sibling	Ss;So	
+nibling	female child of male sibling	Br;Da	
+nibling	child of younger female sibling	Yn;Ss;Ch	
+nibling	female child of elder female sibling	El;Ss;Da	
+cousins	male child of female sibling of parent	Pa;Ss;So	
+cousins	younger child of male sibling of male parent	Yn;Fa;Br;Ch	
+cousins	elder female child of male sibling of female parent	El;Mo;Br;Da	
+cousins	elder male child of male sibling of female parent	El;Mo;Br;So	
+cousins	female child of female sibling of parent	Pa;Ss;Da	
+cousins	elder child of male sibling of male parent	El;Fa;Br;Ch	
+cousins	younger male child of sibling of female parent	Yn;Mo;Sb;So	
+cousins	child of sibling of male parent	Fa;Sb;Ch	
+cousins	younger child of sibling of parent	Yn;Pa;Sb;Ch	
+cousins	younger male child of male sibling of parent	Yn;Pa;Br;So	
+cousins	elder child of female sibling of female parent	El;Mo;Ss;Ch	
+cousins	younger male child of female sibling of female parent	Yn;Mo;Ss;So	
+cousins	elder child of female sibling of male parent	El;Fa;Ss;Ch	
+cousins	elder male child of male sibling of male parent	El;Fa;Br;So	
+cousins	elder female child of male sibling of parent	El;Pa;Br;Da	
+cousins	younger child of sibling of female parent	Yn;Mo;Sb;Ch	
+cousins	elder male child of female sibling of female parent	El;Mo;Ss;So	
+cousins	younger female child of sibling of parent	Yn;Pa;Sb;Da	
+cousins	younger female child of female sibling of parent	Yn;Pa;Ss;Da	
+cousins	child of male sibling of male parent	Fa;Br;Ch	
+cousins	elder child of female sibling of parent	El;Pa;Ss;Ch	
+cousins	elder male child of sibling of male parent	El;Fa;Sb;So	
+cousins	elder male child of female sibling of male parent	El;Fa;Ss;So	
+cousins	child of sibling of female parent	Mo;Sb;Ch	
+cousins	younger female child of sibling of male parent	Yn;Fa;Sb;Da	
+cousins	elder female child of female sibling of male parent	El;Fa;Ss;Da	
+cousins	elder female child of female sibling of parent	El;Pa;Ss;Da	
+cousins	child of sibling of parent	Pa;Sb;Ch	
+cousins	younger child of female sibling of male parent	Yn;Fa;Ss;Ch	
+cousins	male child of male sibling of parent	Pa;Br;So	
+cousins	younger male child of female sibling of male parent	Yn;Fa;Ss;So	
+cousins	younger female child of male sibling of male parent	Yn;Fa;Br;Da	
+cousins	elder child of sibling of female parent	El;Mo;Sb;Ch	
+cousins	elder female child of female sibling of female parent	El;Mo;Ss;Da	
+cousins	male child of male sibling of male parent	Fa;Br;So	
+cousins	elder child of male sibling of female parent	El;Mo;Br;Ch	
+cousins	male child of sibling of male parent	Fa;Sb;So	
+cousins	female child of sibling of male parent	Fa;Sb;Da	
+cousins	younger male child of male sibling of female parent	Yn;Mo;Br;So	
+cousins	younger female child of female sibling of female parent	Yn;Mo;Ss;Da	
+cousins	younger male child of sibling of male parent	Yn;Fa;Sb;So	
+cousins	elder female child of male sibling of male parent	El;Fa;Br;Da	
+cousins	younger male child of sibling of parent	Yn;Pa;Sb;So	
+cousins	female child of male sibling of female parent	Mo;Br;Da	
+cousins	elder child of sibling of male parent	El;Fa;Sb;Ch	
+cousins	male child of female sibling of male parent	Fa;Ss;So	
+cousins	younger child of sibling of male parent	Yn;Fa;Sb;Ch	
+cousins	female child of female sibling of female parent	Mo;Ss;Da	
+cousins	elder child of male sibling of parent	El;Pa;Br;Ch	
+cousins	child of female sibling of parent	Pa;Ss;Ch	
+cousins	elder male child of male sibling of parent	El;Pa;Br;So	
+cousins	younger child of female sibling of parent	Yn;Pa;Ss;Ch	
+cousins	elder male child of female sibling of parent	El;Pa;Ss;So	
+cousins	elder female child of sibling of parent	El;Pa;Sb;Da	
+cousins	younger child of male sibling of female parent	Yn;Mo;Br;Ch	
+cousins	female child of male sibling of parent	Pa;Br;Da	
+cousins	male child of male sibling of female parent	Mo;Br;So	
+cousins	child of male sibling of female parent	Mo;Br;Ch	
+cousins	younger female child of male sibling of female parent	Yn;Mo;Br;Da	
+cousins	elder female child of sibling of female parent	El;Mo;Sb;Da	
+cousins	male child of sibling of parent	Pa;Sb;So	
+cousins	child of female sibling of female parent	Mo;Ss;Ch	
+cousins	elder female child of sibling of male parent	El;Fa;Sb;Da	
+cousins	younger child of male sibling of parent	Yn;Pa;Br;Ch	
+cousins	elder male child of sibling of female parent	El;Mo;Sb;So	
+cousins	younger male child of female sibling of parent	Yn;Pa;Ss;So	
+cousins	female child of male sibling of male parent	Fa;Br;Da	
+cousins	younger male child of male sibling of male parent	Yn;Fa;Br;So	
+cousins	female child of female sibling of male parent	Fa;Ss;Da	
+cousins	younger female child of male sibling of parent	Yn;Pa;Br;Da	
+cousins	child of male sibling of parent	Pa;Br;Ch	
+cousins	elder child of sibling of parent	El;Pa;Sb;Ch	
+cousins	elder male child of sibling of parent	El;Pa;Sb;So	
+cousins	younger female child of female sibling of male parent	Yn;Fa;Ss;Da	
+cousins	female child of sibling of parent	Pa;Sb;Da	
+cousins	male child of female sibling of female parent	Mo;Ss;So	
+cousins	child of female sibling of male parent	Fa;Ss;Ch	
+cousins	younger child of female sibling of female parent	Yn;Mo;Ss;Ch	
+cousins	female child of sibling of female parent	Mo;Sb;Da	
+cousins	male child of sibling of female parent	Mo;Sb;So	
+cousins	younger female child of sibling of female parent	Yn;Mo;Sb;Da	
+auncle	elder female sibling of female parent	Mo;El;Ss	
+auncle	elder female sibling of parent	Pa;El;Ss	
+auncle	female sibling of male parent	Fa;Ss	
+auncle	younger sibling of female parent	Mo;Yn;Sb	
+auncle	younger female sibling of female parent	Mo;Yn;Ss	
+auncle	younger male sibling of female parent	Mo;Yn;Br	
+auncle	female sibling of female parent	Mo;Ss	
+auncle	elder male sibling of male parent	Fa;El;Br	
+auncle	elder sibling of female parent	Mo;El;Sb	
+auncle	younger sibling of parent	Pa;Yn;Sb	
+auncle	elder sibling of male parent	Fa;El;Sb	
+auncle	younger male sibling of male parent	Fa;Yn;Br	
+auncle	elder male sibling of female parent	Mo;El;Br	
+auncle	younger female sibling of male parent	Fa;Yn;Ss	
+auncle	male sibling of parent	Pa;Br	
+auncle	male sibling of male parent	Fa;Br	
+auncle	younger male sibling of parent	Pa;Yn;Br	
+auncle	elder male sibling of parent	Pa;El;Br	
+auncle	sibling of parent	Pa;Sb	
+auncle	sibling of female parent	Mo;Sb	
+auncle	elder sibling of parent	Pa;El;Sb	
+auncle	male sibling of female parent	Mo;Br	
+auncle	younger female sibling of parent	Pa;Yn;Ss	
+auncle	female sibling of parent	Pa;Ss	
+auncle	elder female sibling of male parent	Fa;El;Ss	
+auncle	sibling of male parent	Fa;Sb	
+auncle	younger sibling of male parent	Fa;Yn;Sb	
+grandchildren	child of child	Gr;Ch	
+grandchildren	male child of child	Gr;So	
+grandchildren	female child of female child	Da;Da	
+grandchildren	female child of child	Gr;Da	
+grandchildren	female child of male child	So;Da	
+grandchildren	child of female child	Da;Ch	
+grandchildren	child of male child	So;Ch	
+grandchildren	male child of male child	So;So	
+grandchildren	male child of female child	Da;So	
+grandparents	male parent of parent	Gr;Fa	
+grandparents	female parent of parent	Gr;Mo	
+grandparents	female parent of male parent	Fa;Mo	
+grandparents	female parent of female parent	Mo;Mo	
+grandparents	male parent of male parent	Fa;Fa	
+grandparents	parent of parent	Gr;Pr	
+grandparents	parent of female parent	Mo;Pr	
+grandparents	male parent of female parent	Mo;Fa	
+grandparents	parent of male parent	Fa;Pr	
