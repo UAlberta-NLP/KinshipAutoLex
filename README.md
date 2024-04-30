@@ -36,6 +36,15 @@ Our error analysis indicates
 that enhancing the quality of translations 
 can further improve the accuracy of our method.
 
+## Operating System used for development
+
+Microsoft Windows 10, Version 10.0.19045.
+
+## Python Version used for development
+
+Python 3.9.12
+
+
 ## Programs
 
 ### Source Code for Experiments
@@ -49,10 +58,6 @@ The files in this folder allow you to replicate the experiment in Section 5 of o
 > The output of this code is a ".txt" file in the "Results" folder.
 > 
 > This code requires one additional package other than the default packages, googletrans==3.1.0a0
->
-> Operating System: Microsoft Windows 10, Version 10.0.19045.
-> 
-> Python Version: Python 3.9.12
 > 
 > This file takes 3 arguments.
 > 
