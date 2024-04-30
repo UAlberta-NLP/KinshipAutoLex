@@ -36,9 +36,9 @@ Our error analysis indicates
 that enhancing the quality of translations 
 can further improve the accuracy of our method.
 
-## Codes
+## Programs
 
-### Codes For Method
+### Source Code for Experiments
 
 This folder contains the implementation of the method described in the paper and a file to evaluate the results.
 The files in this folder allow you to replicate the experiment in Section 5 of our paper, to generate the results we reported in Table 3.
@@ -49,6 +49,10 @@ The files in this folder allow you to replicate the experiment in Section 5 of o
 > The output of this code is a ".txt" file in the "Results" folder.
 > 
 > This code requires one additional package other than the default packages, googletrans==3.1.0a0
+>
+> Operating System: Microsoft Windows 10, Version 10.0.19045.
+> 
+> Python Version: Python 3.9.12
 > 
 > This file takes 3 arguments.
 > 
@@ -101,8 +105,4 @@ The files in this folder allow you to generate the results we reported in Table 
 >
 >The outputted file "new_relations" contains 3 columns: The subdomain of this edge,  the abbr name of the hyponym concept, and the abbr name of the hypernym concept.
 
-## Operating System
-Microsoft Windows 10, Version 10.0.19045.
 
-## Python Version
-Python 3.9.12
