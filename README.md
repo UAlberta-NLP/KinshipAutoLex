@@ -50,7 +50,10 @@ Python 3.9.12
 
 ## Resource
 
-The .csv file ## Programs
+The .csv file  "Integrated Resource.csv" is a comprehensive mapping resource with one kinship concept per row. 
+The columns are: Subdomain,	Concept,	Abbreviation,	
+Hypernyms,	All words,	Dev words,	Test words,	Category,	Auto gloss,	Seed language,
+Seed word,	Actual gloss,	WN synset ID,	WN synset,	BN synset ID,	BN synset, and WN/BN gloss
 
 
 ## Programs
