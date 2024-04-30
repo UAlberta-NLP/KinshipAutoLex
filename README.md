@@ -36,11 +36,11 @@ Our error analysis indicates
 that enhancing the quality of translations 
 can further improve the accuracy of our method.
 
-## Operating System used for development
+## Operating System used for development and evaluation
 
 Microsoft Windows 10, Version 10.0.19045.
 
-## Python Version used for development
+## Python Version used for development and evaluation
 
 Python 3.9.12
 
