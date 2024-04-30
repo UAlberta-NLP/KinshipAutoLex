@@ -36,15 +36,17 @@ Our error analysis indicates
 that enhancing the quality of translations 
 can further improve the accuracy of our method.
 
-## Operating System used 
+## Operating System
 
 Microsoft Windows 10, Version 10.0.19045.
 
-## Python Version used
+> Note: this OS version was used for development and evaluation, but is not necessarily required for running 
+
+## Python Version
 
 Python 3.9.12
 
-> Note: this environment was used for development and evaluation, but is not necessarily required for running 
+> Note: this Python version was used for development and evaluation, but is not necessarily required for running 
 
 ## Programs
 
