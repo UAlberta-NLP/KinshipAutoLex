@@ -1,0 +1,237 @@
+Subdomain,Concept,Abbreviation,Hypernyms,All words,Dev words,Test words,Category,Auto gloss,Seed language,Seed word,Actual gloss,WN synset ID,WN synset,BN synset ID,BN synset,WN/BN gloss
+grandparents,grandparent,Gr;Pr,-,10,1,2,Test,parent of parent,English,grandparent,parent of your father or mother,grandparent.n.01',['grandparent'],bn:00041363n,"[grandparent, grandparents, great-grandfather, great-grandmother, maternal_grandfather, maternal_grandmother, paternal_grandfather, paternal_grandmother, grandfathers, grandmothers, grand_dad, grand-father_or_grand-mother, grand-mother_or_grand-father, grandma_or_grandpa, grandpa_or_grandma, parent's_parent, parent_of_a_parent, parent_of_parent, abuelo, děde?ek, gramp, grampa, grampi, grampies, gramps, grand-, grand_father, grand_mother, grand_parent, granddaddies, granddads, grandma-in-law, grandmama, grandmamas, grandmamma, grandmas, grandmom, grandmoms, grandmother-in-law, grandpa-in-law, grandpap, grandpapa, grandpappies, grandpappy, grandpaps, grandpas, great-grandma, great-grandpa, great-grandparent, great-grandparents, great-great-grandfather, great-great-grandmother, great-great-grandparent, great_grandparents, meemaw, memaw, pamaw, peepaw, step-grandfather, step-grandmother, step-grandparent]",A parent of your father or mother
+grandparents,grandfather,Gr;Fa,['Gr;Pr'],156,4,24,Test,male parent of parent,English,grandfather,father of your father or mother,grandfather.n.01',"['grandfather', 'gramps', 'granddad', 'grandad', 'granddaddy', 'grandpa']",bn:00041310n,"[grandfather, granddad, grandad, granddaddy, grandpa, gramps]",The father of your father or mother
+grandparents,paternal grandparent,Fa;Pr,['Gr;Pr'],2,1,0,Test,parent of male parent,Mandarin,祖父母,爸爸的父母,-,-,-,-,-
+grandparents,maternal grandparent,Mo;Pr,['Gr;Pr'],1,1,0,Test,parent of female parent,Mandarin,外祖父母,妈妈的父母,-,-,-,-,-
+grandparents,grandmother,Gr;Mo,['Gr;Pr'],157,5,27,Test,female parent of parent,English,grandmother,mother of your father or mother,grandma.n.01',"['grandma', 'grandmother', 'granny', 'grannie', 'gran', 'nan', 'nanna']",bn:15410143n,"[grandmother, beldam, gramma, gran, grand-mother, grandame, grandma, granny, nana, parent's_mother]",Female grandparent
+grandparents,paternal grandfather,Fa;Fa,"['Fa;Pr', 'Gr;Fa']",15,1,1,Test,male parent of male parent,Mandarin,祖父,爸爸的爸爸,-,-,-,-,-
+grandparents,maternal grandfather,Mo;Fa,"['Mo;Pr', 'Gr;Fa']",18,2,1,Test,male parent of female parent,Mandarin,外祖父,妈妈的爸爸,-,-,bn:13293055n,"[maternal_grandfather, ahnentafel_6, father_of_a_mother, father_of_mother, mother's_father]","Mother's father. Avoid using with ""relative"" : add item for mother instead"
+grandparents,paternal grandmother,Fa;Mo,"['Fa;Pr', 'Gr;Mo']",15,3,1,Test,female parent of male parent,Mandarin,祖母,爸爸的妈妈,-,-,bn:12757749n,"[paternal_grandmother, ahnentafel_5, father's_mother, mother_of_a_father, mother_of_father]","Father's mother. Avoid using with ""relative"" : add item for father instead"
+grandparents,maternal grandmother,Mo;Mo,"['Mo;Pr', 'Gr;Mo']",18,3,1,Test,female parent of female parent,Mandarin,外祖母,妈妈的妈妈,-,-,bn:15936199n,"[maternal_grandmother, ahnentafel_7, mother's_mother, mother_of_a_mother, mother_of_mother]","Mother's mother. Avoid using with ""relative"" : add item for mother instead"
+grandchildren,grandchild,Gr;Ch,-,41,4,5,Test,child of child,English,grandchild,child of son or daughter,grandchild.n.01',['grandchild'],bn:00041350n,"[grandchild, granddaughter, grandson, grandchildren, child's_child, child_of_a_child, child_of_child, granddaughters, grandsons, grandaughter, grandkid, great-grandchildren, great-granddaughter, great-grandson]",A child of your son or daughter
+grandchildren,grandson,Gr;So,['Gr;Ch'],54,2,11,Test,male child of child,English,grandson,male grandchild,grandson.n.01',['grandson'],bn:00041364n,[grandson],A male grandchild
+grandchildren,granddaughter,Gr;Da,['Gr;Ch'],51,2,10,Test,female child of child,English,granddaughter,female grandchild,granddaughter.n.01',['granddaughter'],bn:00041351n,[granddaughter],A female grandchild
+grandchildren,son's son,So;So,"['So;Ch', 'Gr;So']",14,2,2,Test,male child of male child,Mandarin,孙子,儿子的儿子,-,-,-,-,-
+grandchildren,son's daughter,So;Da,"['So;Ch', 'Gr;Da']",11,1,2,Test,female child of male child,Mandarin,孙女,儿子的女儿,-,-,-,-,-
+grandchildren,daughter's son,Da;So,"['Da;Ch', 'Gr;So']",12,1,2,Test,male child of female child,Mandarin,外孙,女儿的儿子,-,-,-,-,-
+grandchildren,daughter's daughter,Da;Da,"['Da;Ch', 'Gr;Da']",12,1,2,Test,female child of female child,Mandarin,外孙女,女儿的女儿,-,-,-,-,-
+siblings,sibling,Sb,-,16,2,2,Test,sibling,English,sibling,brother or sister,sibling.n.01',"['sibling', 'sib']",bn:00071400n,"[sibling, sib, uterine_brother, maternal_half_brother, siblings, brothers, sisters, adoptive_sibling, agnate_half-sister, agnate_sibling, br'er, brer, bros., foster_sibling, foster_sister, full_sibling, full_siblings, half-brothers, half-sibling, half-siblings, half-sibs, half-sisters, half_brothers, half_sibling, half_siblings, half_sisters, halfbrother, halfbrothers, halfsister, halfsisters, milk_siblings, mixed_family, sibbling, sibilings, sista, sistas, sisters_and_brothers, ssiters, uterine_half-brother, uterine_half-sister, uterine_siblings]",A person's brother or sister
+siblings,brother,Br,['Sb'],134,4,17,Test,male sibling,English,brother,males with the same parents as you,brother.n.01',"['brother', 'blood_brother']",bn:00011357n,"[brother, blood_brother, brothers, brothas]",A male with the same parents as someone else
+siblings,sister,Ss,['Sb'],134,4,13,Test,female sibling,English,sister,females with the same parents as you,sister.n.01',"['sister', 'sis']",bn:00071838n,"[sister, sis]",A female person who has the same parents as another person
+siblings,elder sibling,El;Sb,['Sb'],6,0,1,Test,elder sibling,Hungarian,nagytestvér,idősebb testvér vagy idősebb nővér,-,-,-,-,-
+siblings,younger sibling,Yn;Sb,['Sb'],16,0,2,Test,younger sibling,Korean,동생,남동생이나여동생,-,-,-,-,-
+siblings,elder brother,El;Br,"['Br', 'El;Sb']",46,3,7,Test,elder male sibling,Mandarin,哥哥,更年长的兄弟,big_brother.n.02',['big_brother'],bn:00010305n,[big_brother],An older brother
+siblings,elder sister,El;Ss,"['Ss', 'El;Sb']",38,2,6,Test,elder female sibling,Mandarin,姐姐,更年长的姐妹,big_sister.n.01',['big_sister'],bn:00010322n,[big_sister],An older sister
+siblings,younger brother,Yn;Br,"['Br', 'Yn;Sb']",31,2,6,Test,younger male sibling,Mandarin,弟弟,更年幼的兄弟,little_brother.n.01',['little_brother'],bn:00051580n,[little_brother],A younger brother
+siblings,younger sister,Yn;Ss,"['Ss', 'Yn;Sb']",25,1,6,Test,younger female sibling,Mandarin,妹妹,更年轻的姐妹,little_sister.n.01',['little_sister'],bn:00051596n,[little_sister],A younger sister
+uncles and aunts,uncle,Pa;Br,['Pa;Sb'],75,1,12,Test,male sibling of parent,English,uncle,brother of your father or mother,uncle.n.01',['uncle'],bn:00078951n,"[uncle, brother-in-law_of_parent, brother_of_parent, parent's_brother, parent's_brother-in-law, father's_brother, grand-uncle, grand_uncle, great-grand-uncle, great-granduncle, great-uncles, great_uncle, greatuncle, half-uncle, oncle, str?c, uncle-in-law, uncles]",The brother of your father or mother; the husband of your aunt
+uncles and aunts,aunt,Pa;Ss,['Pa;Sb'],72,1,11,Test,female sibling of parent,English,aunt,sister of your father or mother,aunt.n.01',"['aunt', 'auntie', 'aunty']",bn:00007182n,"[aunt, auntie, aunty, paternal_aunt, aunt-in-law, aunt_by_marriage, great-aunt, father's_sister, parent's_sister, parent's_sister-in-law, sister-in-law_of_parent, sister_of_parent, aunties, aunts, grand-aunt, grand_aunt, great-grand-aunt, great-grandaunt, great_aunt, greataunt, praternal_aunt]",The sister of your father or mother; the wife of your uncle
+uncles and aunts,paternal uncle,Fa;Br,"['Fa;Sb', 'Pa;Br']",23,1,6,Test,male sibling of male parent,Polish,stryjek,wujka ze strony ojca,-,-,bn:15864600n,"[paternal_uncle, father's_brother]",братът на бащата по отношение на децата на последния
+uncles and aunts,maternal uncle,Mo;Br,"['Mo;Sb', 'Pa;Br']",32,3,6,Test,male sibling of female parent,Mandarin,舅舅,妈妈的兄弟,-,-,bn:05714907n,"[maternal_uncle, mother's_brother, mothers_brother]",Mother's brother
+uncles and aunts,paternal aunt,Fa;Ss,"['Fa;Sb', 'Pa;Ss']",33,3,6,Test,female sibling of male parent,Mandarin,姑姑,爸爸的姐妹,-,-,-,-,-
+uncles and aunts,maternal aunt,Mo;Ss,"['Mo;Sb', 'Pa;Ss']",25,2,4,Test,female sibling of female parent,Mandarin,姨妈,妈妈的姐妹,-,-,bn:09175695n,"[maternal_aunt, mother's_sister, sister_of_mother]",Mother's sister
+uncles and aunts,father's elder brother,Fa;El;Br,"['Fa;Br', 'Fa;El;Sb', 'Pa;El;Br']",11,1,3,Test,elder male sibling of male parent,Mandarin,伯伯,爸爸的哥哥,-,-,-,-,-
+uncles and aunts,father's younger brother,Fa;Yn;Br,"['Fa;Br', 'Fa;Yn;Sb', 'Pa;Yn;Br']",10,1,1,Test,younger male sibling of male parent,Mandarin,叔叔,爸爸的弟弟,-,-,-,-,-
+nephews and nieces,nibling,Sb;Ch,-,9,0,1,Test,child of sibling,Turkish,yeğen,erkek veya kız kardeşinizin çocuğu,-,-,bn:27269304n,"[niece_and_nephew, niece_or_nephew, nephew_and_niece, nephew_or_niece, child_of_a_sibling, child_of_sibling, nephews_and_nieces, nibling, nieces_and_nephews, sibling's_child, co-nephew-in-law, co-niece-in-law, cousin-grandnephew, cousin-nephew, fraternal_nephew, fraternal_niece, grandnephew_and_grandniece, grandniece_and_grandnephew, niblings, nieble, sororal_nephew, sororal_niece]","In the lineal kinship system used in the English-speaking world, a niece or nephew is a child of an individual's sibling or sibling-in-law."
+nephews and nieces,nephew,Sb;So,['Sb;Ch'],43,1,8,Test,male child of sibling,English,nephew,son of your brother or sister,nephew.n.01',['nephew'],bn:00057287n,"[nephew, sororal_niece_or_nephew, child_of_a_sister, child_of_sister, male_nibling, nephews, sibling's_son, sister's_child, son_of_a_sibling, son_of_sibling, sororal_nephew_or_niece, sororal_nibling]",A son of your brother or sister
+nephews and nieces,niece,Sb;Da,['Sb;Ch'],43,1,8,Test,female child of sibling,English,niece,daughter of your brother or sister,niece.n.01',['niece'],bn:00057650n,"[niece, nephew, sororal_niece_or_nephew, child_of_a_sister, child_of_sister, male_nibling, nephews, sibling's_son, sister's_child, son_of_a_sibling, son_of_sibling, sororal_nephew_or_niece, sororal_nibling]",A daughter of your brother or sister
+nephews and nieces,brother's son,Br;So,"['Br;Ch', 'Sb;So']",21,1,5,Test,male child of male sibling,Mandarin,侄子,兄弟的儿子,-,-,-,-,-
+nephews and nieces,brother's daughter,Br;Da,"['Br;Ch', 'Sb;Da']",21,1,5,Test,female child of male sibling,Mandarin,侄女,兄弟的女儿,-,-,-,-,-
+nephews and nieces,sister's son,Ss;So,"['Ss;Ch', 'Sb;So']",23,1,7,Test,male child of female sibling,Mandarin,外甥,姐妹的儿子,-,-,-,-,-
+nephews and nieces,sister's daughter,Ss;Da,"['Ss;Ch', 'Sb;Da']",23,2,5,Test,female child of female sibling,Mandarin,甥女,姐妹的女儿,-,-,-,-,-
+cousins,cousin,Pa;Sb;Ch,-,13,1,2,Test,child of sibling of parent,English,cousin,child of your aunt or uncle,cousin.n.01',"['cousin', 'first_cousin', 'cousin-german', 'full_cousin']",bn:00023333n,"[cousin, first_cousin, cousin-german, full_cousin, child_of_a_sibling,_aunt_or_uncle, male_first_cousin, non-pure_masculine_cousin, 1st_cousin, child_of_an_aunt, child_of_an_uncle, child_of_an_uncle/aunt, child_of_an_uncle_or_aunt, child_of_aunt, child_of_uncle, child_of_uncle/aunt, child_of_uncle_or_aunt, cousin_brother, cousin_german, cuz, cuzzy, kuzynka, ξ?δερφ?, 1st_cousin_once_removed, 2nd_cousin, 2nd_cousin_once_removed, 3rd_cousin, 3rd_cousin_once_removed, 4th_cousin, 4th_cousin_once_removed, 5th_cousin, 5th_cousin_once_removed, 6th_cousin, 6th_cousin_once_removed, 7th_cousin, 7th_cousin_once_removed, 8th_cousin, 8th_cousin_once_removed, 9th_cousin, 9th_cousin_once_removed, adversed, cousin,_once-removed, cousin,_once_removed, cousin,_twice-removed, cousin-in-law, cousin-once-removed, cousin-thrice-removed, cousin-twice-removed, cousin_in_law, cousin_once-removed, cousin_once_removed, cousin_removal, cousin_three_times_removed, cousin_thrice_removed, cousin_twice-removed, cousin_twice_removed, cousins, cousins-in-law, cousins_&_second_cousins, cousins_in_law, cousinship, double_cousin, double_cousins, double_first-cousins, double_first_cousin, double_first_cousins, eighth_cousin, eighth_cousin_once_removed, fifth_cousin, fifth_cousin_once_removed, first-degree_cousin, first_cousin,_once-removed, first_cousin,_once_removed, first_cousin_once-removed, first_cousin_once_removed, first_cousin_thrice_removed, first_cousins, first_cousins_once_removed, fourth_cousin, fourth_cousin_once_removed, half-cousin, half_cousin, law-cousin, law-cousins, law_cousin, law_cousins, ninth_cousin, ninth_cousin_once_removed, once-removed, once_removed, removed_cousin, second-cousin, second_aunt, second_cousin,_once-removed, second_cousin,_once_removed, second_cousin_once-removed, second_cousin_once_removed, second_cousin_twice_removed, second_cousins, second_nephew, second_niece, second_uncle, seventh_cousin, seventh_cousin_once_removed, sixth_cousin, sixth_cousin_once_removed, step-cousin, third_cousin, third_cousin,_once-removed, third_cousin,_once_removed, third_cousin_once-removed, third_cousin_once_removed, third_cousin_twice_removed]",The child of your aunt or uncle
+cousins,female cousin,Pa;Sb;Da,['Pa;Sb;Ch'],40,0,10,Test,female child of sibling of parent,Spanish,prima,hija de tía o tío,-,-,bn:05747733n,"[female_first_cousin, cousin_sister]",Female first degree cousin
+cousins,male cousin,Pa;Sb;So,['Pa;Sb;Ch'],41,0,9,Test,male child of sibling of parent,Spanish,primo,hijo de tía o tío,-,-,bn:12825519n,"[male_first_cousin, cousin_brother]",male first degree cousin
+cousins,elder male cousin,El;Pa;Sb;So,"['Pa;Sb;So', 'El;Pa;Sb;Ch']",8,0,3,Test,elder male child of sibling of parent,Japanese,従兄,年上の男性のいとこ,-,-,-,-,-
+cousins,elder female cousin,El;Pa;Sb;Da,"['Pa;Sb;Da', 'El;Pa;Sb;Ch']",8,0,3,Test,elder female child of sibling of parent,Japanese,従姉,年上の女性のいとこ,-,-,-,-,-
+cousins,younger male cousin,Yn;Pa;Sb;So,"['Pa;Sb;So', 'Yn;Pa;Sb;Ch']",4,0,1,Test,younger male child of sibling of parent,Japanese,従弟,年下の男性のいとこ,-,-,-,-,-
+cousins,younger female cousin,Yn;Pa;Sb;Da,"['Pa;Sb;Da', 'Yn;Pa;Sb;Ch']",4,0,1,Test,younger female child of sibling of parent,Japanese,従妹,年下の女性のいとこ,-,-,-,-,-
+cousins,child of father's brother,Fa;Br;Ch,"['Fa;Sb;Ch', 'Pa;Br;Ch']",1,0,0,Test,child of male sibling of male parent,Turkish,amcaçocuğu,babanın erkek kardeşinin çocuğu,-,-,-,-,-
+cousins,child of father's sister,Fa;Ss;Ch,"['Fa;Sb;Ch', 'Pa;Ss;Ch']",2,0,0,Test,child of female sibling of male parent,Turkish,halaçocuğu,babanın kız kardeşinin çocuğu,-,-,-,-,-
+cousins,child of mother's brother,Mo;Br;Ch,"['Mo;Sb;Ch', 'Pa;Br;Ch']",2,0,0,Test,child of male sibling of female parent,Turkish,dayıçocuğu,annenin erkek kardeşinin çocuğu,-,-,-,-,-
+cousins,child of mother's sister,Mo;Ss;Ch,"['Mo;Sb;Ch', 'Pa;Ss;Ch']",1,0,0,Test,child of female sibling of female parent,Turkish,teyzeçocuğu,annenin kız kardeşinin çocuğu,-,-,-,-,-
+cousins,son of parent's brother,Pa;Br;So,"['Pa;Br;Ch', 'Pa;Sb;So']",3,0,1,Test,male child of male sibling of parent,Estonian,onupoeg,lapsevanema venna poeg,-,-,-,-,-
+cousins,daughter of parent's brother,Pa;Br;Da,"['Pa;Br;Ch', 'Pa;Sb;Da']",3,0,1,Test,female child of male sibling of parent,Estonian,onutütar,lapsevanema venna tütar,-,-,-,-,-
+cousins,son of parent's sister,Pa;Ss;So,"['Pa;Ss;Ch', 'Pa;Sb;So']",3,0,1,Test,male child of female sibling of parent,Estonian,tädipoeg,lapsevanema õe poeg,-,-,-,-,-
+cousins,daughter of parent's sister,Pa;Ss;Da,"['Pa;Ss;Ch', 'Pa;Sb;Da']",3,0,1,Test,female child of female sibling of parent,Estonian,täditütar,lapsevanema õe tütar,-,-,-,-,-
+cousins,son of father's brother,Fa;Br;So,"['Fa;Br;Ch', 'Fa;Sb;So', 'Pa;Br;So']",5,1,3,Test,male child of male sibling of male parent,Persian,پسرعمو‎,پسر برادر پدر‎,-,-,-,-,-
+cousins,daughter of father's brother,Fa;Br;Da,"['Fa;Br;Ch', 'Fa;Sb;Da', 'Pa;Br;Da']",5,1,3,Test,female child of male sibling of male parent,Persian,دخترعمو‎,دختر برادر پدر‎,-,-,-,-,-
+cousins,son of father's sister,Fa;Ss;So,"['Fa;Ss;Ch', 'Fa;Sb;So', 'Pa;Ss;So']",6,1,3,Test,male child of female sibling of male parent,Persian,پسرعمه‎,پسر خواهر پدر‎,-,-,-,-,-
+cousins,daughter of father's sister,Fa;Ss;Da,"['Fa;Ss;Ch', 'Fa;Sb;Da', 'Pa;Ss;Da']",6,1,3,Test,female child of female sibling of male parent,Persian,دخترعمه‎,دختر خواهر پدر‎,-,-,-,-,-
+cousins,son of mother's brother,Mo;Br;So,"['Mo;Br;Ch', 'Mo;Sb;So', 'Pa;Br;So']",6,1,3,Test,male child of male sibling of female parent,Persian,پسردائی‎,پسر برادر مادر‎,-,-,-,-,-
+cousins,daughter of mother's brother,Mo;Br;Da,"['Mo;Br;Ch', 'Mo;Sb;Da', 'Pa;Br;Da']",6,1,3,Test,female child of male sibling of female parent,Persian,دختردائی‎,دختر برادر مادر‎,-,-,-,-,-
+cousins,son of mother's sister,Mo;Ss;So,"['Mo;Ss;Ch', 'Mo;Sb;So', 'Pa;Ss;So']",5,1,3,Test,male child of female sibling of female parent,Persian,پسرخاله‎,پسر خواهر مادر‎,-,-,-,-,-
+cousins,daughter of mother's sister,Mo;Ss;Da,"['Mo;Ss;Ch', 'Mo;Sb;Da', 'Pa;Ss;Da']",5,1,3,Test,female child of female sibling of female parent,Persian,دخترخاله‎,دختر خواهر مادر‎,-,-,-,-,-
+cousins,"elder, son of father's brother",El;Fa;Br;So,"['Fa;Br;So', 'El;Fa;Br;Ch', 'El;Fa;Sb;So', 'El;Pa;Br;So']",9,2,0,Test,elder male child of male sibling of male parent,Mandarin,堂哥,更年长的男性堂亲,-,-,-,-,-
+cousins,"younger, son of father's brother",Yn;Fa;Br;So,"['Fa;Br;So', 'Yn;Fa;Br;Ch', 'Yn;Fa;Sb;So', 'Yn;Pa;Br;So']",6,1,0,Test,younger male child of male sibling of male parent,Mandarin,堂弟,更年幼的男性堂亲,-,-,-,-,-
+cousins,"elder, daughter of father's brother",El;Fa;Br;Da,"['Fa;Br;Da', 'El;Fa;Br;Ch', 'El;Fa;Sb;Da', 'El;Pa;Br;Da']",7,2,0,Test,elder female child of male sibling of male parent,Mandarin,堂姐,更年长的女性堂亲,-,-,-,-,-
+cousins,"younger, daughter of father's brother",Yn;Fa;Br;Da,"['Fa;Br;Da', 'Yn;Fa;Br;Ch', 'Yn;Fa;Sb;Da', 'Yn;Pa;Br;Da']",5,1,0,Test,younger female child of male sibling of male parent,Mandarin,堂妹,更年轻的女性堂亲,-,-,-,-,-
+cousins,"elder, son of mother's sibling",El;Mo;Sb;So,"['Mo;Sb;So', 'El;Mo;Sb;Ch', 'El;Pa;Sb;So']",6,2,0,Test,elder male child of sibling of female parent,Mandarin,表哥,更年长的男性表亲,-,-,-,-,-
+cousins,"younger, son of mother's sibling",Yn;Mo;Sb;So,"['Mo;Sb;So', 'Yn;Mo;Sb;Ch', 'Yn;Pa;Sb;So']",4,1,0,Test,younger male child of sibling of female parent,Mandarin,表弟,更年轻的男性表亲,-,-,-,-,-
+cousins,"elder, daughter of mother's sibling",El;Mo;Sb;Da,"['Mo;Sb;Da', 'El;Mo;Sb;Ch', 'El;Pa;Sb;Da']",5,2,0,Test,elder female child of sibling of female parent,Mandarin,表姐,更年长的女性表亲,-,-,-,-,-
+cousins,"younger, daughter of mother's sibling",Yn;Mo;Sb;Da,"['Mo;Sb;Da', 'Yn;Mo;Sb;Ch', 'Yn;Pa;Sb;Da']",4,1,0,Test,younger female child of sibling of female parent,Mandarin,表妹,更年轻的女性表亲,-,-,-,-,-
+grandchildren,son's child,So;Ch,['Gr;Ch'],2,0,1,Rare,child of male child,-,-,-,-,-,-,-,-
+grandchildren,daughter's child,Da;Ch,['Gr;Ch'],2,0,1,Rare,child of female child,-,-,-,-,-,-,-,-
+uncles and aunts,auncle,Pa;Sb,-,3,0,0,Rare,sibling of parent,-,-,-,-,-,bn:14273304n,"[uncle_or_aunt, auncle, aunt/uncle, aunt_and_uncle, aunt_or_uncle, aunts_and_uncles, ommer, parent's_sibling, pibling, sibling_of_a_parent, sibling_of_parent, uncle/aunt, uncle_and_aunt, uncles_and_aunts]",Parent's sibling or parent's sibling-in-law
+uncles and aunts,father's sibling,Fa;Sb,['Pa;Sb'],3,0,1,Rare,sibling of male parent,-,-,-,-,-,-,-,-
+uncles and aunts,mother's sibling,Mo;Sb,['Pa;Sb'],2,0,1,Rare,sibling of female parent,-,-,-,-,-,-,-,-
+uncles and aunts,parent's elder brother,Pa;El;Br,"['Pa;Br', 'Pa;El;Sb']",2,0,0,Rare,elder male sibling of parent,-,-,-,-,-,-,-,-
+uncles and aunts,parent's elder sister,Pa;El;Ss,"['Pa;Ss', 'Pa;El;Sb']",3,0,0,Rare,elder female sibling of parent,-,-,-,-,-,-,-,-
+uncles and aunts,parent's younger brother,Pa;Yn;Br,"['Pa;Br', 'Pa;Yn;Sb']",1,0,0,Rare,younger male sibling of parent,-,-,-,-,-,-,-,-
+uncles and aunts,parent's younger sister,Pa;Yn;Ss,"['Pa;Ss', 'Pa;Yn;Sb']",1,0,0,Rare,younger female sibling of parent,-,-,-,-,-,-,-,-
+uncles and aunts,father's younger sibling,Fa;Yn;Sb,"['Fa;Sb', 'Pa;Yn;Sb']",1,0,0,Rare,younger sibling of male parent,-,-,-,-,-,-,-,-
+uncles and aunts,mother's younger sibling,Mo;Yn;Sb,"['Mo;Sb', 'Pa;Yn;Sb']",1,0,0,Rare,younger sibling of female parent,-,-,-,-,-,-,-,-
+uncles and aunts,father's elder sister,Fa;El;Ss,"['Fa;Ss', 'Fa;El;Sb', 'Pa;El;Ss']",1,0,0,Rare,elder female sibling of male parent,-,-,-,-,-,-,-,-
+uncles and aunts,father's younger sister,Fa;Yn;Ss,"['Fa;Ss', 'Fa;Yn;Sb', 'Pa;Yn;Ss']",2,0,0,Rare,younger female sibling of male parent,-,-,-,-,-,-,-,-
+uncles and aunts,mother's elder brother,Mo;El;Br,"['Mo;Br', 'Mo;El;Sb', 'Pa;El;Br']",1,0,0,Rare,elder male sibling of female parent,-,-,-,-,-,-,-,-
+uncles and aunts,mother's younger brother,Mo;Yn;Br,"['Mo;Br', 'Mo;Yn;Sb', 'Pa;Yn;Br']",1,0,0,Rare,younger male sibling of female parent,-,-,-,-,-,-,-,-
+uncles and aunts,mother's elder sister,Mo;El;Ss,"['Mo;Ss', 'Mo;El;Sb', 'Pa;El;Ss']",7,0,0,Rare,elder female sibling of female parent,-,-,-,-,-,-,-,-
+uncles and aunts,mother's younger sister,Mo;Yn;Ss,"['Mo;Ss', 'Mo;Yn;Sb', 'Pa;Yn;Ss']",8,0,0,Rare,younger female sibling of female parent,-,-,-,-,-,-,-,-
+nephews and nieces,brother's child,Br;Ch,['Sb;Ch'],3,0,1,Rare,child of male sibling,-,-,-,-,-,-,-,-
+nephews and nieces,sister's child,Ss;Ch,['Sb;Ch'],4,0,1,Rare,child of female sibling,-,-,-,-,-,-,-,-
+nephews and nieces,elder brother's child,El;Br;Ch,"['Br;Ch', 'El;Sb;Ch']",0,0,0,Rare,child of elder male sibling,-,-,-,-,-,-,-,-
+nephews and nieces,younger brother's child,Yn;Br;Ch,"['Br;Ch', 'Yn;Sb;Ch']",0,0,0,Rare,child of younger male sibling,-,-,-,-,-,-,-,-
+nephews and nieces,elder sister's child,El;Ss;Ch,"['Ss;Ch', 'El;Sb;Ch']",0,0,0,Rare,child of elder female sibling,-,-,-,-,-,-,-,-
+nephews and nieces,younger sister's child,Yn;Ss;Ch,"['Ss;Ch', 'Yn;Sb;Ch']",0,0,0,Rare,child of younger female sibling,-,-,-,-,-,-,-,-
+nephews and nieces,elder brother's son,El;Br;So,"['Br;So', 'El;Br;Ch', 'El;Sb;So']",2,0,0,Rare,male child of elder male sibling,-,-,-,-,-,-,-,-
+nephews and nieces,elder brother's daughter,El;Br;Da,"['Br;Da', 'El;Br;Ch', 'El;Sb;Da']",2,0,0,Rare,female child of elder male sibling,-,-,-,-,-,-,-,-
+nephews and nieces,younger brother's son,Yn;Br;So,"['Br;So', 'Yn;Br;Ch', 'Yn;Sb;So']",1,0,0,Rare,male child of younger male sibling,-,-,-,-,-,-,-,-
+nephews and nieces,younger brother's daughter,Yn;Br;Da,"['Br;Da', 'Yn;Br;Ch', 'Yn;Sb;Da']",1,0,0,Rare,female child of younger male sibling,-,-,-,-,-,-,-,-
+nephews and nieces,elder sister's son,El;Ss;So,"['Ss;So', 'El;Ss;Ch', 'El;Sb;So']",1,0,0,Rare,male child of elder female sibling,-,-,-,-,-,-,-,-
+nephews and nieces,elder sister's daughter,El;Ss;Da,"['Ss;Da', 'El;Ss;Ch', 'El;Sb;Da']",1,0,0,Rare,female child of elder female sibling,-,-,-,-,-,-,-,-
+nephews and nieces,younger sister's son,Yn;Ss;So,"['Ss;So', 'Yn;Ss;Ch', 'Yn;Sb;So']",1,0,0,Rare,male child of younger female sibling,-,-,-,-,-,-,-,-
+nephews and nieces,younger sister's daughter,Yn;Ss;Da,"['Ss;Da', 'Yn;Ss;Ch', 'Yn;Sb;Da']",1,0,0,Rare,female child of younger female sibling,-,-,-,-,-,-,-,-
+cousins,elder cousin,El;Pa;Sb;Ch,['Pa;Sb;Ch'],1,0,0,Rare,elder child of sibling of parent,-,-,-,-,-,-,-,-
+cousins,younger cousin,Yn;Pa;Sb;Ch,['Pa;Sb;Ch'],4,0,1,Rare,younger child of sibling of parent,-,-,-,-,-,-,-,-
+cousins,child of father's sibling,Fa;Sb;Ch,['Pa;Sb;Ch'],0,0,0,Rare,child of sibling of male parent,-,-,-,-,-,-,-,-
+cousins,child of mother's sibling,Mo;Sb;Ch,['Pa;Sb;Ch'],0,0,0,Rare,child of sibling of female parent,-,-,-,-,-,-,-,-
+cousins,child of parent's brother,Pa;Br;Ch,['Pa;Sb;Ch'],1,0,0,Rare,child of male sibling of parent,-,-,-,-,-,-,-,-
+cousins,child of parent's sister,Pa;Ss;Ch,['Pa;Sb;Ch'],1,0,0,Rare,child of female sibling of parent,-,-,-,-,-,-,-,-
+cousins,son of mother's sibling,Mo;Sb;So,"['Mo;Sb;Ch', 'Pa;Sb;So']",0,0,0,Rare,male child of sibling of female parent,-,-,-,-,-,-,-,-
+cousins,daughter of mother's sibling,Mo;Sb;Da,"['Mo;Sb;Ch', 'Pa;Sb;Da']",0,0,0,Rare,female child of sibling of female parent,-,-,-,-,-,-,-,-
+cousins,"elder, son of father's sister",El;Fa;Ss;So,"['Fa;Ss;So', 'El;Fa;Ss;Ch', 'El;Fa;Sb;So', 'El;Pa;Ss;So']",8,2,0,Rare,elder male child of female sibling of male parent,-,-,-,-,-,-,-,-
+cousins,"younger, son of father's sister",Yn;Fa;Ss;So,"['Fa;Ss;So', 'Yn;Fa;Ss;Ch', 'Yn;Fa;Sb;So', 'Yn;Pa;Ss;So']",6,1,0,Rare,younger male child of female sibling of male parent,-,-,-,-,-,-,-,-
+cousins,"elder, daughter of father's sister",El;Fa;Ss;Da,"['Fa;Ss;Da', 'El;Fa;Ss;Ch', 'El;Fa;Sb;Da', 'El;Pa;Ss;Da']",7,2,0,Rare,elder female child of female sibling of male parent,-,-,-,-,-,-,-,-
+cousins,"younger, daughter of father's sister",Yn;Fa;Ss;Da,"['Fa;Ss;Da', 'Yn;Fa;Ss;Ch', 'Yn;Fa;Sb;Da', 'Yn;Pa;Ss;Da']",6,1,0,Rare,younger female child of female sibling of male parent,-,-,-,-,-,-,-,-
+cousins,"elder, son of mother's sister",El;Mo;Ss;So,"['Mo;Ss;So', 'El;Mo;Ss;Ch', 'El;Mo;Sb;So', 'El;Pa;Ss;So']",2,0,0,Rare,elder male child of female sibling of female parent,-,-,-,-,-,-,-,-
+cousins,"younger, son of mother's sister",Yn;Mo;Ss;So,"['Mo;Ss;So', 'Yn;Mo;Ss;Ch', 'Yn;Mo;Sb;So', 'Yn;Pa;Ss;So']",2,0,0,Rare,younger male child of female sibling of female parent,-,-,-,-,-,-,-,-
+cousins,"elder, daughter of mother's sister",El;Mo;Ss;Da,"['Mo;Ss;Da', 'El;Mo;Ss;Ch', 'El;Mo;Sb;Da', 'El;Pa;Ss;Da']",2,0,0,Rare,elder female child of female sibling of female parent,-,-,-,-,-,-,-,-
+cousins,"younger, daughter of mother's sister",Yn;Mo;Ss;Da,"['Mo;Ss;Da', 'Yn;Mo;Ss;Ch', 'Yn;Mo;Sb;Da', 'Yn;Pa;Ss;Da']",2,0,0,Rare,younger female child of female sibling of female parent,-,-,-,-,-,-,-,-
+cousins,"elder, son of mother's brother",El;Mo;Br;So,"['Mo;Br;So', 'El;Mo;Br;Ch', 'El;Mo;Sb;So', 'El;Pa;Br;So']",2,0,0,Rare,elder male child of male sibling of female parent,-,-,-,-,-,-,-,-
+cousins,"younger, son of mother's brother",Yn;Mo;Br;So,"['Mo;Br;So', 'Yn;Mo;Br;Ch', 'Yn;Mo;Sb;So', 'Yn;Pa;Br;So']",2,0,0,Rare,younger male child of male sibling of female parent,-,-,-,-,-,-,-,-
+cousins,"elder, daughter of mother's brother",El;Mo;Br;Da,"['Mo;Br;Da', 'El;Mo;Br;Ch', 'El;Mo;Sb;Da', 'El;Pa;Br;Da']",2,0,0,Rare,elder female child of male sibling of female parent,-,-,-,-,-,-,-,-
+cousins,"younger, daughter of mother's brother",Yn;Mo;Br;Da,"['Mo;Br;Da', 'Yn;Mo;Br;Ch', 'Yn;Mo;Sb;Da', 'Yn;Pa;Br;Da']",2,0,0,Rare,younger female child of male sibling of female parent,-,-,-,-,-,-,-,-
+cousins,father's sibling's son,Fa;Sb;So,"['Fa;Sb;Ch', 'Pa;Sb;So']",0,0,0,Rare,male child of sibling of male parent,-,-,-,-,-,-,-,-
+cousins,father's sibling's daughter,Fa;Sb;Da,"['Fa;Sb;Ch', 'Pa;Sb;Da']",0,0,0,Rare,female child of sibling of male parent,-,-,-,-,-,-,-,-
+grandparents,grandfather (male speaking),x;Gr;Fa,"['Gr;Fa', 'x;Gr;Pr']",0,0,0,SD,male parent of parent,-,-,-,-,-,-,-,-
+grandparents,grandfather (female speaking),o;Gr;Fa,"['Gr;Fa', 'o;Gr;Pr']",0,0,0,SD,male parent of parent,-,-,-,-,-,-,-,-
+grandparents,grandmother (male speaking),x;Gr;Mo,"['Gr;Mo', 'x;Gr;Pr']",0,0,0,SD,female parent of parent,-,-,-,-,-,-,-,-
+grandparents,grandmother (female speaking),o;Gr;Mo,"['Gr;Mo', 'o;Gr;Pr']",0,0,0,SD,female parent of parent,-,-,-,-,-,-,-,-
+grandparents,paternal grandfather (male speaking),x;Fa;Fa,"['Fa;Fa', 'x;Fa;Pr', 'x;Gr;Fa']",0,0,0,SD,male parent of male parent,-,-,-,-,-,-,-,-
+grandparents,paternal grandfather (female speaking),o;Fa;Fa,"['Fa;Fa', 'o;Fa;Pr', 'o;Gr;Fa']",0,0,0,SD,male parent of male parent,-,-,-,-,-,-,-,-
+grandparents,maternal grandmother (male speaking),x;Mo;Mo,"['Mo;Mo', 'x;Mo;Pr', 'x;Gr;Mo']",0,0,0,SD,female parent of female parent,-,-,-,-,-,-,-,-
+grandparents,maternal grandmother (female speaking),o;Mo;Mo,"['Mo;Mo', 'o;Mo;Pr', 'o;Gr;Mo']",0,0,0,SD,female parent of female parent,-,-,-,-,-,-,-,-
+grandchildren,grandchild (male speaking),x;Gr;Ch,['Gr;Ch'],1,0,0,SD,child of child,-,-,-,-,-,-,-,-
+grandchildren,grandchild (female speaking),o;Gr;Ch,['Gr;Ch'],1,0,0,SD,child of child,-,-,-,-,-,-,-,-
+grandchildren,grandson (male speaking),x;Gr;So,"['Gr;So', 'x;Gr;Ch']",0,0,0,SD,male child of child,-,-,-,-,-,-,-,-
+grandchildren,grandson (female speaking),o;Gr;So,"['Gr;So', 'o;Gr;Ch']",0,0,0,SD,male child of child,-,-,-,-,-,-,-,-
+grandchildren,granddaughter (male speaking),x;Gr;Da,"['Gr;Da', 'x;Gr;Ch']",0,0,0,SD,female child of child,-,-,-,-,-,-,-,-
+grandchildren,granddaughter (female speaking),o;Gr;Da,"['Gr;Da', 'o;Gr;Ch']",0,0,0,SD,female child of child,-,-,-,-,-,-,-,-
+grandchildren,son's child (male speaking),x;So;Ch,"['So;Ch', 'x;Gr;Ch']",0,0,0,SD,child of male child,-,-,-,-,-,-,-,-
+grandchildren,son's child (female speaking),o;So;Ch,"['So;Ch', 'o;Gr;Ch']",0,0,0,SD,child of male child,-,-,-,-,-,-,-,-
+grandchildren,daughter's child (male speaking),x;Da;Ch,"['Da;Ch', 'x;Gr;Ch']",0,0,0,SD,child of female child,-,-,-,-,-,-,-,-
+grandchildren,daughter's child (female speaking),o;Da;Ch,"['Da;Ch', 'o;Gr;Ch']",0,0,0,SD,child of female child,-,-,-,-,-,-,-,-
+grandchildren,son's son (male speaking),x;So;So,"['So;So', 'x;So;Ch', 'x;Gr;So']",0,0,0,SD,male child of male child,-,-,-,-,-,-,-,-
+grandchildren,son's son (female speaking),o;So;So,"['So;So', 'o;So;Ch', 'o;Gr;So']",0,0,0,SD,male child of male child,-,-,-,-,-,-,-,-
+grandchildren,son's daughter (male speaking),x;So;Da,"['So;Da', 'x;So;Ch', 'x;Gr;Da']",0,0,0,SD,female child of male child,-,-,-,-,-,-,-,-
+grandchildren,son's daughter (female speaking),o;So;Da,"['So;Da', 'o;So;Ch', 'o;Gr;Da']",0,0,0,SD,female child of male child,-,-,-,-,-,-,-,-
+grandchildren,daughter's son (male speaking),x;Da;So,"['Da;So', 'x;Da;Ch', 'x;Gr;So']",0,0,0,SD,male child of female child,-,-,-,-,-,-,-,-
+grandchildren,daughter's son (female speaking),o;Da;So,"['Da;So', 'o;Da;Ch', 'o;Gr;So']",0,0,0,SD,male child of female child,-,-,-,-,-,-,-,-
+grandchildren,daughter's daughter (male speaking),x;Da;Da,"['Da;Da', 'x;Da;Ch', 'x;Gr;Da']",0,0,0,SD,female child of female child,-,-,-,-,-,-,-,-
+grandchildren,daughter's daughter (female speaking),o;Da;Da,"['Da;Da', 'o;Da;Ch', 'o;Gr;Da']",0,0,0,SD,female child of female child,-,-,-,-,-,-,-,-
+siblings,brother (male speaking),x;Br,"['Br', 'x;Sb']",4,0,0,SD,male sibling,-,-,-,-,-,-,-,-
+siblings,brother (female speaking),o;Br,"['Br', 'o;Sb']",7,0,0,SD,male sibling,-,-,-,-,-,-,-,-
+siblings,sister (male speaking),x;Ss,"['Ss', 'x;Sb']",6,0,0,SD,female sibling,-,-,-,-,-,-,-,-
+siblings,sister (female speaking),o;Ss,"['Ss', 'o;Sb']",4,0,0,SD,female sibling,-,-,-,-,-,-,-,-
+siblings,elder brother (male speaking),x;El;Br,"['El;Br', 'x;Br', 'x;El;Sb']",7,0,0,SD,elder male sibling,-,-,-,-,-,-,-,-
+siblings,elder brother (female speaking),o;El;Br,"['El;Br', 'o;Br', 'o;El;Sb']",3,0,0,SD,elder male sibling,-,-,-,-,-,-,-,-
+siblings,elder sister (male speaking),x;El;Ss,"['El;Ss', 'x;Ss', 'x;El;Sb']",2,0,0,SD,elder female sibling,-,-,-,-,-,-,-,-
+siblings,elder sister (female speaking),o;El;Ss,"['El;Ss', 'o;Ss', 'o;El;Sb']",6,0,0,SD,elder female sibling,-,-,-,-,-,-,-,-
+siblings,younger brother (male speaking),x;Yn;Br,"['Yn;Br', 'x;Br', 'x;Yn;Sb']",4,0,0,SD,younger male sibling,-,-,-,-,-,-,-,-
+siblings,younger brother (female speaking),o;Yn;Br,"['Yn;Br', 'o;Br', 'o;Yn;Sb']",1,0,0,SD,younger male sibling,-,-,-,-,-,-,-,-
+siblings,younger sister (male speaking),x;Yn;Ss,"['Yn;Ss', 'x;Ss', 'x;Yn;Sb']",4,0,0,SD,younger female sibling,-,-,-,-,-,-,-,-
+siblings,younger sister (female speaking),o;Yn;Ss,"['Yn;Ss', 'o;Ss', 'o;Yn;Sb']",4,0,0,SD,younger female sibling,-,-,-,-,-,-,-,-
+uncles and aunts,uncle (male speaking),x;Pa;Br,"['Pa;Br', 'x;Pa;Sb']",0,0,0,SD,male sibling of parent,-,-,-,-,-,-,-,-
+uncles and aunts,uncle (female speaking),o;Pa;Br,"['Pa;Br', 'o;Pa;Sb']",0,0,0,SD,male sibling of parent,-,-,-,-,-,-,-,-
+uncles and aunts,aunt (male speaking),x;Pa;Ss,"['Pa;Ss', 'x;Pa;Sb']",0,0,0,SD,female sibling of parent,-,-,-,-,-,-,-,-
+uncles and aunts,aunt (female speaking),o;Pa;Ss,"['Pa;Ss', 'o;Pa;Sb']",0,0,0,SD,female sibling of parent,-,-,-,-,-,-,-,-
+uncles and aunts,maternal uncle (male speaking),x;Mo;Br,"['Mo;Br', 'x;Mo;Sb', 'x;Pa;Br']",0,0,0,SD,male sibling of female parent,-,-,-,-,-,-,-,-
+uncles and aunts,maternal uncle (female speaking),o;Mo;Br,"['Mo;Br', 'o;Mo;Sb', 'o;Pa;Br']",0,0,0,SD,male sibling of female parent,-,-,-,-,-,-,-,-
+uncles and aunts,paternal aunt (male speaking),x;Fa;Ss,"['Fa;Ss', 'x;Fa;Sb', 'x;Pa;Ss']",0,0,0,SD,female sibling of male parent,-,-,-,-,-,-,-,-
+uncles and aunts,paternal aunt (female speaking),o;Fa;Ss,"['Fa;Ss', 'o;Fa;Sb', 'o;Pa;Ss']",0,0,0,SD,female sibling of male parent,-,-,-,-,-,-,-,-
+nephews and nieces,brother's child (female speaking),o;Br;Ch,"['Br;Ch', 'o;Sb;Ch']",2,0,0,SD,child of male sibling,-,-,-,-,-,-,-,-
+nephews and nieces,sister's child (male speaking),x;Ss;Ch,"['Ss;Ch', 'x;Sb;Ch']",2,0,0,SD,child of female sibling,-,-,-,-,-,-,-,-
+nephews and nieces,brother's son (male speaking),x;Br;So,"['Br;So', 'x;Br;Ch', 'x;Sb;So']",1,0,0,SD,male child of male sibling,-,-,-,-,-,-,-,-
+nephews and nieces,brother's son (female speaking),o;Br;So,"['Br;So', 'o;Br;Ch', 'o;Sb;So']",1,0,0,SD,male child of male sibling,-,-,-,-,-,-,-,-
+nephews and nieces,brother's daughter (male speaking),x;Br;Da,"['Br;Da', 'x;Br;Ch', 'x;Sb;Da']",1,0,0,SD,female child of male sibling,-,-,-,-,-,-,-,-
+nephews and nieces,sister's son (male speaking),x;Ss;So,"['Ss;So', 'x;Ss;Ch', 'x;Sb;So']",1,0,0,SD,male child of female sibling,-,-,-,-,-,-,-,-
+nephews and nieces,sister's son (female speaking),o;Ss;So,"['Ss;So', 'o;Ss;Ch', 'o;Sb;So']",1,0,0,SD,male child of female sibling,-,-,-,-,-,-,-,-
+nephews and nieces,sister's daughter (female speaking),o;Ss;Da,"['Ss;Da', 'o;Ss;Ch', 'o;Sb;Da']",1,0,0,SD,female child of female sibling,-,-,-,-,-,-,-,-
+nephews and nieces,elder brother's child (male speaking),x;El;Br;Ch,"['El;Br;Ch', 'x;Br;Ch', 'x;El;Sb;Ch']",1,0,0,SD,child of elder male sibling,-,-,-,-,-,-,-,-
+nephews and nieces,younger brother's child (male speaking),x;Yn;Br;Ch,"['Yn;Br;Ch', 'x;Br;Ch', 'x;Yn;Sb;Ch']",1,0,0,SD,child of younger male sibling,-,-,-,-,-,-,-,-
+nephews and nieces,elder sister's child (female speaking),o;El;Ss;Ch,"['El;Ss;Ch', 'o;Ss;Ch', 'o;El;Sb;Ch']",1,0,0,SD,child of elder female sibling,-,-,-,-,-,-,-,-
+nephews and nieces,younger sister's child (female speaking),o;Yn;Ss;Ch,"['Yn;Ss;Ch', 'o;Ss;Ch', 'o;Yn;Sb;Ch']",1,0,0,SD,child of younger female sibling,-,-,-,-,-,-,-,-
+cousins,cousin (female speaking),o;Pa;Sb;Ch,['Pa;Sb;Ch'],1,0,0,SD,child of sibling of parent,-,-,-,-,-,-,-,-
+cousins,male cousin (male speaking),x;Pa;Sb;So,"['Pa;Sb;So', 'x;Pa;Sb;Ch']",1,0,0,SD,male child of sibling of parent,-,-,-,-,-,-,-,-
+cousins,male cousin (female speaking),o;Pa;Sb;So,"['Pa;Sb;So', 'o;Pa;Sb;Ch']",1,0,0,SD,male child of sibling of parent,-,-,-,-,-,-,-,-
+cousins,female cousin (male speaking),x;Pa;Sb;Da,"['Pa;Sb;Da', 'x;Pa;Sb;Ch']",2,0,0,SD,female child of sibling of parent,-,-,-,-,-,-,-,-
+cousins,elder male cousin (male speaking),x;El;Pa;Sb;So,"['El;Pa;Sb;So', 'x;Pa;Sb;So', 'x;El;Pa;Sb;Ch']",1,0,0,SD,elder male child of sibling of parent,-,-,-,-,-,-,-,-
+cousins,elder female cousin (female speaking),o;El;Pa;Sb;Da,"['El;Pa;Sb;Da', 'o;Pa;Sb;Da', 'o;El;Pa;Sb;Ch']",1,0,0,SD,elder female child of sibling of parent,-,-,-,-,-,-,-,-
+cousins,younger male cousin (male speaking),x;Yn;Pa;Sb;So,"['Yn;Pa;Sb;So', 'x;Pa;Sb;So', 'x;Yn;Pa;Sb;Ch']",2,0,0,SD,younger male child of sibling of parent,-,-,-,-,-,-,-,-
+cousins,younger female cousin (female speaking),o;Yn;Pa;Sb;Da,"['Yn;Pa;Sb;Da', 'o;Pa;Sb;Da', 'o;Yn;Pa;Sb;Ch']",2,0,0,SD,younger female child of sibling of parent,-,-,-,-,-,-,-,-
+cousins,son of father's brother (male speaking),x;Fa;Br;So,"['Fa;Br;So', 'x;Fa;Br;Ch', 'x;Fa;Sb;So', 'x;Pa;Br;So']",1,0,0,SD,male child of male sibling of male parent,-,-,-,-,-,-,-,-
+cousins,son of father's brother (female speaking),o;Fa;Br;So,"['Fa;Br;So', 'o;Fa;Br;Ch', 'o;Fa;Sb;So', 'o;Pa;Br;So']",1,0,0,SD,male child of male sibling of male parent,-,-,-,-,-,-,-,-
+cousins,daughter of father's brother (male speaking),x;Fa;Br;Da,"['Fa;Br;Da', 'x;Fa;Br;Ch', 'x;Fa;Sb;Da', 'x;Pa;Br;Da']",1,0,0,SD,female child of male sibling of male parent,-,-,-,-,-,-,-,-
+cousins,daughter of father's brother (female speaking),o;Fa;Br;Da,"['Fa;Br;Da', 'o;Fa;Br;Ch', 'o;Fa;Sb;Da', 'o;Pa;Br;Da']",1,0,0,SD,female child of male sibling of male parent,-,-,-,-,-,-,-,-
+cousins,son of mother's sister (male speaking),x;Mo;Ss;So,"['Mo;Ss;So', 'x;Mo;Ss;Ch', 'x;Mo;Sb;So', 'x;Pa;Ss;So']",1,0,0,SD,male child of female sibling of female parent,-,-,-,-,-,-,-,-
+cousins,son of mother's sister (female speaking),o;Mo;Ss;So,"['Mo;Ss;So', 'o;Mo;Ss;Ch', 'o;Mo;Sb;So', 'o;Pa;Ss;So']",1,0,0,SD,male child of female sibling of female parent,-,-,-,-,-,-,-,-
+cousins,daughter of mother's sister (male speaking),x;Mo;Ss;Da,"['Mo;Ss;Da', 'x;Mo;Ss;Ch', 'x;Mo;Sb;Da', 'x;Pa;Ss;Da']",1,0,0,SD,female child of female sibling of female parent,-,-,-,-,-,-,-,-
+cousins,daughter of mother's sister (female speaking),o;Mo;Ss;Da,"['Mo;Ss;Da', 'o;Mo;Ss;Ch', 'o;Mo;Sb;Da', 'o;Pa;Ss;Da']",1,0,0,SD,female child of female sibling of female parent,-,-,-,-,-,-,-,-
+uncles and aunts,elder sibling of parent,Pa;El;Sb,['Pa;Sb'],0,0,0,NEW,elder sibling of parent,-,-,-,-,-,-,-,-
+uncles and aunts,younger sibling of parent,Pa;Yn;Sb,['Pa;Sb'],0,0,0,NEW,younger sibling of parent,-,-,-,-,-,-,-,-
+uncles and aunts,elder sibling of male parent,Fa;El;Sb,"['Fa;Sb', 'Pa;El;Sb']",0,0,0,NEW,elder sibling of male parent,-,-,-,-,-,-,-,-
+uncles and aunts,elder sibling of female parent,Mo;El;Sb,"['Mo;Sb', 'Pa;El;Sb']",0,0,0,NEW,elder sibling of female parent,-,-,-,-,-,-,-,-
+nephews and nieces,child of elder sibling,El;Sb;Ch,['Sb;Ch'],0,0,0,NEW,child of elder sibling,-,-,-,-,-,-,-,-
+nephews and nieces,child of younger sibling,Yn;Sb;Ch,['Sb;Ch'],0,0,0,NEW,child of younger sibling,-,-,-,-,-,-,-,-
+nephews and nieces,male child of elder sibling,El;Sb;So,"['Sb;So', 'El;Sb;Ch']",0,0,0,NEW,male child of elder sibling,-,-,-,-,-,-,-,-
+nephews and nieces,male child of younger sibling,Yn;Sb;So,"['Sb;So', 'Yn;Sb;Ch']",0,0,0,NEW,male child of younger sibling,-,-,-,-,-,-,-,-
+nephews and nieces,female child of elder sibling,El;Sb;Da,"['Sb;Da', 'El;Sb;Ch']",0,0,0,NEW,female child of elder sibling,-,-,-,-,-,-,-,-
+nephews and nieces,female child of younger sibling,Yn;Sb;Da,"['Sb;Da', 'Yn;Sb;Ch']",0,0,0,NEW,female child of younger sibling,-,-,-,-,-,-,-,-
+cousins,elder child of male sibling of parent,El;Pa;Br;Ch,"['Pa;Br;Ch', 'El;Pa;Sb;Ch']",0,0,0,NEW,elder child of male sibling of parent,-,-,-,-,-,-,-,-
+cousins,younger child of male sibling of parent,Yn;Pa;Br;Ch,"['Pa;Br;Ch', 'Yn;Pa;Sb;Ch']",0,0,0,NEW,younger child of male sibling of parent,-,-,-,-,-,-,-,-
+cousins,elder child of female sibling of parent,El;Pa;Ss;Ch,"['Pa;Ss;Ch', 'El;Pa;Sb;Ch']",0,0,0,NEW,elder child of female sibling of parent,-,-,-,-,-,-,-,-
+cousins,younger child of female sibling of parent,Yn;Pa;Ss;Ch,"['Pa;Ss;Ch', 'Yn;Pa;Sb;Ch']",0,0,0,NEW,younger child of female sibling of parent,-,-,-,-,-,-,-,-
+cousins,elder male child of male sibling of parent,El;Pa;Br;So,"['Pa;Br;So', 'El;Pa;Br;Ch', 'El;Pa;Sb;So']",0,0,0,NEW,elder male child of male sibling of parent,-,-,-,-,-,-,-,-
+cousins,younger female child of male sibling of parent,Yn;Pa;Br;Da,"['Pa;Br;Da', 'Yn;Pa;Br;Ch', 'Yn;Pa;Sb;Da']",0,0,0,NEW,younger female child of male sibling of parent,-,-,-,-,-,-,-,-
+cousins,elder female child of male sibling of parent,El;Pa;Br;Da,"['Pa;Br;Da', 'El;Pa;Br;Ch', 'El;Pa;Sb;Da']",0,0,0,NEW,elder female child of male sibling of parent,-,-,-,-,-,-,-,-
+cousins,younger male child of male sibling of parent,Yn;Pa;Br;So,"['Pa;Br;So', 'Yn;Pa;Br;Ch', 'Yn;Pa;Sb;So']",0,0,0,NEW,younger male child of male sibling of parent,-,-,-,-,-,-,-,-
+cousins,elder male child of female sibling of parent,El;Pa;Ss;So,"['Pa;Ss;So', 'El;Pa;Ss;Ch', 'El;Pa;Sb;So']",0,0,0,NEW,elder male child of female sibling of parent,-,-,-,-,-,-,-,-
+cousins,younger male child of female sibling of parent,Yn;Pa;Ss;So,"['Pa;Ss;So', 'Yn;Pa;Ss;Ch', 'Yn;Pa;Sb;So']",0,0,0,NEW,younger male child of female sibling of parent,-,-,-,-,-,-,-,-
+cousins,elder female child of female sibling of parent,El;Pa;Ss;Da,"['Pa;Ss;Da', 'El;Pa;Ss;Ch', 'El;Pa;Sb;Da']",0,0,0,NEW,elder female child of female sibling of parent,-,-,-,-,-,-,-,-
+cousins,younger female child of female sibling of parent,Yn;Pa;Ss;Da,"['Pa;Ss;Da', 'Yn;Pa;Ss;Ch', 'Yn;Pa;Sb;Da']",0,0,0,NEW,younger female child of female sibling of parent,-,-,-,-,-,-,-,-
+cousins,elder child of sibling of male parent,El;Fa;Sb;Ch,"['Fa;Sb;Ch', 'El;Pa;Sb;Ch']",0,0,0,NEW,elder child of sibling of male parent,-,-,-,-,-,-,-,-
+cousins,younger child of sibling of male parent,Yn;Fa;Sb;Ch,"['Fa;Sb;Ch', 'Yn;Pa;Sb;Ch']",0,0,0,NEW,younger child of sibling of male parent,-,-,-,-,-,-,-,-
+cousins,elder child of sibling of female parent,El;Mo;Sb;Ch,"['Mo;Sb;Ch', 'El;Pa;Sb;Ch']",0,0,0,NEW,elder child of sibling of female parent,-,-,-,-,-,-,-,-
+cousins,younger child of sibling of female parent,Yn;Mo;Sb;Ch,"['Mo;Sb;Ch', 'Yn;Pa;Sb;Ch']",0,0,0,NEW,younger child of sibling of female parent,-,-,-,-,-,-,-,-
+cousins,elder male child of sibling of male parent,El;Fa;Sb;So,"['Fa;Sb;So', 'El;Fa;Sb;Ch', 'El;Pa;Sb;So']",0,0,0,NEW,elder male child of sibling of male parent,-,-,-,-,-,-,-,-
+cousins,younger male child of sibling of male parent,Yn;Fa;Sb;So,"['Fa;Sb;So', 'Yn;Fa;Sb;Ch', 'Yn;Pa;Sb;So']",0,0,0,NEW,younger male child of sibling of male parent,-,-,-,-,-,-,-,-
+cousins,elder female child of sibling of male parent,El;Fa;Sb;Da,"['Fa;Sb;Da', 'El;Fa;Sb;Ch', 'El;Pa;Sb;Da']",0,0,0,NEW,elder female child of sibling of male parent,-,-,-,-,-,-,-,-
+cousins,younger female child of sibling of male parent,Yn;Fa;Sb;Da,"['Fa;Sb;Da', 'Yn;Fa;Sb;Ch', 'Yn;Pa;Sb;Da']",0,0,0,NEW,younger female child of sibling of male parent,-,-,-,-,-,-,-,-
+cousins,elder child of male sibling of male parent,El;Fa;Br;Ch,"['Fa;Br;Ch', 'El;Fa;Sb;Ch', 'El;Pa;Br;Ch']",0,0,0,NEW,elder child of male sibling of male parent,-,-,-,-,-,-,-,-
+cousins,younger child of male sibling of male parent,Yn;Fa;Br;Ch,"['Fa;Br;Ch', 'Yn;Fa;Sb;Ch', 'Yn;Pa;Br;Ch']",0,0,0,NEW,younger child of male sibling of male parent,-,-,-,-,-,-,-,-
+cousins,elder child of male sibling of female parent,El;Mo;Br;Ch,"['Mo;Br;Ch', 'El;Mo;Sb;Ch', 'El;Pa;Br;Ch']",0,0,0,NEW,elder child of male sibling of female parent,-,-,-,-,-,-,-,-
+cousins,younger child of male sibling of female parent,Yn;Mo;Br;Ch,"['Mo;Br;Ch', 'Yn;Mo;Sb;Ch', 'Yn;Pa;Br;Ch']",0,0,0,NEW,younger child of male sibling of female parent,-,-,-,-,-,-,-,-
+cousins,elder child of female sibling of male parent,El;Fa;Ss;Ch,"['Fa;Ss;Ch', 'El;Fa;Sb;Ch', 'El;Pa;Ss;Ch']",0,0,0,NEW,elder child of female sibling of male parent,-,-,-,-,-,-,-,-
+cousins,younger child of female sibling of male parent,Yn;Fa;Ss;Ch,"['Fa;Ss;Ch', 'Yn;Fa;Sb;Ch', 'Yn;Pa;Ss;Ch']",0,0,0,NEW,younger child of female sibling of male parent,-,-,-,-,-,-,-,-
+cousins,elder child of female sibling of female parent,El;Mo;Ss;Ch,"['Mo;Ss;Ch', 'El;Mo;Sb;Ch', 'El;Pa;Ss;Ch']",0,0,0,NEW,elder child of female sibling of female parent,-,-,-,-,-,-,-,-
+cousins,younger child of female sibling of female parent,Yn;Mo;Ss;Ch,"['Mo;Ss;Ch', 'Yn;Mo;Sb;Ch', 'Yn;Pa;Ss;Ch']",0,0,0,NEW,younger child of female sibling of female parent,-,-,-,-,-,-,-,-
