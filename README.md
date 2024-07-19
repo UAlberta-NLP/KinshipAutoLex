@@ -1,5 +1,7 @@
 # KinshipAutoLex
-This repository is for the paper Translation-based Lexicalization Generation and Lexical Gap Detection: Application to Kinship Terms.
+This repository is for the paper Translation-based Lexicalization Generation and Lexical Gap Detection: Application to Kinship Terms. In *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*. Association for Computational Linguistics.
+
+[[Poster](https://github.com/UAlberta-NLP/KinshipAutoLex/blob/main/assets/poster.pdf)] [[Slides](https://github.com/UAlberta-NLP/KinshipAutoLex/blob/main/assets/slides.pdf)]
 
 ## Paper Information
 
