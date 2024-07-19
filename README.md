@@ -21,30 +21,26 @@ Python 3.9.12
 ## Resource
 
 The .csv file  "Integrated Resource.csv" is a comprehensive mapping resource with one kinship concept per row. 
-The columns are: Subdomain,	Concept,	Abbreviation,	
-Hypernyms,	All words,	Dev words,	Test words,	Category,	Auto gloss,	Seed language,
-Seed word,	Actual gloss,	WN synset ID,	WN synset,	BN synset ID,	BN synset, and WN/BN gloss
+The columns are: Subdomain, Concept, Abbreviation, Hypernyms, All words, Dev words, Test words, Category, Auto gloss, Seed language, Seed word, Actual gloss, WN synset ID, WN synset, BN synset ID, BN synset, and WN/BN gloss.
 
-
-## Programs
-
-### Source Code for Experiments
+## Source Code for Experiments
 
 This folder contains the implementation of the method described in the paper and a file to evaluate the results.
 The files in this folder allow you to replicate the experiment in Section 5 of our paper, to generate the results we reported in Table 3.
-#### Codes contained
 
-##### goolge_trans_method_cleaned.py
+### goolge_trans_method_cleaned.py
 
 This file contains the implementation of the method described in section 4 of the paper, in which the used translator is Google Translate.
 The output of this code is a ".txt" file in the "Results" folder.
 This code requires one additional package other than the default packages, googletrans==3.1.0a0
 This file takes 3 arguments.
-    + -l takes a string input that indicates the target language of this run
-    + -t takes a boolean input that indicates whether to use the prepared set of translations in the folder "Translation".
-    + -b takes a boolean input that indicates whether to use the prepared set of results of back translations in the folder "Translation".
+
+-l takes a string input that indicates the target language of this run.  
+-t takes a boolean input that indicates whether to use the prepared set of translations in the folder "Translation".  
+-b takes a boolean input that indicates whether to use the prepared set of results of back translations in the folder "Translation".
 
 The default target language is English, and the prepared translation and back-translation results will are not used by default.
+
 Sample run: 
 
 ```python
@@ -55,11 +51,12 @@ To replicate the results on the 13 languages we reported on the paper, other tha
 The remaining commands can be made by replacing "English" with the target language. 
 We reported our results on English, Spanish, Russian, French, German, Mandarin, Persian, Polish, Arabic,	Italian,	Mongolian, Hungarian and Hindi.   
 
-##### evaluate_cleaned_version.py
+### evaluate_cleaned_version.py
 This file contains the code to evaluate the results outputted by "goolge_trans_method_cleaned.py". 
 The output of this code is the Acc of LexGen and F1 Score of LexGap. 
 This file takes 1 argument.
-+ -l takes a string input that indicates the target language.
+
+-l takes a string input that indicates the target language.  
 
 The default target language is English.
 
@@ -70,14 +67,14 @@ python evaluate_cleaned_version.py -l English
 
 To evaluate the results on other languages, replace "English" in the sample run with the target language you want.
 
-
-### Generating All Concepts
+## Generating All Concepts
 This folder contains a Python file to generate all potential speaker's gender-unspecific concepts.
 The files in this folder allow you to generate the results we reported in Table 2.
 
-#### generating_all_concepts_edges.py
+### generating_all_concepts_edges.py
 The Python file to generate all potential speaker's gender-unspecific concepts, and the 2 outputted files are: "new_concepts" and "new_relations".
 This file can be run directly. 
+
 Sample run: 
 ```python
 python generating_all_concepts_edges.py
