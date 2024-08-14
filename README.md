@@ -91,5 +91,22 @@ The outputted file "new_relations" contains 3 columns: The subdomain of this edg
 
 ## BibTex
 ```bibtex
-    TODO
+@inproceedings{li-etal-2024-translation,
+    title = "Translation-based Lexicalization Generation and Lexical Gap Detection: Application to Kinship Terms",
+    author = "Li, Senyu  and
+      Hauer, Bradley  and
+      Shi, Ning  and
+      Kondrak, Grzegorz",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.acl-long.372",
+    pages = "6891--6900",
+    abstract = "Constructing lexicons with explicitly identified lexical gaps is a vital part of building multilingual lexical resources. Prior work has leveraged bilingual dictionaries and linguistic typologies for semi-automatic identification of lexical gaps. Instead, we propose a generally-applicable algorithmic method to automatically generate concept lexicalizations, which is based on machine translation and hypernymy relations between concepts. The absence of a lexicalization implies a lexical gap. We apply our method to kinship terms, which make a suitable case study because of their explicit definitions and regular structure. Empirical evaluations demonstrate that our approach yields higher accuracy than BabelNet and ChatGPT. Our error analysis indicates that enhancing the quality of translations can further improve the accuracy of our method.",
+}
 ```
